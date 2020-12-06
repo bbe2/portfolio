@@ -14,11 +14,11 @@ import pymongo
 import pandas as pd
 from bson.json_util import dumps  #from dn_fn.py for save & load to database
 
-CONSUMER_KEY = 'GFuEK46tIlJc3CAZBSOir4uzv'  #Brian Hogan twitter keys...
-CONSUMER_SECRET = 'sWsBF6S9EOPDsjgk38PcSYzTjwRO2WUndzV1x4fluBqg6lXJg2'
-OAUTH_TOKEN = '989685004832792578-39uSCgyuEhOYn0pfid4YFP27F5EfYnJ'
-OAUTH_SECRET = 'zRm1pwVBQOYX4b8Wrab0PjWeMCLGxyJVXfOoIMHRZxTK1'
-"""asynch 8.4 twitter login        from:===> twitter_login.py   """
+CONSUMER_KEY = 'GFuEK46tIlJc3CAZv'  #Brian  twitter keys...
+CONSUMER_SECRET = 'sWsBF6S9EOPDsjgk38PcSYzTjwRO2WU
+OAUTH_TOKEN = '989685004832792578-39uSCgyuEhOYn0pfid4Y
+OAUTH_SECRET = 'zRm1pwVBQOYX4b8Wrab0PjWeMCLGxyJVXfOoIM
+twitter_login.py   """
 def oauth_login():
   auth = tweepy.OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)
   auth.set_access_token(OAUTH_TOKEN,OAUTH_SECRET)
