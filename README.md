@@ -4,5 +4,5 @@
 >>>>> technical writing evidence
 >>>>>> technical curriculum development evidence
 >>>>>>> scientific editing evidence
->>>>>>>> references
+>>>>>>>> references and recommendations
 
