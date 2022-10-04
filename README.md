@@ -1,7 +1,7 @@
->> please select branches in submenu above readme to see a portfolio subsection
+>> please select branches in 3rd submenu from top see the following content sections
 >>> masters of science portfolio
 >>>> re-engineering evidence
->>>>> technical writing
->>>>>> technical curriculum development
+>>>>> technical writing evidence
+>>>>>> technical curriculum development evidence
 >>>>>>> writing samples
 >>>>>>>> references
