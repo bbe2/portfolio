@@ -1,7 +1,7 @@
 ----------
->>>> >>>> brian hogan portfolio branch main page
+>>>> brian hogan portfolio - subsection branch home page
 ----------
->> please select branches in 3rd submenu from top see the following content sections
+>> please select a branches in 4th submenu from top to view content for,
 >>> masters of science portfolio
 >>>> re-engineering evidence
 >>>>> technical writing evidence
