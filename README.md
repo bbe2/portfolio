@@ -4,6 +4,7 @@
 >>>>> technical writing evidence (manuals)
 >>>>>> technical curriculum development evidence
 >>>>>>> scientific editing evidence
->>>>>>>> volunteer
->>>>>>>>> references and recommendations
+>>>>>>>> Grow with Google - Advanced Data Analytics Coursera Certificate
+>>>>>>>>>volunteer
+>>>>>>>>>> references and recommendations
 
