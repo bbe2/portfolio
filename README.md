@@ -2,9 +2,8 @@
 >>> masters of science portfolio
 >>>> re-engineering practioner evidence
 >>>>> technical writing evidence (manuals)
->>>>>> technical curriculum development evidence
+>>>>>> technical curriculum development (including Grow with Google) evidence
 >>>>>>> scientific editing evidence
->>>>>>>> Grow with Google - Advanced Data Analytics Coursera Certificate
->>>>>>>>>volunteer
->>>>>>>>>> references and recommendations
+>>>>>>>>volunteer
+>>>>>>>>> references and recommendations
 
