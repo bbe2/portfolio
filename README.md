@@ -1,4 +1,4 @@
->> please select branches in submenu for a portfolio section
+>> please select branches in submenu above readme to see a portfolio subsection
 >>> masters of science portfolio
 >>>> re-engineering evidence
 >>>>> technical writing
