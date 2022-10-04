@@ -2,7 +2,7 @@
 >>> masters of science portfolio
 >>>> re-engineering practioner evidence
 >>>>> technical writing evidence (manuals)
->>>>>> technical curriculum development evidence (including Grow with Google)
+>>>>>> technical curriculum development and Grow with Google evidence
 >>>>>>> scientific editing evidence
 >>>>>>>>volunteer
 >>>>>>>>> references and recommendations
