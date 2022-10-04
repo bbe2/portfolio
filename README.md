@@ -3,6 +3,6 @@
 >>>> re-engineering practioner evidence
 >>>>> technical writing evidence
 >>>>>> technical curriculum development evidence
->>>>>>> writing samples
+>>>>>>> scientific editing evidence
 >>>>>>>> references
 
