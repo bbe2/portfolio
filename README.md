@@ -1,2 +1,2 @@
 >brian hogan
->>technical writing evidence
+>>technical writing evidence (manuals)
