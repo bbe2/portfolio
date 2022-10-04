@@ -1,4 +1,4 @@
->> please select a branch name in the 4th submenu from top to view evidence section
+>> please select a branch name in the 4th submenu with box --Main-- to view section
 >>> masters of science portfolio
 >>>> re-engineering practioner evidence
 >>>>> technical writing evidence (manuals)
