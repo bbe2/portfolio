@@ -3,5 +3,4 @@
 >>> technical curriculum development and Grow with Google evidence  
 >> full google test script and notebook above as items a and b  
 ------------
-
-![GwG_main](https://user-images.githubusercontent.com/59778456/193920445-5e82db83-a7a9-4c9d-adb5-884ae2956678.JPG)
+![GwG_main](https://user-images.githubusercontent.com/59778456/194031049-2a572256-d9f3-4a67-8053-3cd90de05704.JPG)
