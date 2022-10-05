@@ -1,4 +1,4 @@
-> to change portfolio page, please select dropbox on left in the 4th submenu above; this page is technical_curriculum
+> to change portfolio page, please select branch dropbox on left in the 4th submenu from top; this page is technical_curriculum
 >> brian hogan
 >>> technical curriculum development and Grow with Google evidence
 ------------
