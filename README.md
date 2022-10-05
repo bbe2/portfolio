@@ -1,4 +1,4 @@
-> to change portfolio page, please select branch dropbox on left in the 4th submenu from top; 
+> to change portfolio page, please select branch dropbox on left in the 4th submenu from top;   
 > this page is references and recommendations   
 >> brian hogan  
 >> references and recommendations  
