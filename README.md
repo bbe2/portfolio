@@ -1,5 +1,5 @@
-> to change portfolio page, please select branch dropbox on left in the 4th submenu from top
-> this page is technical writing evidence
+> to change portfolio page, please select branch dropbox on left in the 4th submenu from top  
+> this page is technical writing evidence  
 >> brian hogan  
 >>> technical writing evidence (manuals)  
 
