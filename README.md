@@ -5,7 +5,7 @@
 
 • Experienced technical curriculum developer and instructional designer.  
 
-• As a long-term information technology re-engineering practitioner, I combine industrial organizational principles with learning theories to create compelling learning experiences.  
+• Long-term information technology and business re-engineering practitioner combining industrial organizational principles with learning theories to implement diverse methods to create effective learning experiences.
 
 ---------
 > **INSTRUCTIONS:** Please select the '8 Branches' button in the 4th submenu to view:  
@@ -17,8 +17,7 @@
 >>>>>>> volunteer  
 >>>>>>>> references and recommendations  
 
-**Skills + Key offerings,**  
-> Apply principles and theory to implement diverse methods to focus learning media.  
->> Draw upon deep experience collaborating with technical staff to grok software.  
->>> Apply scientific editing training to ensure continuity and software constructs across scripts and media.  
->>>> Proven skills in partnering with leadership to intuit goals and perform a need analysis.  
+**Key offerings include,**  
+> Draw upon deep experience collaborating with technical staff to grok software.  
+>> Apply scientific editing training to ensure continuity and software constructs across scripts and media.  
+>>> Proven skills in partnering with leadership to intuit goals and perform a need analysis.  
