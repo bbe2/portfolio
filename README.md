@@ -8,7 +8,7 @@
 • As a long-term information technology re-engineering practitioner, I combine industrial organizational principles with learning theories to create compelling learning experiences.  
 
 ---------
-> INSTRUCTIONS: please select the'7 Branches' button in the 4th submenu to view  
+> INSTRUCTIONS: Please select the '8 Branches' button in the 4th submenu to view  
 >> masters of science portfolio  
 >>> re-engineering practitioner evidence  
 >>>> technical writing, including manuals  
