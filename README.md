@@ -1,5 +1,5 @@
 
-**Welcome! Thank you for your time and stopping by to browse my portfolio. ~brian hogan**  
+**Welcome! Thank you for your time and for stopping by to browse my portfolio. ~brian hogan**  
 
 **Summary**
 
@@ -20,12 +20,5 @@
 **Skills + Key offerings,**  
 > Apply principles and theory to implement diverse methods to focus learning media.  
 >> Draw upon deep experience collaborating with technical staff to grok software.  
->>> Apply scientific editing training across scripts and media to ensure continuity and software constructs.  
->>>> Proven skills in partnering with leadership to intuit goals and perform needs analysis.  
-
-
-• Apply principles and theory to implement diverse methods to focus learning media.  
-• Draw upon deep experience collaborating with technical staff to grok software.  
-• Apply scientific editing training across scripts and media to ensure continuity and software constructs. 
-• Proven skills in partnering with leadership to intuit goals and perform needs analysis.  
-
+>>> Apply scientific editing training to ensure continuity and software constructs across scripts and media.  
+>>>> Proven skills in partnering with leadership to intuit goals and perform a need analysis.  
