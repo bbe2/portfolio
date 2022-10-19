@@ -21,6 +21,8 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 >>>>>>> volunteer    
 >>>>>>>> code  
 >>>>>>>>> references and recommendations  
+
+
 **Key offerings include,**  
 > Draw upon deep experience collaborating with technical staff to grok software.  
 >> Apply scientific editing training to ensure continuity and software constructs across scripts and media.  
