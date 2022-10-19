@@ -3,9 +3,13 @@
 
 **Summary**
 
-• Experienced technical curriculum developer and instructional designer.  
-
-• Long-term information technology and business re-engineering practitioner combining industrial organizational principles with learning theories to implement diverse methods to create effective learning experiences.
+Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences that skills with retrieval strength. 
+ 
+**Key offerings include**
+• Proven skills in partnering with leadership to intuit goals and frame objectives from needs analysis outcomes.
+• Adept leadership and team communication while developing quality technical assets.
+• Draw upon deep research experiences and technical staff collaboration to grok software.
+• Apply scientific editing principles across assets ensuring syntax, semantics, and ontology.
 
 ---------
 > **INSTRUCTIONS:** Please select the '8 Branches' button in the 4th submenu to view:  
