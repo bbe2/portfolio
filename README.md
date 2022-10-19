@@ -12,7 +12,7 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 • Apply scientific editing principles across assets ensuring syntax, semantics, and ontology.  
 
 ---------
-> **INSTRUCTIONS:** Please select the '8 Branches' button in the 4th submenu to view:  
+> **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
 >> master of science portfolio  
 >>> re-engineering practitioner evidence  
 >>>> technical writing, including manuals  
