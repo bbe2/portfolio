@@ -18,9 +18,9 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 >>>> technical writing, including manuals  
 >>>>> technical curriculum development and Grow with Google portfolio  
 >>>>>> scientific editing evidence  
->>>>>>> volunteer  
->>>>>>>> references and recommendations  
-
+>>>>>>> volunteer    
+>>>>>>>> code  
+>>>>>>>>> references and recommendations  
 **Key offerings include,**  
 > Draw upon deep experience collaborating with technical staff to grok software.  
 >> Apply scientific editing training to ensure continuity and software constructs across scripts and media.  
