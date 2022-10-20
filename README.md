@@ -1,15 +1,20 @@
-
 **Welcome! Thank you for your time and for stopping by to browse my portfolio. ~brian hogan**  
 
 **Summary**
 
-Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences with retrieval strength.  
+Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences with retrieval strength. 
  
 **Key offerings include**  
-• Proven skills in partnering with leadership to intuit goals and frame objectives from needs analysis outcomes.  
-• Adept leadership and team communication while developing quality technical assets.  
-• Draw upon deep research experiences and technical staff collaboration to grok software.  
-• Apply scientific editing principles across assets ensuring syntax, semantics, and ontology.  
+> Passionate instructor focused on delivering quality in-person lectures.  
+>> Focused on developing a curriculum of tangible recall skills and practical analysis tools required for students of all disciplines to grok data transformation and calculations using Python or R software constructs.  
+>>> My compute curriculum strategy incorporates training smartly for fierce artificial intelligence and machine learning competence in the AI Megalosauruses of Google, AWS, and WastonAI cloud compute. Technologies of the new real make it necessary for learner survivability.  
+
+---------
+> Cooper_____:__ "CASE, get ready to match our spin with the retro thrusters."    
+>> CASE____:__ "It's not possible."  
+>> Cooper__:__ "No. It's necessary."  
+>>>> Michael  
+>>>> Hammer  "Don't automate, eliminate."  
 
 ---------
 > **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
@@ -20,10 +25,4 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 >>>>>> scientific editing evidence  
 >>>>>>> volunteer    
 >>>>>>>> code  
->>>>>>>>> references and recommendations  
-
-
-**Key offerings include,**  
-> Draw upon deep experience collaborating with technical staff to grok software.  
->> Apply scientific editing training to ensure continuity and software constructs across scripts and media.  
->>> Proven skills in partnering with leadership to intuit goals and perform a need analysis.  
+>>>>>>>>> references and recommendations 
