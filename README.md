@@ -6,4 +6,4 @@
 >>>>> full google test script and notebook above as items a and b  
 ------------
 
-![GwG_main](https://user-images.githubusercontent.com/59778456/194036019-e53fa1f0-ba2b-407e-9e8b-933ef2a63188.JPG)
+![gwg_git_main_page](https://user-images.githubusercontent.com/59778456/197065213-a74b7d01-9eb2-480a-9ae8-8eb88f0957ed.JPG)
