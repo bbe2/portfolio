@@ -1,4 +1,4 @@
-**Welcome! Thank you for your time and for stopping by to browse my portfolio. ~brian hogan**  
+**Welcome! Thank you for taking your time to learn more about my substance. ~brian hogan**  
 
 **Summary**
 
