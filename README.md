@@ -16,7 +16,7 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 • Interstellar, screenplay, p.122, 2014  
 COOPER  
 Get ready to match our spin with the retro-thrusters -  
-CASE  
+CASE <robot>  
 It's not possible -  
 Cooper  
 No. **It's necessary.**  
