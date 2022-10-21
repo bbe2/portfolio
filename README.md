@@ -1,20 +1,23 @@
 **Welcome! Thank you for taking your time to learn more about my substance. ~brian hogan**  
 
-**Summary**
+Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences with retrieval strength.
 
-Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences with retrieval strength. 
- 
 **Key offerings include**  
-> Passionate instructor who delivers quality in-person lectures.  
->> Focused on developing a curriculum of tangible recall skills and practical analysis tools required for students of all disciplines to grok data transformation and calculations using Python or R software constructs.  
->>> My compute curriculum strategy incorporates training smartly for fierce artificial intelligence and machine learning competence in the AI Megalosauruses of Google, AWS, and WastonAI cloud compute. Technologies of the new real make it necessary for learner survivability.  
+> Passionate instructor delivering quality in-person lectures to develop a student's theoretical and reengineering system mindset.  
+>> Develop student root skills in critical data transformation tasks with Python or R data structures.  
+>>> My curriculum strategy incorporates instruction for fierce compute in AI-Megalosauruses Google, AWS, and Waston cloud.  
+>>>> The technologies of the new real necessitate learner preparedness else risk sustainable employment.  
+>>>> 
+>>>> "Reengineering work: don't automate, obliterate." -Michael Hammer, computer science professor, 1990.  
 
 ---------
-> Cooper_____:__ "CASE, get ready to match our spin with the retro thrusters."    
->> CASE____:__ "It's not possible."  
->> Cooper__:__ "No. It's necessary."  
->>>> Michael  
->>>> Hammer  "Don't automate, eliminate."  
+• Interstellar (screenplay, p.122)  
+COOPER  
+Get ready to match our spin with the retro-thrusters -  
+CASE  
+It's not possible -  
+Cooper  
+No. It's necessary.  
 
 ---------
 > **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
