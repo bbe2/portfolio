@@ -1,6 +1,6 @@
 **Welcome! Thank you for taking your time to learn more about my substance. ~brian hogan**  
 
-Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences with retrieval strength.
+Please allow me to introduce myself. I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
 
 **Key offerings include**  
 • Proven skills in partnering with leaders to intuit goals and frame needs analysis objectives.  
