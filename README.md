@@ -13,13 +13,14 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 >>>> **"Reengineering work: don't automate, obliterate."** - Michael Hammer, computer science professor, 1990.  
 
 ---------
-• Interstellar, screenplay, p.122, 2014  
+**#Interstellar, screenplay, p.122, 2014**  
+
 COOPER (human)  
-Get ready to match our spin with the retro-thrusters -  
+-- Get ready to match our spin with the retro-thrusters -  
 CASE (robot)    
-It's not possible -  
+-- It's not possible.  
 Cooper  
-No. **It's necessary.**  
+-- No. **It's necessary.**  
 
 ---------
 > **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
