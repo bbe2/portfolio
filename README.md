@@ -7,7 +7,7 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 • Adept leadership and team communication while developing quality technical assets.  
 > Passionate instructor delivering quality in-person lectures to develop a student's theoretical and reengineering system mindset.  
 >> Develop student root skills in critical data transformation tasks with Python or R data structures.  
->>> My curriculum strategy incorporates instruction for fierce compute in AI-Megalosauruses Google, AWS, and Waston cloud.  
+>>> My curriculum strategy incorporates instruction for fierce compute in AI-Megalosauruses Google and AWS cloud.  
 >>>> The technologies of the new real necessitate learner preparedness else risk sustainable employment.  
 >>>> 
 >>>> **"Reengineering work: don't automate, obliterate."** - Michael Hammer, computer science professor, 1990.  
