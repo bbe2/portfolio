@@ -2,7 +2,6 @@
 >> this page is reengineering evidence.  
 >>> Thank you for your time visiting.  
 >>> brian hogan  
->>> re-engineering evidence  
 ---------
 
 **Project Manager and Consultant, ProModel, Orem, UT, 2008 – 2016**  
