@@ -8,7 +8,7 @@
 -------------
 ProModel modeling and simulation in defense, manufacturing, and pharma industries, including  
 • Needs analysis, solution design, C++ programming, technical writing, and curriculum development.  
-• Practical reengineering involving extensive system analysis and design, mapping new technology, and ripping out and adding in new technology.  
+• Practical reengineering involving extensive system analysis and design, mapping new technology, and ripping out for new technology.  
 • Leadership and project management of clients, specifications, and developers for project portfolios go, no go decision support, IACUC optimization, and clinical trials LSFV forecasting.  
 • Drafted and delivered one to two week intensive data science curriculum at Lockheed, NASA, Pfizer, and West Point.  
 
