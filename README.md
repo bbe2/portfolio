@@ -1,7 +1,7 @@
 > to change portfolio page, please select branch dropbox on left in the 4th submenu from top.
->> this page is reengineering evidence.  
->>> Thank you for your time visiting.  
+>> Thank you for your time visiting.  
 >>> brian hogan  
+>>> reeningeering evidence
 ---------
 
 **Project Manager and Consultant, ProModel, Orem, UT, 2008 – 2016**  
