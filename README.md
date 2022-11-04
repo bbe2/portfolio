@@ -11,7 +11,7 @@ Please allow me to introduce myself. I am a technical curriculum developer, inst
 **Key pedagogical offerings**
 >  A passionate practitioner, providing practical, practice-oriented instruction. 
 >> Develop student root skills in critical data transformation tasks with Python or R data structures.  
->>> My curriculum strategy incorporates instruction for fierce compute in AI-Megalosauruses Google and AWS cloud.  
+>>> My curriculum strategy accounts for the fierce compute of AI-Megalosauruses Google and AWS cloud.  
 >>>> Deliver curriculums with pace, agility, and activities learners love, such as designed data objects and data transformation modules to expedite learners' Python programming essentials with their Tweets, Facebook posts, or Shakespeare's corpus.  
 >>>>  
 >>>>> The technologies of the new real necessitate learner preparedness else risk sustainable employment.  
