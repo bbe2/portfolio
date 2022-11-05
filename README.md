@@ -13,5 +13,6 @@
 >>>>>>> volunteer  
 >>>>>>>> code
 >>>>>>>>> references and recommendations
+----------
 
-https://github.com/bbe2/portfolio/blob/code/7%20pillars.pdf
+![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
