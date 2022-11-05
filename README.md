@@ -39,5 +39,4 @@ Cooper
 >>>>>>>>> references and recommendations 
 --------------
 
-
-![object_lecture_notes](https://user-images.githubusercontent.com/59778456/199863660-77f6f8d2-97d4-4810-8088-7cced588c97d.JPG)
+![professors](https://user-images.githubusercontent.com/59778456/200138354-25571bf2-f905-4773-9c2d-8234ec7525ad.JPG)
