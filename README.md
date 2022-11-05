@@ -14,4 +14,4 @@
 >>>>>>>> code
 >>>>>>>>> references and recommendations
 
-[7 pillars.pdf](https://github.com/bbe2/portfolio/files/9942572/7.pillars.pdf)
+https://github.com/bbe2/portfolio/blob/code/7%20pillars.pdf
