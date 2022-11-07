@@ -1,8 +1,7 @@
-> to change portfolio page, please select branch dropbox on left in the 4th submenu from top  
-> Thank you for your time visiting.  
->> brian hogan  
->>> code  
-
+> to change a portfolio page, please select in 4th submenu from top the rectangular dropbox  
+>> Thank you for your time visiting!    
+>>> bh  
+>>> this page => code  
 ---------
 > **INSTRUCTIONS:** Please select the '8 Branches' button in the 4th submenu to view:  
 >> master of science portfolio  
