@@ -19,6 +19,7 @@ Tank you for taking your time to learn more about my substance. I am a technical
 
 ---------
 **#Interstellar, screenplay, p.122, 2014**  
+reflection: will machines of the future work with humans to perform the impossible?
 
 COOPER (human)  
 -- Get ready to match our spin with the retro-thrusters -  
@@ -39,4 +40,4 @@ Cooper
 >>>>>>>>> references and recommendations 
 --------------
 
-![professors](https://user-images.githubusercontent.com/59778456/200138354-25571bf2-f905-4773-9c2d-8234ec7525ad.JPG)
+![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
