@@ -1,7 +1,7 @@
-> to change portfolio page, please select branch dropbox on left in the 4th submenu from top.
->> Thank you for your time visiting.  
->>> brian hogan  
->>> reeningeering evidence
+> to change a portfolio page, please select in 4th submenu from top the rectangular dropbox  
+>> Thank you for your time visiting!    
+>>> bh  
+>>> this page => reeningeering evidence
 ---------
 
 **Project Manager and Consultant, ProModel, Orem, UT, 2008 – 2016**  
