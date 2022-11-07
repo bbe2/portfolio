@@ -15,7 +15,8 @@ I am a technical curriculum developer, instructional designer, and university in
 >>>> Deliver curriculums with pace, agility, and activities learners love, such as designed data objects and data transformation modules to expedite learners' Python programming essentials with their Tweets, Facebook posts, or Shakespeare's corpus.  
 >>>>  
 >>>>> The technologies of the new real necessitate learner preparedness else risk sustainable employment.  
->>>>>> **"Reengineering work: don't automate, obliterate."** - Michael Hammer, computer science professor, 1990.  
+>>>>>> **"Reengineering work: don't automate, obliterate."**  
+>>>>>> Michael Hammer, computer science professor, 1990.  
 
 ---------
 **#Interstellar, screenplay, p.122, 2014**  
