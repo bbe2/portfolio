@@ -1,7 +1,7 @@
 > to change a portfolio page, please select in 4th submenu from top the rectangular dropbox  
 >> Thank you for your time visiting!    
 >>> bh  
->>> this page => >>>> technical curriculum development and Grow with Google evidence  
+>>> this page => technical curriculum development and Grow with Google evidence  
 >>>>> full google test script and notebook above as items a and b  
 ---------
 
