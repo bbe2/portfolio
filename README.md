@@ -1,13 +1,8 @@
->>>> technical curriculum development and Grow with Google evidence  
->>>>> full google test script and notebook above as items a and b  
->>>>> 
->>>>> > 
->>>>> > > 
->>>>> > > > 
->>>>> > > > > > to change portfolio page, please select branch dropbox on left in the 4th submenu from top  
-> this page is volunteer. Thank you for your time visiting.  
->> brian hogan  
->>> volunteer  
+> to change a portfolio page, please select in 4th submenu from top the rectangular dropbox  
+>> Thank you for your time visiting!    
+>>> bh  
+>>> this page => volunteer
+---------
 >>>> 4Q22 assisting Selena, a nurse clinical associate, with weekly tutoring for her TEAS nurse exam to go to nursing school in Spring.  
 >>>> https://nurse.org/resources/what-is-the-teas-exam/  
 -------------
