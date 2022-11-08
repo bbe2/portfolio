@@ -5,7 +5,16 @@
 ---------
 
 > **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu    
-> 
+>> master of science portfolio  
+>>> re-engineering practitioner evidence  
+>>>> technical writing, including manuals  
+>>>>> technical curriculum development and Grow with Google portfolio  
+>>>>>> scientific editing evidence  
+>>>>>>> volunteer    
+>>>>>>>> code  
+>>>>>>>>> references and recommendations 
+>>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
+--------------
 
 **Project Manager and Consultant, ProModel, Orem, UT, 2008 – 2016**  
 -------------
