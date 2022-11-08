@@ -15,7 +15,7 @@ I am a technical curriculum developer, instructional designer, and university in
 >>>>>>> coaching, tutoring, volunteer        
 >>>>>>>> code  
 >>>>>>>>> references and recommendations 
->>>>>>>>>> <new> multimedia asset descriptions and styleguides
+>>>>>>>>>> NEW! multimedia asset descriptions and styleguides
 >>>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
 --------------
 
