@@ -1,4 +1,4 @@
-**Welcome!** Thank you for taking your time to learn more about my substance. ~brianh
+**Welcome!** Thank you for your time learning about my substance. ~brianh
 
 I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content. ~brianh
 
@@ -42,13 +42,5 @@ Interstellar, screenplay, p.122, 2014
 >>>>>>>>> references and recommendations 
 >>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
 --------------
-
-> Thank you for your time learning about my substance  
->> v/r bh   
->>> this page => coaching, tutoring, volunteer
----------
->>>> 4Q22 assisting Selena, a nurse clinical associate, with weekly tutoring for her TEAS nurse exam to go to nursing school in Spring.  
->>>> https://nurse.org/resources/what-is-the-teas-exam/  
--------------
 
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
