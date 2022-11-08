@@ -19,8 +19,6 @@ I am a technical curriculum developer, instructional designer, and university in
 >>>>>> Michael Hammer, computer science professor, 1990.  
 
 ---------
-
-### **2nd Order Question**
 ### Will machines of the future work with humans to perform the compute impossible?
 COOPER (human)  
 -- Get ready to match our spin with the retro-thrusters -  
