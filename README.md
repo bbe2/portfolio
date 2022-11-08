@@ -21,14 +21,14 @@ I am a technical curriculum developer, instructional designer, and university in
 ---------
 
 ### Reflection: will machines of the future work with humans to perform the compute impossible?
-Interstellar, screenplay, p.122, 2014  
-
 COOPER (human)  
 -- Get ready to match our spin with the retro-thrusters -  
 CASE (robot)    
 -- It's not possible.  
 Cooper  
 -- No. **It's necessary.**  
+
+Interstellar, screenplay, p.122, 2014  
 
 ---------
 > **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
