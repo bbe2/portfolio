@@ -16,7 +16,7 @@
 >>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
 --------------
 
-**Project Manager and Consultant, ProModel, Orem, UT, 2008 – 2016**  
+**Project Manager and Consultant, ProModel, Orem, UT, 2004 – 2016**  
 -------------
 ProModel modeling and simulation in defense, manufacturing, and pharma industries, including  
 • Needs analysis, solution design, C++ programming, technical writing, and curriculum development.  
