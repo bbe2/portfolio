@@ -19,8 +19,9 @@ I am a technical curriculum developer, instructional designer, and university in
 >>>>>> Michael Hammer, computer science professor, 1990.  
 
 ---------
-**#Interstellar, screenplay, p.122, 2014**  
-reflection: will machines of the future work with humans to perform the impossible?
+
+### Reflection: will machines of the future work with humans to perform the compute impossible?
+Interstellar, screenplay, p.122, 2014  
 
 COOPER (human)  
 -- Get ready to match our spin with the retro-thrusters -  
@@ -36,10 +37,18 @@ Cooper
 >>>> technical writing, including manuals  
 >>>>> technical curriculum development and Grow with Google portfolio  
 >>>>>> scientific editing evidence  
->>>>>>> volunteer    
+>>>>>>> coaching, tutoring, volunteer        
 >>>>>>>> code  
 >>>>>>>>> references and recommendations 
 >>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
 --------------
+
+> Thank you for your time learning about my substance  
+>> v/r bh   
+>>> this page => coaching, tutoring, volunteer
+---------
+>>>> 4Q22 assisting Selena, a nurse clinical associate, with weekly tutoring for her TEAS nurse exam to go to nursing school in Spring.  
+>>>> https://nurse.org/resources/what-is-the-teas-exam/  
+-------------
 
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
