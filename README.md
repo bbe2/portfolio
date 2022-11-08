@@ -1,9 +1,10 @@
 > Thank you for your time learning about my substance  
 >> v/r bh   
->>> this page => NEW! multimedia asset descriptions and styleguides
+>>> this page => NEW! multimedia asset descriptions and styleguides  
 ----------
->> a side project, I am building out my baseline templates for curricula, multi-media assets, and
->> style guides - overtime I have warehoused many valuable language editing guides, now consolidating to help those I tutor and others seeking to build scientific literature writing cadence
+>> a side project, I am building out my baseline templates for curricula, multi-media assets, and style guides.  
+>> Carefully curated and consolidated style guides to help those I tutor  
+>> and other seeking to build scientific literature writing cadence. 
 ---------
 
 >> master of science portfolio  
