@@ -14,6 +14,6 @@
 >>>>>>>> code  
 >>>>>>>>> references and recommendations 
 >>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
---------------
+
 -----------
 ![myDiploma](https://user-images.githubusercontent.com/59778456/193809493-8ac709d1-9db2-42dd-9a4b-3eec03a80a5d.JPG)
