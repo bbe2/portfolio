@@ -30,7 +30,7 @@ Cooper
 Interstellar, screenplay, p.122, 2014  
 
 ---------
-> **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
+> **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu
 >> master of science portfolio  
 >>> re-engineering practitioner evidence  
 >>>> technical writing, including manuals  
