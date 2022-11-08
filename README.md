@@ -1,8 +1,21 @@
-> to change a portfolio page, please select in 4th submenu from top the rectangular dropbox  
->> Thank you for your time visiting!    
->>> bh  
->>> this page => technical curriculum development and Grow with Google evidence  
+> Thank you for your time learning about my substance  
+>> v/r bh   
+>>> this page => technical writing, including manuals  
 >>>>> full google test script and notebook above as items a and b  
+---------
+
+> **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu    
+>> master of science portfolio  
+>>> re-engineering practitioner evidence  
+>>>> technical writing, including manuals  
+>>>>> technical curriculum development and Grow with Google portfolio  
+>>>>>> scientific editing evidence  
+>>>>>>> volunteer    
+>>>>>>>> code  
+>>>>>>>>> references and recommendations 
+>>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
+--------------
+
 ---------
 
 ![gwg_git_main_page](https://user-images.githubusercontent.com/59778456/197065213-a74b7d01-9eb2-480a-9ae8-8eb88f0957ed.JPG)
