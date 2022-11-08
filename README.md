@@ -20,7 +20,8 @@ I am a technical curriculum developer, instructional designer, and university in
 
 ---------
 
-### Reflection: will machines of the future work with humans to perform the compute impossible?
+### **2nd Order Question**
+### Will machines of the future work with humans to perform the compute impossible?
 COOPER (human)  
 -- Get ready to match our spin with the retro-thrusters -  
 CASE (robot)    
