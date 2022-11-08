@@ -1,8 +1,11 @@
-> to change a portfolio page, please select in 4th submenu from top the rectangular dropbox  
->> Thank you for your time visiting!    
->>> bh  
->>> this page => reeningeering evidence
+> Thank you for your time learning about my substance  
+>> v/r bh   
+>>> this page => reeningeering evidence  
+
 ---------
+
+> **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu    
+> 
 
 **Project Manager and Consultant, ProModel, Orem, UT, 2008 – 2016**  
 -------------
