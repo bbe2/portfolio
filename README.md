@@ -1,12 +1,11 @@
-**Welcome!** Thank you for your time learning about my substance. ~brianh
-
-I am a technical curriculum developer, instructional designer, and university instructor. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content. ~brianh
-
-**Key offerings**  
-
-
+> Thank you for your time learning about my substance  
+>> v/r bh   
+>>> this page => NEW! multimedia asset descriptions and styleguides
+----------
+>> a side project, I am building out my baseline templates for curricula, multi-media assets, and
+>> style guides - overtime I have warehoused many valuable language editing guides, now consolidating to help those I tutor and others seeking to build scientific literature writing cadence
 ---------
-> **INSTRUCTIONS:** Please select the '9 Branches' button in the 4th submenu to view:  
+
 >> master of science portfolio  
 >>> re-engineering practitioner evidence  
 >>>> technical writing, including manuals  
