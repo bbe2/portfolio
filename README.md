@@ -14,9 +14,10 @@ ProModel business process reengineering in manufacturing and pharma industries, 
 => technical writting and curriculum
 • Performed technical writing, technical curriculum development, SOW, and client facing editing.  
 • Drafted and delivered data science curriculum at Lockheed, NASA, Pfizer, and West Point.  
-• https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project_experience.pdf
 
 --------------------
+https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project_experience.pdf
+
 ![x overview-reeng-experience](https://user-images.githubusercontent.com/59778456/193808729-8bd21bf0-a79b-4df8-a27a-49512a3f9cde.JPG)
 
 -------------
