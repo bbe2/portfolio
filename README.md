@@ -1,6 +1,5 @@
-> Thank you for your time learning about my substance  
->> v/r bh   
->>> this page => references and recommendations 
+> Thank you for your time learning about my substance! ~brianh
+>> this page => references and recommendations 
 
 ---------
 
