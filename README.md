@@ -1,6 +1,5 @@
-> Thank you for your time learning about my substance  
->> v/r bh   
->>> this page => NEW! multimedia asset descriptions and styleguides  
+> Thank you for your time learning about my substance! ~brianh
+>> this page => NEW! multimedia asset descriptions and styleguides  
 ----------
 >> a side project, I am building out my baseline templates for curricula, multi-media assets, and style guides.  
 >> Carefully curated and consolidated style guides to help those I tutor  
