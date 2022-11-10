@@ -1,6 +1,5 @@
-> Thank you for your time learning about my substance  
->> v/r bh   
->>> this page => technical writing, including manuals  
+> Thank you for your time learning about my substance! ~brianh
+>> this page => technical writing, including manuals  
 
 ---------
 
