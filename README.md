@@ -1,6 +1,5 @@
-> Thank you for your time learning about my substance
->> v/r bh  
->>> this page => code  
+> Thank you for your time learning about my substance! ~brianh
+>> this page => code  
 ---------
 > **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu    
 >> master of science portfolio  
