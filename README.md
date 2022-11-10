@@ -1,7 +1,6 @@
-> Thank you for your time learning about my substance
->> v/r bh   
->>> this page => masters of science project portfolio
- 
+> Thank you for your time learning about my substance! ~brianh
+>> this page => coaching, tutoring, volunteer
+
 ---------
 
 > **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu    
