@@ -9,11 +9,11 @@ I am a university instructor, technical curriculum developer, and instructional 
 >> Curiosity leads to informing learning teams of recent neuroscience literature findings.   
 
 **Key pedagogical offerings**
->  A passionate instructor of practice-oriented learning. 
-> Connect with students and deliver curriculums with pace, agility, and activities they love.
->> Proven skills in partnering with colleagues to understand goals, frame needs, and ensure learning objectives.
->> Adept curriculum builder excelling at skilling materials to suit department and student characteristics.
->>> Technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.
+>  A passionate instructor of practice-oriented learning.  
+> Connect with students and deliver curriculums with pace, agility, and activities they love.  
+>> Proven skills in partnering with colleagues to understand goals, frame needs, and ensure learning objectives.  
+>> Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
+>>> Technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.  
 
 
 ---------
