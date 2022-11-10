@@ -1,8 +1,8 @@
 > Thank you for your time learning about my substance! ~brianh
 >> this page => coaching, tutoring, volunteer
 ---------
->>>> 4Q22 assisting Selena, a nurse clinical associate, with weekly tutoring for her TEAS nurse exam to go to nursing school in Spring.  
->>>> https://nurse.org/resources/what-is-the-teas-exam/  
+>>> 4Q22 assisting Selena, a nurse clinical associate, with weekly tutoring for her TEAS nurse exam to go to nursing school in Spring.  
+>>> https://nurse.org/resources/what-is-the-teas-exam/  
 -------------
 
 > **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu    
