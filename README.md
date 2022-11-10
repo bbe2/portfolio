@@ -1,6 +1,5 @@
-> Thank you for your time learning about my substance  
->> v/r bh   
->>> this page => reeningeering evidence  
+> Thank you for your time learning about my substance! ~brianh
+>> this page => reeningeering evidence  
 ---------
 
 **Project Manager and Consultant, ProModel, Orem, UT**  
