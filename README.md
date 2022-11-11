@@ -18,4 +18,4 @@
 >>>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
 --------------
 
-![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
+![saturn_hawking](https://user-images.githubusercontent.com/59778456/201252852-efa92524-188b-43f9-b330-65e33036c3d4.JPG)
