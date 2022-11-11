@@ -28,16 +28,16 @@ Cooper
 Interstellar, screenplay, p.122, 2014  
 
 ---------
-> **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu
->> master of science portfolio  
->>> re-engineering practitioner evidence  
->>>> technical writing, including manuals  
->>>>> technical curriculum development and Grow with Google portfolio  
->>>>>> scientific editing evidence  
->>>>>>> coaching, tutoring, volunteer        
->>>>>>>> code  
->>>>>>>>> references and recommendations 
->>>>>>>>>> Google Professional Machine Learning Eng. certification progress  
+**Portfolio:** to view a page select rectangular dropbox on left in 4th submenu
+• master of science portfolio  
+• re-engineering practitioner evidence  
+• technical writing, including manuals  
+• technical curriculum development and Grow with Google portfolio  
+• scientific editing evidence  
+• coaching, tutoring, volunteer        
+• code  
+• references and recommendations 
+• Google Professional Machine Learning Eng. certification progress  
 --------------
 
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
