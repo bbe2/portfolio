@@ -29,12 +29,12 @@ Interstellar, screenplay, p.122, 2014
 
 ---------
 
-**Portfolio:** to view a page select rectangular dropbox on left in 4th submenu
-• master of science portfolio  
+**Portfolio:**  
+• master of science port____https://github.com/bbe2/portfolio/tree/master_portfolio  
 • re-engineering____________https://github.com/bbe2/portfolio/tree/reengineering  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
-• tech curriculum GwG______https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• science edit_______________https://github.com/bbe2/portfolio/tree/code  
+• tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
 • code______________________https://github.com/bbe2/portfolio/tree/code  
 • reference_recommend____https://github.com/bbe2/portfolio/tree/reference_recommend  
