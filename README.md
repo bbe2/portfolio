@@ -38,6 +38,7 @@ Interstellar, screenplay, p.122, 2014
 • coach,tutor,volunteer_______https://github.com/bbe2/portfolio/tree/code  
 • code________________________https://github.com/bbe2/portfolio/tree/code  
 • ref_recommend_____________https://github.com/bbe2/portfolio/tree/code  
+• multimedia_styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
 • Google Professional Machine Learning Eng. certification progress  
 
 
