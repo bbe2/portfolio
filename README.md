@@ -31,13 +31,13 @@ Interstellar, screenplay, p.122, 2014
 
 **Portfolio:** to view a page select rectangular dropbox on left in 4th submenu
 • master of science portfolio  
-• re-engineering practitioner evidence  
-• technical writing, including manuals   
-• tech curriculum GwG________https://github.com/bbe2/portfolio/tree/code  
-• science edit_________________https://github.com/bbe2/portfolio/tree/code    
-• coach,tutor,volunteer_______https://github.com/bbe2/portfolio/tree/code  
-• code________________________https://github.com/bbe2/portfolio/tree/code  
-• ref_recommend_____________https://github.com/bbe2/portfolio/tree/code  
+• re-engineering____________https://github.com/bbe2/portfolio/tree/reengineering
+• technical writing_________https://github.com/bbe2/portfolio/tree/tech_write  
+• tech curriculum GwG_______https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• science edit______________https://github.com/bbe2/portfolio/tree/code  
+• coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
+• code______________________https://github.com/bbe2/portfolio/tree/code  
+• reference_recommend_______https://github.com/bbe2/portfolio/tree/reference_recommend  
 • multimedia_styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
 • Google Professional Machine Learning Eng. certification progress  
 
