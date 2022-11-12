@@ -2,7 +2,8 @@
 >> this page => coaching, tutoring, volunteer
 
 -----------
-![myDiploma](https://user-images.githubusercontent.com/59778456/193809493-8ac709d1-9db2-42dd-9a4b-3eec03a80a5d.JPG)
+![small_diploma](https://user-images.githubusercontent.com/59778456/201481313-46f190a6-4eb0-414e-8a34-e3d28421ca63.JPG)
+
 
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
