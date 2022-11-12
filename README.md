@@ -28,7 +28,7 @@ Cooper
 Interstellar, screenplay, p.122, 2014  
 
 ---------
-### "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life."  
+#### "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life."  
 --Marcus Aurelis
 
 **Portfolio**  
