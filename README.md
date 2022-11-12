@@ -14,4 +14,4 @@
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
 
-![image](https://user-images.githubusercontent.com/59778456/201483429-22af0f6c-af97-41f6-b38a-c58f201f8475.png)
+![image](https://user-images.githubusercontent.com/59778456/201483491-0908a81a-b924-46ab-95d1-ce2b6a5a9fa9.png)
