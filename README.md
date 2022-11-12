@@ -2,9 +2,6 @@
 >> this page => coaching, tutoring, volunteer
 
 -----------
-![small_diploma](https://user-images.githubusercontent.com/59778456/201481313-46f190a6-4eb0-414e-8a34-e3d28421ca63.JPG)
-
-
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
 • code train an samples_____https://github.com/bbe2/portfolio/tree/code  
@@ -16,3 +13,5 @@
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+
+![small_diploma](https://user-images.githubusercontent.com/59778456/201481313-46f190a6-4eb0-414e-8a34-e3d28421ca63.JPG)
