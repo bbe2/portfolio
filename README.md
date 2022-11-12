@@ -1,5 +1,8 @@
 > Thank you for your time learning about my substance! ~brianh
 >> this page => masters of science portfolio
+----------
+#### "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life." --Marcus Aurelis 
+-------------
 
 ![image](https://user-images.githubusercontent.com/59778456/201483491-0908a81a-b924-46ab-95d1-ce2b6a5a9fa9.png)
 
