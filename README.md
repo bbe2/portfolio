@@ -1,5 +1,5 @@
 > Thank you for your time learning about my substance! ~brianh
->> this page => coaching, tutoring, volunteer
+>> this page => masters of science portfolio
 
 -----------
 **Portfolio**  
