@@ -4,10 +4,12 @@
 
 Computer science departments should consider assessing students programming skills each year and having learning modules to address missing skills. I am happy to elaborate on the 5 core modules I am building to address this need.  
 
-One of them is data transformation, indexing, positionality, and read / write basics of text and csv data some refer to as data transformation.   https://en.wikipedia.org/wiki/Data_transformation_(computing)  
+One of them is data transformation including indexing, positionality, and read / write basics of text and csv data. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
 
+---------
 In the 1920s General Electric did similar annual testing of finger dexterity. Motor assembly require many parts and as screws got smaller often woman were hired like my great grandmother Irene Gold. From my lens finger dexterity remains a key indicator as good typing is good programming.  
 
+--------
 7 Pillars of Python and 7 Pillars of R  
 
 seven part self-paced training module of core data objects, iterators, conditionals to classes and constructors.
@@ -17,9 +19,7 @@ I specifically focus on Python and R becuase data in many other objects can be c
 g
 assist students in their development. How is it I had a student whose second programming class was a junior, didnt understand row and column indexing and positionality?  
 
-
-
-
+-----------
 ![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
 
 --------------
