@@ -20,13 +20,20 @@
 > #### Will machines and technology of the future work with humans to compute the impossible at a critical moment?  
 > #### or, will Isaac Asimov's child drown?  
 
-COOPER (human)  
--- Get ready to match our spin with the retro-thrusters -  
-CASE (robot)    
--- It's not possible.  
-Cooper  
--- No. **It's necessary.**  
 
+=======================================================  
+> COOPER  
+> -- Get ready to match our spin with the retro-thrusters  
+
+
+>> CASE (robot)  
+>> -- It's not possible.  
+
+
+> Cooper  
+> -- No. **It's necessary.**  
+
+===================================  
 Interstellar, screenplay, p.122, 2014  
 
 ---------
