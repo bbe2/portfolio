@@ -1,6 +1,8 @@
 > Thank you for your time learning about my substance! ~brianh
 >> this page => masters of science portfolio
 
+![image](https://user-images.githubusercontent.com/59778456/201483491-0908a81a-b924-46ab-95d1-ce2b6a5a9fa9.png)
+
 -----------
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
@@ -13,5 +15,3 @@
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-
-![image](https://user-images.githubusercontent.com/59778456/201483491-0908a81a-b924-46ab-95d1-ce2b6a5a9fa9.png)
