@@ -15,13 +15,13 @@
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
 • Technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.  
 
-
----------
+--------------
+ 
 > #### Will machines and technology of the future work with humans to compute the impossible at a critical moment?  
-> #### or, will Isaac Asimov's child drown?  
+> or,
+> will Isaac Asimov's child drown?  
+ 
 
-
-=======================================================  
 > COOPER  
 > -- Get ready to match our spin with the retro-thrusters  
 
@@ -33,11 +33,10 @@
 > Cooper  
 > -- No. **It's necessary.**  
 
-===================================  
+
 Interstellar, screenplay, p.122, 2014  
 
 ---------
-#### "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life." --Marcus Aurelis
 
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
@@ -53,3 +52,5 @@ Interstellar, screenplay, p.122, 2014
 
 
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
+
+#### "Nothing has such power to broaden the mind as the ability to investigate systematically and truly all that comes under thy observation in life." --Marcus Aurelis 
