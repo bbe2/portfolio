@@ -2,7 +2,10 @@
 >> this page => code  
 ---------
 
-Computer science departments should consider assessing students programming skills each year and having learning modules specific to address skill development. I appreciate the importance of theory and constructs but both can be taught more effectively when students type well and master data transformation basics. I specifically focus on Python and R becuase data in many other objects can be cast to their resident data objects providing students the means to then focus on the task at hand. If they are stuck, they can transform the data as needed then push back to the objects they are working with.
+Computer science departments should consider assessing students programming skills each year and having learning modules specific to address a few essentials. One of them is data transformation, indexing, positionality, and read / write basics of text and csv data.
+
+
+skill development. I appreciate the importance of theory and constructs but both can be taught more effectively when students type well and master data transformation basics. I specifically focus on Python and R becuase data in many other objects can be cast to their resident data objects providing students the means to then focus on the task at hand. If they are stuck, they can transform the data as needed then push back to the objects they are working with.
 g
 assist students in their development. How is it I had a student whose second programming class was a junior, didnt understand row and column indexing and positionality?  
 
