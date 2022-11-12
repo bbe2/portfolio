@@ -1,8 +1,8 @@
 > Thank you for your time learning about my substance! ~brianh
 >> this page => coaching, tutoring, volunteer
 
----------
-
+-----------
+![myDiploma](https://user-images.githubusercontent.com/59778456/193809493-8ac709d1-9db2-42dd-9a4b-3eec03a80a5d.JPG)
 
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
@@ -15,6 +15,3 @@
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-
------------
-![myDiploma](https://user-images.githubusercontent.com/59778456/193809493-8ac709d1-9db2-42dd-9a4b-3eec03a80a5d.JPG)
