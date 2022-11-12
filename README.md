@@ -2,17 +2,13 @@
 >> this page => reeningeering evidence  
 ---------
 
-**Project Manager and Consultant, ProModel, Orem, UT**  
-2004 - 2016  
-ProModel business process reengineering in manufacturing and pharma industries, including  
-• Leadership of client strategic analysis and project management specifications and developers.  
-• Performed needs analysis, data science, and simulation with C++ programming.  
-• Drafted extensive process models, data flow diagrams, and Visio swim lanes.  
-• Demand/capacity, budget forecasting, and research supply chain cost and reduction models.  
-• Robotic, Oracle floor schedules, and program management with go, no go decision support software.  
-=> technical writting and curriculum
-• Performed technical writing, technical curriculum development, SOW, and client facing editing.  
-• Drafted and delivered data science curriculum at Lockheed, NASA, Pfizer, and West Point.  
+**Project Manager and Consultant, ProModel, Orem, UT** 2004 - 2016  
+Performed business process reengineering in defense, manufacturing, and pharma industries, including
+• Leadership of client project management specifications, developers, and needs analysis.
+• Performed needs analysis, data science, C++ modeling, and drafted process models, DFD, and IDEF.
+• Simulated demand/capacity, budget forecasting, and program management with decision methods.
+• Performed technical writing, technical curriculum development, SOW, and client facing editing.
+• Drafted and delivered data science curriculum at Lockheed, NASA, Pfizer, and West Point.
 
 --------------------
 https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project_experience.pdf
