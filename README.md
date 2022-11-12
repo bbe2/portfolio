@@ -1,7 +1,8 @@
 > Thank you for your time learning about my substance! ~brianh
 >> this page => references and recommendations 
 --------------
-![professor_kahn](https://user-images.githubusercontent.com/59778456/193907743-21a4d16d-1376-44da-8154-6897bd0e6117.JPG)
+
+![smallrecommend](https://user-images.githubusercontent.com/59778456/201481430-656a5cc1-f7d2-41c3-917c-4a35f1fd9776.JPG)
 
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
