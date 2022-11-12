@@ -18,6 +18,7 @@
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+
 --------------
 
 ![saturn_hawking](https://user-images.githubusercontent.com/59778456/201252852-efa92524-188b-43f9-b330-65e33036c3d4.JPG)
