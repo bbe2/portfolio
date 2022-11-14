@@ -16,6 +16,5 @@
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
 
-
-![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
+![image](https://user-images.githubusercontent.com/59778456/201565438-f80c0374-d1bc-4389-914a-7dda8f623253.png)
 
