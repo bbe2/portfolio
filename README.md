@@ -22,7 +22,7 @@
 > will Isaac Asimov's child drown?  
 ---------
 
-> COOPER  
+> Cooper (human)  
 > -- Get ready to match our spin with the retro-thrusters  
 
 
