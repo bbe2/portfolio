@@ -15,6 +15,7 @@
 • multimedia_styleguide___https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
 • re-engineering____________https://github.com/bbe2/portfolio/tree/reengineering  
 • reference_recommend____https://github.com/bbe2/portfolio/tree/reference_recommend  
+• research_experience____https://github.com/bbe2/portfolio/tree/research_experience  
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
