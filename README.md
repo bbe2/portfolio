@@ -4,9 +4,8 @@
 
 ----------
 >> side project  
->> buidling out my templates for multi-media assets and style guides.  
 >> Carefully curated and consolidated style guides to help those I tutor  
->> and other seeking to build scientific literature writing cadence. 
+>> and others seeking to build scientific writing cadence. 
 
 ---------
 
