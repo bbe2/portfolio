@@ -2,22 +2,17 @@
 >> this page => code  
 ---------
 
-Computer science departments should consider assessing students programming skills each year and having learning modules to address missing skills. I am happy to elaborate on the 5 core modules I am building to address this need.  
+Computer science departments should consider assessing students' programming skills each year and having learning modules to address missing skills. I am happy to elaborate on the 5 core modules I am building to address this need.  
 
-One of them is data transformation including indexing, positionality, and read / write basics of text and csv data. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
-
----------
-In the 1920s General Electric did similar annual testing of finger dexterity. Motor assembly require many parts and as screws got smaller often woman were hired like my great grandmother Irene Gold. From my lens finger dexterity remains a key indicator as good typing is good programming.  
+One core is data transformation, including indexing, positionality, and read / reporting basics of text and csv data in R and Python. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
 
 --------
-7 Pillars of Python and 7 Pillars of R  
+> Part I of VII, self-paced training modules on Python's classes, conditionals, data objects, functions, iterators, libraries, and transformers.  
+>> 7 Pillars of Python  
+>> 7 Pillars of R (expected 12.31.22)  
 
-seven part self-paced training module of core data objects, iterators, conditionals to classes and constructors.
-
-
-I specifically focus on Python and R becuase data in many other objects can be cast to their resident data objects providing students the means to then focus on the task at hand. If they are stuck, they can transform the data as needed then push back to the objects they are working with.
-g
-assist students in their development. How is it I had a student whose second programming class was a junior, didnt understand row and column indexing and positionality?  
+I focus on Python and R because data in other objects are often easily cast to their built-in data objects.  
+This provides students the means to focus their immediate learning task by using their python data object transformation skills to manipulate and calculate information as needed and push it back into the other object.
 
 -----------
 ![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
