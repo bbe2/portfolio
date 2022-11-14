@@ -3,7 +3,7 @@
 
 
 ----------
->> side project  
+>> NEW side project  
 >> Carefully curated and consolidated style guides to help those I tutor  
 >> and others seeking to build scientific writing basics. 
 
