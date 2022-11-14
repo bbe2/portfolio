@@ -13,7 +13,7 @@
 • Connect with students and deliver curriculums with pace, agility, and activities they love.  
 • Proven skills in partnering with colleagues to understand goals, frame needs, and ensure learning objectives.  
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
-• Forward thinking. technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.  
+• Forward thinking, technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.  
 
 --------------
  
