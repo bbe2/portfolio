@@ -15,14 +15,14 @@
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
 • Forward thinking, technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.  
 
-=====  
+====  
 
-========  
-
+=========  
 => NEW November 2022  
 => pleased to announce in proposal phase to adapt my 7 Pillars of Python to this amazing AI learning platform  
-==> https://icarus.education/en/home/  
+=> https://icarus.education/en/home/  
 
+======
 
 --------------
 => Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
