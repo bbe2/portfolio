@@ -17,9 +17,10 @@
 
 --------------
  
-=> #### Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
-=> or
+=> Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
+=> or  
 => will Isaac Asimov's children drown?  
+
 ---------
 
 > Cooper (human)  
@@ -39,7 +40,7 @@ Interstellar, screenplay, p.122, 2014
 ---------
 
 **Portfolio**  
-• coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
+• coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
 • code train an samples_____https://github.com/bbe2/portfolio/tree/code  
 • Google Prof. ML Cert_____https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
 • master of science port____https://github.com/bbe2/portfolio/tree/master_portfolio  
