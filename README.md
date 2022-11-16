@@ -1,6 +1,6 @@
 **Welcome!** Thank you for your time learning about my substance. ~brianh
 
->> I am a university instructor, technical curriculum developer, and instructional designer. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
+> I am a university instructor, technical curriculum developer, and instructional designer. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
 
 **Key administration offerings**  
 • Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.  
@@ -17,9 +17,9 @@
 
 --------------
  
-> #### Will machines and technology of the future work with humans to compute the impossible at a critical moment?  
-> or,
-> will Isaac Asimov's child drown?  
+=> #### Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
+=> or
+=> will Isaac Asimov's children drown?  
 ---------
 
 > Cooper (human)  
