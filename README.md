@@ -27,3 +27,5 @@ Grow with Google Test
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG 
+
+![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
