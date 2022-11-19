@@ -19,7 +19,7 @@
 
 =========  
 => NEW November 2022  
-=> pleased to announce in proposal phase to adapt my 7 Pillars of Python to this amazing AI learning platform  
+=> my 7 Pillars of Python underconsideration for ICARUS-AI learning platform
 => https://icarus.education/en/home/  
 
 ======
