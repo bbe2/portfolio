@@ -7,6 +7,10 @@
 
 -------------
 
+![circuit_repair_main](https://user-images.githubusercontent.com/59778456/203392202-6c60fa7a-34b1-48a7-9165-496fd31e96e4.JPG)
+
+-------------
+
 **Portfolio**  
 • coach,tutor,volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
 • code train an samples_____https://github.com/bbe2/portfolio/tree/code  
