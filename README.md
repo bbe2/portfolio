@@ -1,12 +1,18 @@
 -> Thank you for your time learning about my substance! ~brianh  
 --> this page => technical writing, including manuals  
 
-## November 2022 THRILLED! to help TMC update documentation for their STACIS IV inertial active vibration isolation system. 
+-----------
+## 11.2022 - THRILLED! to update TMC documentation for STACIS IV inertial active vibration isolation system.  
+
+------------
 
 ![TMC_Stacis III](https://user-images.githubusercontent.com/59778456/204631246-f244d3d1-63f9-47f9-914d-553c1184afbb.JPG)
 
 --------------
 
+## 2021 = 100+ mega manual for Alert Innovations automated grocery store coming across America by 2030  
+
+------------
 ![alpha](https://user-images.githubusercontent.com/59778456/193908585-5b92866d-9c4b-4624-8d3c-64edacaf3b01.JPG)
 
 -------------
