@@ -2,7 +2,8 @@
 --> this page => technical writing, including manuals  
 
 -----------
-## 11.2022 - THRILLED! to update TMC documentation for STACIS IV inertial active vibration isolation system.  
+## 11.2022 - THRILLED! to update TMC documentation for
+## STACIS IV inertial active vibration isolation system
 
 ------------
 
@@ -10,7 +11,8 @@
 
 --------------
 
-## 2021 = 100+ mega manual for Alert Innovations automated grocery store coming across America by 2030  
+## 2021 = 100+ mega manual for Alert Innovation's automated grocery store  
+### Widespread in America by 2030  
 
 ------------
 ![alpha](https://user-images.githubusercontent.com/59778456/193908585-5b92866d-9c4b-4624-8d3c-64edacaf3b01.JPG)
@@ -18,6 +20,7 @@
 -------------
 
 ![x_notes_circuit_repair](https://user-images.githubusercontent.com/59778456/203395384-06633306-b4f2-43ed-8321-8e4e1973cb82.JPG)
+https://www.emsdiasum.com/nightsea-fluorescence-viewing-systems  
 
 -------------
 
