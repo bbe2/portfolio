@@ -58,7 +58,7 @@ Interstellar, screenplay, p.122, 2014
 • research_experience______https://github.com/bbe2/portfolio/tree/research_experience  
 • scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
-• tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• tech curr + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
 
 
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
