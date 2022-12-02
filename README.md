@@ -3,17 +3,17 @@
 > I am a university instructor, technical curriculum developer, and instructional designer. As a long term information technology and business reengineering practitioner, I focus on delivering quality learning experiences and creative content.
 
 **Key administration offerings**  
-• Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.  
-• Adept at leadership and team communication while developing quality technical assets.  
-• Keen grok skills help ensure software construct continuity across media.  
-• Curiosity leads to informing learning teams of recent neuroscience literature findings.  
+• Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.
+• Skilled at mapping an instructional designer's strategy and methods for complex material skilling.
+• Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content.
+• Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.
+• Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.
 
 **Key pedagogical offerings**  
 • A passionate instructor of practice-oriented learning.  
-• Connect with students and deliver curriculums with pace, agility, and activities they love.  
-• Proven skills in partnering with colleagues to understand goals, frame needs, and ensure learning objectives.  
+• Connect with students and deliver curriculums with pace, agility, and activities they love.   
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
-• Forward thinking, technologies of the new real require learner preparedness in AI Megalosauruses like Google Cloud.  
+• Forward thinking! Curriculum includes learner preparedness in AI Megalosauruses like Google Cloud.  
 
 ====  
 
