@@ -42,8 +42,8 @@ https://icarus.education/
 --------------
 ## Have a moment?  
 => Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
-=> or  
-=> will Isaac Asimov's children drown?  
+or  
+will Isaac Asimov's children drown?  
 
 ---------
 
