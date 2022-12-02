@@ -19,6 +19,7 @@ situations, decipher solutions, and bridge content to learners.
 
 =========  
 => NEW November 2022 - course accepted !  
+https://icarus.education/  
 ## >_7 Pillars of Python   
 
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)
