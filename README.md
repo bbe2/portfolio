@@ -15,7 +15,7 @@ situations, decipher solutions, and bridge content to learners.
 • A passionate instructor of practice-oriented learning.  
 • Connect with students and deliver curriculums with pace, agility, and activities they love.   
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
-• Forward thinking! Curriculum includes learner preparedness in AI Megalosauruses like Google Cloud.  
+• My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.
 
 =========  
 => NEW November 2022 - course accepted !  
