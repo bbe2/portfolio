@@ -21,10 +21,11 @@ situations, decipher solutions, and bridge content to learners.
 => NEW November 2022 - course accepted !  
 https://icarus.education/  
 ## >_7 Pillars of Python   
-• Proposal for my innovative Python essentials training module is accepted for E-Learning launch.
-• Formulated for any learner to form a data manipulation mindset and core programming skills.
-• Inspired by the simplicity of the 1970s famous TI-30 calculator to train worldwide in data objects.
-![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)
+
+• Proposal for my innovative Python essentials training module is accepted for E-Learning launch.  
+• Formulated for any learner to form a data manipulation mindset and core programming skills.  
+• Inspired by the simplicity of the 1970s famous TI-30 calculator to train worldwide in data objects.  
+![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
 ---------
 
@@ -44,8 +45,7 @@ https://icarus.education/
 --------------
 ## Have a moment?  
 => Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
-or  
-will Isaac Asimov's children drown?  
+Or will Isaac Asimov's children drown?  
 
 ---------
 
