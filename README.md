@@ -24,7 +24,8 @@ https://icarus.education/
 
 • Proposal for my innovative Python essentials training module is accepted for E-Learning launch.  
 • Formulated for any learner to form a data manipulation mindset and core programming skills.  
-• Inspired by the simplicity of the 1970s famous TI-30 calculator to train worldwide in data objects.  
+• Inspired by the vintage slide rule terminator, the TI-30. Now let's go global with data object training!
+
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
 ---------
