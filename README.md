@@ -6,6 +6,7 @@
 • Tutoring a clinical associate to pass TEAS exam and start nursing school.
 
 •  https://nurse.org/resources/what-is-the-teas-exam/  
+
 ---------
 
 ![image](https://user-images.githubusercontent.com/59778456/201565751-8b4676d7-9f0c-4188-82fb-05684106d0c6.png)
