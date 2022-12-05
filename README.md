@@ -21,6 +21,8 @@
 •	Performed 1017 Human Intelligence Tasks (HITs) and human subject activities.  
 •	Achieved a 99.03% approval rating for classification, extraction, classification, memory, and automated speech assessment.  
 
+### Tutor, Data Science and Programming, 2019 – 2020                                                      
+	Tutored data science using R and Python, including text mining, machine learning, and visualization (ggplot2).
 
 ![image](https://user-images.githubusercontent.com/59778456/201565438-f80c0374-d1bc-4389-914a-7dda8f623253.png)
 
