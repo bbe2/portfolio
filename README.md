@@ -1,10 +1,11 @@
-> Thank you for your time learning about my substance! ~brianh
->> this page => coach, tutor, volunteer    
+• Thank you for your time learning about my substance! ~brianh
+• this page => coach, tutor, volunteer    
 ---------
 
-> Volunteer
->> 4Q22 assisting Selena, a nurse clinical associate, with weekly tutoring for her TEAS nurse exam to go to nursing school in Spring.  
->> https://nurse.org/resources/what-is-the-teas-exam/  
+• Volunteer, 4Q22 
+• Tutoring a clinical associate to pass TEAS exam and start nursing school.
+
+•  https://nurse.org/resources/what-is-the-teas-exam/  
 ---------
 
 ![image](https://user-images.githubusercontent.com/59778456/201565751-8b4676d7-9f0c-4188-82fb-05684106d0c6.png)
