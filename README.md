@@ -1,5 +1,6 @@
-• Thank you for your time learning about my substance! ~brianh
-• this page => coach, tutor, volunteer    
+• Thank you for your time learning about my substance! ~brianh  
+• this page => coach, tutor, volunteer   
+
 ---------
 
 • Volunteer, 4Q22 
@@ -9,7 +10,16 @@
 
 ---------
 
-![image](https://user-images.githubusercontent.com/59778456/201565751-8b4676d7-9f0c-4188-82fb-05684106d0c6.png)
+![image](https://user-images.githubusercontent.com/59778456/201565751-8b4676d7-9f0c-4188-82fb-05684106d0c6.png)  
+### Trash to Treasure, Winchester High School Art Department, MA, 11/2020 – 09/2021  
+	Jackson Lumber and Millwork, Manager Geoff MacKay, Woburn, MA  
+•	Gathered colossal sized cardboard, wood cutoffs, scrap molding, and junked paint.  
+•	Performed three truckload deliveries to art department’s Jenn Levatinon.  
+
+### Mechanical Turking, amazonmturk, ID = A3IWDP1WNMWVR8, 2020 – 2021  
+	Objective: learn crowdsourcing research methodologies and strategies.  
+•	Performed 1017 Human Intelligence Tasks (HITs) and human subject activities.  
+•	Achieved a 99.03% approval rating for classification, extraction, classification, memory, and automated speech assessment.  
 
 
 ![image](https://user-images.githubusercontent.com/59778456/201565438-f80c0374-d1bc-4389-914a-7dda8f623253.png)
