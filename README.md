@@ -29,3 +29,9 @@ Grow with Google Test
 • tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG 
 
 ![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
+
+--------------
+
+# --------> foobar is tricky so prep if you get in; I have a secret key to reach out if you like  
+
+![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
