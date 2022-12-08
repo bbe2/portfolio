@@ -37,4 +37,5 @@
 • research_experience____https://github.com/bbe2/portfolio/tree/research_experience  
 • scientific_edit_____________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
-• tech curriculum GwG_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/README.md  
