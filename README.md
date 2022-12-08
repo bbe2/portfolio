@@ -1,5 +1,5 @@
-> Thank you for your time learning about my substance! ~brianh
->> this page => code  
+• Thank you for your time learning about my substance! ~brianh
+• this page => code  
 ---------
 
 Computer science departments should consider assessing students' programming skills each year and having learning modules to address missing skills. I am happy to elaborate on the 5 core modules I am building to address this need.  
@@ -7,7 +7,7 @@ Computer science departments should consider assessing students' programming ski
 One core is data transformation, including indexing, positionality, and read / reporting basics of text and csv data in R and Python. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
 
 --------
-> Part I of VII, self-paced training modules on Python's classes, conditionals, data objects, functions, iterators, libraries, and transformers.  
+•  Part I of VII, self-paced training modules on Python's classes, conditionals, data objects, functions, iterators, libraries, and transformers.  
 >> 7 Pillars of Python  
 >> 7 Pillars of R (expected 12.31.22)  
 
