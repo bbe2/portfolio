@@ -1,5 +1,5 @@
 👀 Thank you for your time learning about my substance! ~brianh  
-👀👀 this page => code  
+👀 👋  this page => code  
 
 ---------
 
@@ -8,9 +8,9 @@ Computer science departments should consider assessing students' programming ski
 One core is data transformation, including indexing, positionality, and read / reporting basics of text and csv data in R and Python. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
 
 --------
-👀 Part I of VII, self-paced training modules on Python's classes, conditionals, data objects, functions, iterators, libraries, and transformers.  
-👀👀 7 Pillars of Python  
-👀👀 7 Pillars of R (expected 12.31.22)  
+Part I of VII, self-paced training modules on Python's classes, conditionals, data objects, functions, iterators, libraries, and transformers.  
+👀   7 Pillars of Python  
+👀 👋 7 Pillars of R (expected 12.31.22)  
 
 I focus on Python and R because data in other objects are often easily cast to their built-in data objects.  
 This provides students the means to focus their immediate learning task by using their python data object transformation skills to manipulate and calculate information as needed and push it back into the other object.
