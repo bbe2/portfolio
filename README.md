@@ -1,7 +1,7 @@
 ## >_7.Pillars.of.Python
-course being released on ICARUS AI, https://icarus.education/
-•	Innovative Python essentials skills module.
-•	Formulated for varying learner personas to form a data object mindset and grok core programming skills solving Python wiggly data blocks.
+course being released on ICARUS AI, https://icarus.education/  
+•	Innovative Python essentials skills module.   
+•	Formulated for varying learner personas to form a data object mindset and grok core programming skills solving Python wiggly data blocks.  
 
 
 
