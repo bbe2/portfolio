@@ -12,7 +12,7 @@ Grow with Google Entrance Exam
 
 ![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
 
-![image](https://user-images.githubusercontent.com/59778456/201482647-6cb3f695-2e2b-4bc4-9616-41022ba927f1.png)
+![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/206504660-2b9c89c3-19e4-4568-a82a-a2cfce4bedb4.JPG)
 
 ![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
 
