@@ -18,7 +18,7 @@ Grow with Google Test
 
 --------------
 
-# --------> foobar is tricky so prep if you get in; I have a secret key to reach out if you like  
+## => foobar is tricky so prep if you get in; I have a secret key to reach out if you like  
 
 ![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
 
