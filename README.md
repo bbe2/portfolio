@@ -42,7 +42,7 @@ https://icarus.education/
 • scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
 • tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/README.md  
+• >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python   
 
 --------------
 ## Have a moment?  
