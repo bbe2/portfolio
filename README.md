@@ -66,5 +66,5 @@ Or will Isaac Asimov's children drown?
 Interstellar, screenplay, p.122, 2014  
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
 
-## Sci-fi or a hotdog?
+## Hotdog or sci-fi?
 ![hotdog](https://user-images.githubusercontent.com/59778456/205523364-fdac8740-d6ff-4c4f-b3d6-dd5ecadb2c78.JPG)
