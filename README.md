@@ -8,15 +8,17 @@
 ---------
 23-bed, 63-nurse and associate acute care floor	June 2021 - Jan 2022  
 Winchester Hospital	
-			
+
+### A:  
 #### Evidence-based practice - hourly rounding  
 Investigated the efficacy of evidence-based practice purposeful hourly rounding on patient falls and length of stay satisfaction.  
-•	Performed research, monthly data coding, and statistical analysis.  
-•	Designed the data collection and encoded three months of daily patient measurement data.  
-•	Performed REDCap API data transfer training in R software with the CRAN data.table package.  
-•	Outcomes: associate chief nursing officer presented the methods, viability, and benefits of adopting purposeful hourly rounding.  
+• Performed research, monthly data coding, and statistical analysis.  
+• Designed the data collection and encoded three months of daily patient measurement data.  
+• Performed REDCap API data transfer training in R software with the CRAN data.table package.  
+• Outcomes: associate chief nursing officer presented the methods, viability, and benefits of adopting purposeful hourly rounding.  
 **Outcomes:** included situational fall factor nurse prevention and locating upgrade parts for the call bell system in a 23 bed, 70 staff department.   
 
+### B:  
 #### Evidence-based practice - Call bells  
 Assisted in evaluating call bell signal standardization across units to help distinguish noncritical care requests from critical requests.  
 •	Located call bell system parts but wasn't able to upgrade the system.  
