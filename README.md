@@ -1,11 +1,11 @@
-## >_7.Pillars.of.Python
+## >_7.Pillars.of.Python  
 course being released on ICARUS AI, https://icarus.education/  
-•	Innovative Python essentials skills module.   
-•	Formulated for varying learner personas to form a data object mindset and grok core programming skills solving Python wiggly data blocks.  
 
+•	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
+•	ICARUS-AI agreed to include the course in its E-Learning platform.  
+•	Designed for learners to experience plasticity performing data transformation and grok coding of iterators, conditions, and classes.  
 
-
-• <under development 12/23>
+### Stay tuned as loading materials shortly! 12.05.2022  
 
 ![zion](https://user-images.githubusercontent.com/59778456/206495081-1c7b5814-6a93-41cc-be3c-693ce719eab0.JPG)
 
