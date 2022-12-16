@@ -4,6 +4,7 @@
 
 [(outcome) Hourly rounding and fall incident.pdf](https://github.com/bbe2/portfolio/files/10232567/outcome.Hourly.rounding.and.fall.incident.pdf)  
 [(outcome) Nurse Rounding Badges.pdf](https://github.com/bbe2/portfolio/files/10232564/outcome.Nurse.Rounding.Badges.pdf)  
+[patient fall factor evidence based summary.pdf](https://github.com/bbe2/portfolio/files/10245569/patient.fall.factor.evidence.based.summary.pdf)
 
 ---------
 23-bed, 63-nurse and associate acute care floor	June 2021 - Jan 2022  
@@ -21,8 +22,7 @@ Investigated the efficacy of evidence-based practice purposeful hourly rounding 
 Assisted in evaluating call bell signal standardization across units to help distinguish noncritical care requests from critical requests.  
 •	Located call bell system parts but wasn't able to upgrade the system.  
 
-[patient fall factor evidence based summary.pdf](https://github.com/bbe2/portfolio/files/10245569/patient.fall.factor.evidence.based.summary.pdf)
-
+![falls_evidence](https://user-images.githubusercontent.com/59778456/208103790-0d2b4202-c0cc-4740-b0b1-b5b170b473a3.JPG)
 
 ------------
 ![hourly roudning plaquards](https://user-images.githubusercontent.com/59778456/193832448-9cc02c3a-94da-44a8-a3f4-7f05582d64c8.JPG)
