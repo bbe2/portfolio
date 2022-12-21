@@ -17,14 +17,19 @@ situations, decipher solutions, and bridge content to learners.
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
 • My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.
 
+**Interesting**  
+https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
+
 =========  
 => NEW November 2022 - course accepted !  
 https://icarus.education/  
-## >_7 Pillars of Python   
+### >_7.Pillars.of.Python   
 
-• Proposal for my innovative Python essentials training module is accepted for E-Learning launch.  
-• Formulated for any learner to form a data manipulation mindset and core programming skills.  
-• Inspired by the vintage slide rule terminator, the TI-30. Now let's go global with data object training!
+•	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
+•	Designed for learners to experience plasticity performing data transformation and grok coding of iterators, conditions, and classes.  
+•	Targeted learners are new and existing programmers who struggle with datacasting and manipulation.  
+•	ICARUS-AI agreed to include the course in its E-Learning platform.  
+
 
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
