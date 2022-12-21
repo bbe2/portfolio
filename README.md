@@ -52,8 +52,8 @@ https://icarus.education/
 
 --------------
 ## Have a moment?  
-=> Will our machines of the REAL work with humans to compute the impossible at a critical moment?  
-Or will Isaac Asimov's children drown?  
+=> How will robotics of the REAL work with humans to compute at critical moments?  
+Does your magic 8's priors indicate Isaac Asimov's children will drown?  
 
 ---------
 
