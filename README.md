@@ -5,7 +5,9 @@ course being released on ICARUS AI, https://icarus.education/
 •	ICARUS-AI agreed to include the course in its E-Learning platform.  
 •	Designed for learners to experience plasticity performing data transformation and grok coding of iterators, conditions, and classes.  
 
-### Stay tuned as loading materials shortly! 12.05.2022  
+#### Update 01-12-2023
+### Finalizing loading of e-learning materials and then frame out here 
+
 
 ![zion](https://user-images.githubusercontent.com/59778456/206495081-1c7b5814-6a93-41cc-be3c-693ce719eab0.JPG)
 
@@ -13,6 +15,8 @@ course being released on ICARUS AI, https://icarus.education/
 
 ## Hotdog or Sci-fi ?
 ![hotdog](https://user-images.githubusercontent.com/59778456/205523364-fdac8740-d6ff-4c4f-b3d6-dd5ecadb2c78.JPG)
+
+![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
 
 **Portfolio**  
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
