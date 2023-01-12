@@ -1,4 +1,4 @@
-## >_7.Pillars.of.Python  
+## >_7pyPillars
 course being released on ICARUS AI, https://icarus.education/  
 
 •	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
