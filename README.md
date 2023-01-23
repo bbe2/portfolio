@@ -16,7 +16,7 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.  
 
 =========  
-=> NEW November 2022 - course accepted !   https://icarus.education/  
+**NEW** 1Q23 - https://icarus.education/  
 **>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
 • Formulated an innovative Python learning module to address deficiencies in current training literature.  
 • Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
