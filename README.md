@@ -1,15 +1,13 @@
 **Welcome!** Thank you for learning about my substance. ~brianh
 
-I am a technical curriculum developer, instructional designer, and university instructor who delivers effective
-learning experiences and creative content. Deep reengineering work and hands-on programming help me assess
-situations, decipher solutions, and bridge content to learners.  
+I'm a writer, instructional designer, technical curriculum developer, and university instructor delivering compelling learning experiences and creative content. Deep operations reengineering work and creation of effective programming courses informs design choices to help effectively bridge constructs to learners.  
 
-**Key administration offerings**  
-• Proven skills in partnering with leaders and engineers to intuit goals and frame needs analysis objectives.  
-• Skilled at mapping an instructional designer's strategy and methods for complex material skilling.  
-• Need the complex explained? Rely on my keen grok skills to decipher, translate, and bridge content.  
-• Are there curious creatures on your team? Happy to share recent neuroscience literature learnings.   
-• Do other people matter? Of course, tutoring a clinical associate to pass TEAS and start nursing school.  
+**Key offerings**  
+• Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.  
+• Apply theory and learning principles to multimedia to achieve desired learning focus.  
+• Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect to content.  
+• Promote a positive and supportive learning environment among peers.
+• Actively assist friends and their acquaintances with learner coaching and tutoring needs.
 
 **Key pedagogical offerings**  
 • A passionate instructor of practice-oriented learning.  
