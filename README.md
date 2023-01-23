@@ -15,9 +15,6 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
 • My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.
 
-**Interesting**  
-https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
-
 =========  
 => NEW November 2022 - course accepted !  
 https://icarus.education/  
