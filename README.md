@@ -13,12 +13,11 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • A passionate instructor of practice-oriented learning.  
 • Connect with students and deliver curriculums with pace, agility, and activities they love.   
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
-• My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.
+• My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.  
 
 =========  
-=> NEW November 2022 - course accepted !  
-https://icarus.education/  
-### >_7.Pillars.of.Python   
+=> NEW November 2022 - course accepted !   https://icarus.education/  
+**>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
 
 •	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
 •	Designed for learners to experience plasticity performing data transformation and grok coding of iterators, conditions, and classes.  
@@ -62,10 +61,19 @@ Does your magic 8's priors indicate Isaac Asimov's children will drown?
 
 > Cooper  
 > -- No. **It's necessary.**  
-
-
 Interstellar, screenplay, p.122, 2014  
+
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
 
 ## Hotdog or sci-fi?
 ![hotdog](https://user-images.githubusercontent.com/59778456/205523364-fdac8740-d6ff-4c4f-b3d6-dd5ecadb2c78.JPG)
+
+**recent gems**  
+• https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
+• https://theskylive.com/________connected to NASA jet propulsion data, amazing   
+• https://www.abebooks.com/______excellent source used book providers, nothing finer  
+• https://onlinecolumnist.com/___author John M. Curtis (author of Dodging The Bullet {hard book to get!})  
+•________________________________=> politically neutral commentary analyzing spin in national and global news.  
+ 
+--Thank you for stopping by and learning about my substance ~brian  
+**>_7.pillars.of.py** | course author** innovative Python essentials  module to fill existing training literature gaps.
