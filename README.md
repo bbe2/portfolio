@@ -18,12 +18,9 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 =========  
 => NEW November 2022 - course accepted !   https://icarus.education/  
 **>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
-
-•	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
-•	Designed for learners to experience plasticity performing data transformation and grok coding of iterators, conditions, and classes.  
-•	Targeted learners are new and existing programmers who struggle with datacasting and manipulation.  
-•	ICARUS-AI agreed to include the course in its E-Learning platform.  
-
+• Formulated an innovative Python learning module to address deficiencies in current training literature.  
+• Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
+• Designed to experience plasticity with data transformers and coding of iterators, conditions, and classes.  
 
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
