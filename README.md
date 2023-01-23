@@ -6,8 +6,8 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.  
 • Apply theory and learning principles to multimedia to achieve desired learning focus.  
 • Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect to content.  
-• Promote a positive and supportive learning environment among peers.
-• Actively assist friends and their acquaintances with learner coaching and tutoring needs.
+• Promote a positive and supportive learning environment among peers.  
+• Actively assist friends and their acquaintances with learner coaching and tutoring needs.  
 
 **Key pedagogical offerings**  
 • A passionate instructor of practice-oriented learning.  
