@@ -41,20 +41,16 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
 • >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
---------------
-## Have a moment?  
-=> How will robotics of the REAL work with humans to compute at critical moments?  
-Does your magic 8's priors indicate Isaac Asimov's children will drown?  
 
----------
+## Have a moment?  
+Q: How will robotics of the REAL work with humans to compute at critical moments?  
+Q: Does your magic 8's priors indicate Isaac Asimov's children will drown?  
 
 > Cooper (human)  
 > -- Get ready to match our spin with the retro-thrusters  
 
-
 >> CASE (robot)  
 >> -- It's not possible.  
-
 
 > Cooper  
 > -- No. **It's necessary.**  
@@ -62,7 +58,7 @@ Interstellar, screenplay, p.122, 2014
 
 ![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
 
-## Hotdog or sci-fi?
+## Sci-fi or hot-dog?
 ![hotdog](https://user-images.githubusercontent.com/59778456/205523364-fdac8740-d6ff-4c4f-b3d6-dd5ecadb2c78.JPG)
 
 **recent gems**  
