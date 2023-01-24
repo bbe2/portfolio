@@ -74,6 +74,3 @@ https://static1.squarespace.com/static/5a1c2452268b96d901cd3471/t/5b95b7b0032be4
 • https://www.abebooks.com/______excellent source used book providers, nothing finer  
 • https://onlinecolumnist.com/___author John M. Curtis (author of Dodging The Bullet {hard book to get!})  
 •________________________________=> politically neutral commentary analyzing spin in national and global news.  
- 
---Thank you for stopping by and learning about my substance ~brian  
-**>_7.pillars.of.py** | course author** innovative Python essentials  module to fill existing training literature gaps.
