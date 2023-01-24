@@ -1,5 +1,4 @@
 **Welcome!** Thank you for learning about my substance. ~brianh  
-https://github.com/bbe2/portfolio/blob/cv/brian%20hogan%20cv.pdf  
 
 I'm a writer, instructional designer, technical curriculum developer, and university instructor delivering compelling learning experiences and creative content. Deep operations reengineering work and creation of effective programming courses informs design choices to help effectively bridge constructs to learners.  
 
@@ -16,6 +15,7 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
 • My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.  
 
+cv: https://github.com/bbe2/portfolio/blob/cv/brian%20hogan%20cv.pdf  
 =========  
 **NEW** 1Q23 - https://icarus.education/  
 **>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
