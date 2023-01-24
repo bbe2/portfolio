@@ -1,4 +1,5 @@
-**Welcome!** Thank you for learning about my substance. ~brianh
+**Welcome!** Thank you for learning about my substance. ~brianh  
+https://github.com/bbe2/portfolio/blob/cv/brian%20hogan%20cv.pdf  
 
 I'm a writer, instructional designer, technical curriculum developer, and university instructor delivering compelling learning experiences and creative content. Deep operations reengineering work and creation of effective programming courses informs design choices to help effectively bridge constructs to learners.  
 
