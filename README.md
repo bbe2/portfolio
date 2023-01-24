@@ -13,13 +13,6 @@ https://www.emsdiasum.com/nightsea-fluorescence-viewing-systems
 ### Drive up to a new walmart gas station portal, load groceries, go.
 ![alpha](https://user-images.githubusercontent.com/59778456/193908585-5b92866d-9c4b-4624-8d3c-64edacaf3b01.JPG)  
 
-----------
-## 11.2022 - THRILLED! to update TMC documentation for
-## STACIS IV inertial active vibration isolation system
-![TMC_Stacis III](https://user-images.githubusercontent.com/59778456/204631246-f244d3d1-63f9-47f9-914d-553c1184afbb.JPG)
-
--------------
-
 **Portfolio**  
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
 • code training an samples_https://github.com/bbe2/portfolio/tree/code  
