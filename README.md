@@ -11,7 +11,7 @@ course being released on ICARUS AI, https://icarus.education/
 
 ![zion](https://user-images.githubusercontent.com/59778456/206495081-1c7b5814-6a93-41cc-be3c-693ce719eab0.JPG)
 
-[zion.pdf](https://github.com/bbe2/portfolio/files/10187130/zion.pdf)
+https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/zipper.pdf  
 ![1_main_half_design](https://user-images.githubusercontent.com/59778456/214466808-b6addf28-326b-4c48-8c10-8f70c6546bfc.JPG)
 
 **Portfolio**  
