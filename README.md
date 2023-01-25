@@ -1,6 +1,6 @@
 Thank you for your time learning about my substance. ~brianh  
 
-I'm a writer, instructional designer, technical curriculum developer, and university instructor delivering compelling learning experiences and creative content. Deep operations reengineering work and creation of effective programming courses informs design choices to help effectively bridge constructs to learners.  
+I'm a writer, instructional designer, technical curriculum developer, and university instructor delivering compelling learning experiences and creative content. Deep operations reengineering and programming skills inform design choices that effectively bridge constructs to learners.  
 
 **Key offerings**  
 • Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.  
