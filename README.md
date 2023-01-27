@@ -20,7 +20,7 @@ Page 1 of zion code book associated with it.
 -----------
 ![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
 
-def binary_search():  
+**def binary_search():**  
     """ #ID.1 = binary.search.algorithm  
     Created on Thu Jan 26 20:06:50 2023  
     @author: 17574, b.hogan@snhu.edu  
