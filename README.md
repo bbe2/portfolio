@@ -25,9 +25,10 @@ Assisted in evaluating call bell signal standardization across units to help dis
 ![falls_evidence](https://user-images.githubusercontent.com/59778456/208103790-0d2b4202-c0cc-4740-b0b1-b5b170b473a3.JPG)
 
 ------------
-![hourly roudning plaquards](https://user-images.githubusercontent.com/59778456/193832448-9cc02c3a-94da-44a8-a3f4-7f05582d64c8.JPG)
+![hourly roudning plaquards](https://user-images.githubusercontent.com/59778456/193832448-9cc02c3a-94da-44a8-a3f4-7f05582d64c8.JPG)  
 
-[hourly round spreadsheet.pdf](https://github.com/bbe2/portfolio/files/10531020/hourly.round.spreadsheet.pdf)
+https://github.com/bbe2/portfolio/blob/research_experience/(research)(hourly%20rounding)%20data%20collection.pdf  
+[hourly round spreadsheet.pdf](https://github.com/bbe2/portfolio/files/10531020/hourly.round.spreadsheet.pdf)  
 
 
 --------------
