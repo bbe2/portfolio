@@ -57,14 +57,12 @@ Q: Does your magic 8's priors indicate Isaac Asimov's children will drown?
 
 > Cooper  
 > -- No. **It's necessary.**  
+---------> Interstellar, screenplay, p.122, 2014  
 
-========================================  
-Interstellar, screenplay, p.122, 2014  
-https://static1.squarespace.com/static/5a1c2452268b96d901cd3471/t/5b95b7b0032be4f0cd3a8db2/1536538544682/Interstallar.pdf
-
-![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
-
+------------------------------------
 ## Sci-fi or hot-dog?
+![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
+#### watch or read how litchenstein built these types of images. major idea generator!
 ![hotdog](https://user-images.githubusercontent.com/59778456/205523364-fdac8740-d6ff-4c4f-b3d6-dd5ecadb2c78.JPG)
 
 **recent gems**  
