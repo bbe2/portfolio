@@ -20,7 +20,7 @@ Investigated the efficacy of evidence-based practice purposeful hourly rounding 
 • Outcomes: associate chief nursing officer presented the methods, viability, and benefits of adopting purposeful hourly rounding.  
 **Outcomes:** included situational fall factor nurse prevention and locating upgrade parts for the call bell system in a 23 bed, 70 staff department.   
 
-#### B: Evidence-based practice - Call bells  
+#### B: Evidence-based practice - call bells  
 Assisted in evaluating call bell signal standardization across units to help distinguish noncritical care requests from critical requests.  
 •	Located call bell system parts but wasn't able to upgrade the system.  
 
