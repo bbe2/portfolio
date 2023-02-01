@@ -4,8 +4,8 @@
 
 [(outcome) Hourly rounding and fall incident.pdf](https://github.com/bbe2/portfolio/files/10232567/outcome.Hourly.rounding.and.fall.incident.pdf)  
 [(outcome) Nurse Rounding Badges.pdf](https://github.com/bbe2/portfolio/files/10232564/outcome.Nurse.Rounding.Badges.pdf)  
-[patient fall factor evidence based summary.pdf](https://github.com/bbe2/portfolio/files/10245569/patient.fall.factor.evidence.based.summary.pdf)
-[(fact.sheet).gender.reassignment.surgery.pdf](https://github.com/bbe2/portfolio/files/10552264/fact.sheet.gender.reassignment.surgery.pdf)
+[patient fall factor evidence based summary.pdf](https://github.com/bbe2/portfolio/files/10245569/patient.fall.factor.evidence.based.summary.pdf)  
+[(fact.sheet).gender.reassignment.surgery.pdf](https://github.com/bbe2/portfolio/files/10552264/fact.sheet.gender.reassignment.surgery.pdf)  
 
 ---------
 23-bed, 63-nurse and associate acute care floor	June 2021 - Jan 2022  
