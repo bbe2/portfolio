@@ -7,10 +7,10 @@
 [patient fall factor evidence based summary.pdf](https://github.com/bbe2/portfolio/files/10245569/patient.fall.factor.evidence.based.summary.pdf)  
 [(fact.sheet).gender.reassignment.surgery.pdf](https://github.com/bbe2/portfolio/files/10552264/fact.sheet.gender.reassignment.surgery.pdf)  
 
----------
-Research Situation
+---------  
+Research Situation  
 23-bed, 63-nurse and associate acute care floor	June 2021 - Jan 2022  
-Winchester Hospital	
+Winchester Hospital	 
 
 #### A: Evidence-based practice - hourly rounding  
 Investigated the efficacy of evidence-based practice purposeful hourly rounding on patient falls and length of stay satisfaction.  
