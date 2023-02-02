@@ -41,7 +41,7 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
 • technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
-• tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• google_an_tech_curriculum__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
 • >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
 
