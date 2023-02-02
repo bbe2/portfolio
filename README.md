@@ -1,5 +1,5 @@
 • Thank you for your time learning about my substance! ~brianh  
-• this page => technical curriculum development and Grow with Google portfolio  
+• this page => technical curriculum development and Google Content Writer portfolio    
 
 ::: full google test script and notebook above as items a and b  
 ::: ensure to check out my systems and design class https://github.com/bbe2/IT.304.Fall.2022  
