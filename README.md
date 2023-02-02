@@ -5,7 +5,7 @@
 ::: ensure to check out my systems and design class https://github.com/bbe2/IT.304.Fall.2022  
 
 --------------
-Grow with Google Entrance Exam
+Grow with Google Entrance Exam (see computer talk script above)
 ---------
 
 ![gwg_git_main_page](https://user-images.githubusercontent.com/59778456/197065213-a74b7d01-9eb2-480a-9ae8-8eb88f0957ed.JPG)
