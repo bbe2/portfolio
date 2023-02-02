@@ -17,7 +17,8 @@ Grow with Google Entrance Exam
 --------------
 
 ### => foobar is tricky so prep if you get in
-I know a secret key if you want to try your luck at getting a google developer interview.
+• I was very grateful for the opportunity to get in and pass three levels before timing out.
+• I know a secret key if you want to try your luck at getting a google developer interview.
 
 ![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
 
