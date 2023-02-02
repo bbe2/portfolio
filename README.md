@@ -24,17 +24,17 @@ Grow with Google Entrance Exam
 
 ![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
 
-Portfolio
-• coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
-• code training an samples_https://github.com/bbe2/portfolio/tree/code  
-• Google Prof. ML Cert_____https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
-• master of science port____https://github.com/bbe2/portfolio/tree/master_portfolio  
-• multimedia_styleguide___https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• re-engineering____________https://github.com/bbe2/portfolio/tree/reengineering  
-• reference_recommend____https://github.com/bbe2/portfolio/tree/reference_recommend  
-• research_experience______https://github.com/bbe2/portfolio/tree/research_experience  
-• scientific_editing__________https://github.com/bbe2/portfolio/tree/scientific_edit  
-• teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
-• technical writing__________https://github.com/bbe2/portfolio/tree/tech_write  
-• tech curriculum + Grow w Google__https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• >_7.Pillars.of.Python______https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+Portfolio  
+• coach.tutor.volunteer_______https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
+• code.train.an.samples_______https://github.com/bbe2/portfolio/tree/code  
+• google.content.writer______https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• google.ML.professional.cert_https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
+• master.of.science.port______https://github.com/bbe2/portfolio/tree/master_portfolio  
+• multimedia.styleguide______https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
+• re-engineering_____________https://github.com/bbe2/portfolio/tree/reengineering  
+• reference.recommend______https://github.com/bbe2/portfolio/tree/reference_recommend  
+• research.experience________https://github.com/bbe2/portfolio/tree/research_experience  
+• scientific.editing____________https://github.com/bbe2/portfolio/tree/scientific_edit  
+• teaching____________________https://github.com/bbe2/portfolio/tree/teaching  
+• technical.writing____________https://github.com/bbe2/portfolio/tree/tech_write  
+• >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
