@@ -5,16 +5,14 @@
 ::: ensure to check out my systems and design class https://github.com/bbe2/IT.304.Fall.2022  
 
 --------------
-Grow with Google Entrance Exam (see computer talk script above)
+Grow with Google Entrance Exam
 ---------
 
 ![gwg_git_main_page](https://user-images.githubusercontent.com/59778456/197065213-a74b7d01-9eb2-480a-9ae8-8eb88f0957ed.JPG)
 
-![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
+![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
 
 ![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/206504660-2b9c89c3-19e4-4568-a82a-a2cfce4bedb4.JPG)
-
-![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
 
 --------------
 
@@ -23,6 +21,7 @@ I know a secret key if you want to try your luck at getting a google developer i
 
 ![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
 
+![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
 
 Portfolio
 • coach_tutor_volunteer_____https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
