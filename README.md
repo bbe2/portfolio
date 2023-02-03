@@ -3,6 +3,18 @@
 
 ---------
 
+**MENTORING EXPERIENCE**
+
+Name		Institution	Department	Mentoring Focus		Date		Current Position  
+Teddy		Alert 		Information	Portfolio, personal	Feb 2022 -	IT Analyst II  
+Mbuthi^		Innovation	Technology	statement, training.	present
+
+Selena		Winchester	Inpatient	TEAS exam tutoring	Oct 2022 -	Certified Nurse  
+Washington	Hospital	Services	for nursing school	- present	Assistant  
+
+Harrison	Sober		GED tutoring	May 2020 -  
+X		House				July 2020  
+
 • Volunteer, 4Q22 
 • Tutoring a clinical associate to pass TEAS exam and start nursing school.
 
