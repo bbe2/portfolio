@@ -20,6 +20,10 @@ Page 1 of zion code book associated with it.
 -----------
 ![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
 
+
+### some programs want to see writing of core scripts even if available in common libraries
+i don't disagree with this approach but feel it should be part of a cheatsheet with purpose, variations, and what current libraries are performing it well. I don't have to blow this out now but would like to when i have an undergrad assistant  
+
 **def binary_search():**  
     """ #ID.1 = binary.search.algorithm  
     Created on Thu Jan 26 20:06:50 2023  
