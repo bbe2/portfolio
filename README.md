@@ -21,8 +21,8 @@ Page 1 of zion code book associated with it.
 ![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
 
 
-### some programs want to see writing of core scripts even if available in common libraries
-i don't disagree with this approach but feel it should be part of a cheatsheet with purpose, variations, and what current libraries are performing it well. I don't have to blow this out now but would like to when i have an undergrad assistant  
+### some computer science departments want to see writing of core scripts even if available in common libraries  
+i don't disagree, but feel it should be part of a cheatsheet with purpose, variations, how to know if working right, and what current libraries perform it well. In the last month alone (from 02.04.23) I've experience 8 students discussing how they use ChatGPT to survive coding classes but do so with a low retention rate. There needs to be a balance towards solving the problem and getting assistance as needed until more advanced  
 
 **def binary_search():**  
     """ #ID.1 = binary.search.algorithm  
