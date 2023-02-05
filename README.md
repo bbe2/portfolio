@@ -34,14 +34,14 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • google.ML.prof.certification_https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
 • master.of.science.port_____https://github.com/bbe2/portfolio/tree/master_portfolio  
 • multimedia.styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• re-engineering_____________https://github.com/bbe2/portfolio/tree/reengineering  
+• reengineering______________https://github.com/bbe2/portfolio/tree/reengineering  
 • recommendations_________https://github.com/bbe2/portfolio/tree/reference_recommend  
 • research.experience_______https://github.com/bbe2/portfolio/tree/research_experience  
 • scientific.editing___________https://github.com/bbe2/portfolio/tree/scientific_edit  
 • teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
-• google.content.writer______https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• >_7.py.pillars______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+• google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
 
 ## Have a moment?  
