@@ -14,7 +14,7 @@ objects use machine components to translate and play back
 
 ![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
 
-![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/206504660-2b9c89c3-19e4-4568-a82a-a2cfce4bedb4.JPG)
+![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/217046477-48968c5c-39d1-47b6-ad13-fc648f8e5e76.JPG)
 
 --------------
 
