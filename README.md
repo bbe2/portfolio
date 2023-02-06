@@ -6,7 +6,8 @@
 
 --------------
 Grow with Google: My entrance exam solution  
-approach: computer asks you a question, you answer, objects use machine components to translate speech and play it back to you  
+computer asks you a question, you answer  
+objects use machine components to translate and play back  
 ---------
 
 ![gwg_git_main_page](https://user-images.githubusercontent.com/59778456/197065213-a74b7d01-9eb2-480a-9ae8-8eb88f0957ed.JPG)
