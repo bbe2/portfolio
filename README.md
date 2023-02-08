@@ -16,7 +16,7 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.  
 
 **cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/10575035/brian.hogan.cv.pdf)  
- **resume** - [brian.hogan.resume.pdf](https://github.com/bbe2/portfolio/files/10551623/brian.hogan.resume.pdf)  
+ **resume** - [brian_hogan_p.pdf](https://github.com/bbe2/portfolio/files/10680836/brian_hogan_p.pdf)  
 
 **NEW** 1Q23 - https://icarus.education/  
 **>_7.pillars.of.py** | author of an innovative Python learning module to address deficiencies in current literature.  
