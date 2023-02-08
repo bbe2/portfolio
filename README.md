@@ -1,9 +1,9 @@
-Thank you for your time learning about my substance! ~brianh
+Thank you for your time learning about my substance! ~brianh  
 • this page => NEW! multimedia asset descriptions and styleguides  
 
-
 ----------
-NEW side project  
+**NEW project**
+expected completion by March 2023  
 • Carefully curated and consolidated style guides to help those I tutor  
 • and others seeking to build scientific writing basics. 
 
