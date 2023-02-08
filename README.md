@@ -8,9 +8,9 @@
 https://www.emsdiasum.com/nightsea-fluorescence-viewing-systems  
 
 ------------
-## 2021 => 100+ mega manual for Alert Innovation's automated grocery store  
+## Alert Innovation User Manual for its automated grocery store  
 ### Widespread in America by 2030!  
-### Drive up to a new walmart gas station portal, load groceries, go.
+### Please ask to view a sample in more detail  
 ![alpha](https://user-images.githubusercontent.com/59778456/193908585-5b92866d-9c4b-4624-8d3c-64edacaf3b01.JPG)  
 
 **Portfolio**  
