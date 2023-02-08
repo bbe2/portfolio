@@ -26,17 +26,18 @@ objects use machine components to translate and play back
 
 ![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
 
-Portfolio  
-• coach.tutor.volunteer_______https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
-• code.train.an.samples_______https://github.com/bbe2/portfolio/tree/code  
-• google.content.writer______https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• google.ML.professional.cert_https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
-• master.of.science.port______https://github.com/bbe2/portfolio/tree/master_portfolio  
-• multimedia.styleguide______https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• re-engineering_____________https://github.com/bbe2/portfolio/tree/reengineering  
-• reference.recommend______https://github.com/bbe2/portfolio/tree/reference_recommend  
-• research.experience________https://github.com/bbe2/portfolio/tree/research_experience  
-• scientific.editing____________https://github.com/bbe2/portfolio/tree/scientific_edit  
-• teaching____________________https://github.com/bbe2/portfolio/tree/teaching  
-• technical.writing____________https://github.com/bbe2/portfolio/tree/tech_write  
+-----------
+**Portfolio**  https://github.com/bbe2/portfolio  
+• tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
+• code_______________________https://github.com/bbe2/portfolio/tree/code  
+• google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• google.ML.certification___https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
+• master.of.science.port_____https://github.com/bbe2/portfolio/tree/master_portfolio  
+• multimedia.styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
+• reengineering______________https://github.com/bbe2/portfolio/tree/reengineering  
+• recommendations_________https://github.com/bbe2/portfolio/tree/reference_recommend  
+• research.experience_______https://github.com/bbe2/portfolio/tree/research_experience  
+• scientific.editing___________https://github.com/bbe2/portfolio/tree/scientific_edit  
+• teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
+• technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
