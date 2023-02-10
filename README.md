@@ -15,7 +15,8 @@ Part I of VII, self-paced training modules on Python's classes, conditionals, da
 7 Pillars focuses on Python because can cast unfamiliar data objects to Python built-ins (dictionary, list, etc).
 Students quickly GET this.
 
-Page 1 of the.zipper
+zipper (python): [zipper.pdf](https://github.com/bbe2/portfolio/files/10711992/zipper.pdf)
+
 
 -----------
 ![7_pillars](https://user-images.githubusercontent.com/59778456/200092472-1e7b6db7-0e17-4caa-bc10-90751f194708.JPG)
