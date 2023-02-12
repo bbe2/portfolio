@@ -8,11 +8,13 @@ course being released on ICARUS AI, https://icarus.education/
 #### Update 01-12-2023
 ### Finalizing loading of e-learning materials and then frame out here 
 
-
-![zion](https://user-images.githubusercontent.com/59778456/206495081-1c7b5814-6a93-41cc-be3c-693ce719eab0.JPG)
-
 https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/zipper.pdf  
-![1_main_half_design](https://user-images.githubusercontent.com/59778456/214466808-b6addf28-326b-4c48-8c10-8f70c6546bfc.JPG)
+![zion](https://user-images.githubusercontent.com/59778456/206495081-1c7b5814-6a93-41cc-be3c-693ce719eab0.JPG)  
+
+[pillar.4.transformation.pdf](https://github.com/bbe2/portfolio/files/10717598/pillar.4.transformation.pdf)  
+
+![transformation](https://user-images.githubusercontent.com/59778456/218343940-56e2164a-daef-41ae-99c4-c0d1945caf6f.JPG)  
+
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
