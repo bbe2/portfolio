@@ -6,7 +6,7 @@
 
 --------------
 Grow with Google: Entrance exam solution  
-computer asks user a question, user answers and computer plays back  
+#### computer asks user a question, user answers and computer plays back  
 ---------
 
 ![gwg_git_main_page](https://user-images.githubusercontent.com/59778456/197065213-a74b7d01-9eb2-480a-9ae8-8eb88f0957ed.JPG)
