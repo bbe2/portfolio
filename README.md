@@ -15,7 +15,7 @@ objects use machine components to translate and play back
 ![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
 
 ------------
-###One week high-school intensive course instructional design  
+### One week high-school intensive course instructional design  
 
 ![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/217046477-48968c5c-39d1-47b6-ad13-fc648f8e5e76.JPG)
 
