@@ -14,6 +14,9 @@ objects use machine components to translate and play back
 
 ![GwG_test_code](https://user-images.githubusercontent.com/59778456/202330185-cb873e13-2568-4d21-a39d-c49c20e1fcb3.JPG)
 
+------------
+###One week high-school intensive course instructional design  
+
 ![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/217046477-48968c5c-39d1-47b6-ad13-fc648f8e5e76.JPG)
 
 --------------
@@ -24,7 +27,7 @@ objects use machine components to translate and play back
 
 ![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
 
-###One week high-school intensive course instructional design  
+
 ![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
 
 -----------
