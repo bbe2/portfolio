@@ -15,8 +15,8 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
 • My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.  
 
-**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/10712086/brian.hogan.cv.pdf)  
- **resume** - [brian.hogan.resume.pdf](https://github.com/bbe2/portfolio/files/10712089/brian.hogan.resume.pdf)  
+**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/10738414/brian.hogan.cv.pdf)
+ **resume** - 
 
 
 **NEW** 1Q23 - https://icarus.education/  
