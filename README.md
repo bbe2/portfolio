@@ -26,8 +26,6 @@ computer asks user a question, user answers and computer plays back
 ![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
 
 
-![me_teaching](https://user-images.githubusercontent.com/59778456/201562262-f9a9ac5a-25ae-47d9-ac80-868ebab02dbe.jpg)
-
 -----------
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
