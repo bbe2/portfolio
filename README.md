@@ -53,3 +53,6 @@ Assisted in evaluating call bell signal standardization across units to help dis
 • teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+
+![powered by flow](https://user-images.githubusercontent.com/59778456/221059291-70c7efed-cb3a-47a4-82ca-ea720d90ea2d.PNG)
+
