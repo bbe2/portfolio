@@ -1,12 +1,14 @@
-## >_7.py.Pillars
+## >_7.Pillars.of.Python  
 course being released on ICARUS AI, https://icarus.education/  
 
 •	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
 •	ICARUS-AI agreed to include the course in its E-Learning platform.  
 •	Designed for learners to experience plasticity performing data transformation and grok coding of iterators, conditions, and classes.  
 
-#### Update 01-12-2023
-### Finalizing loading of e-learning materials and then frame out here 
+#### Update 03-12-2023 - optimizing course
+
+
+![me_icarus](https://user-images.githubusercontent.com/59778456/222830076-69c8771c-6b5c-47bb-8761-e6c8ef93160d.PNG)  
 
 https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/zipper.pdf  
 ![zion](https://user-images.githubusercontent.com/59778456/206495081-1c7b5814-6a93-41cc-be3c-693ce719eab0.JPG)  
