@@ -15,7 +15,8 @@ Performed business process reengineering in defense, manufacturing, and pharma i
 ### Click for project portfolio summary  
 https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project_experience.pdf
 
-![x overview-reeng-experience](https://user-images.githubusercontent.com/59778456/193808729-8bd21bf0-a79b-4df8-a27a-49512a3f9cde.JPG)
+
+![proejct tree](https://user-images.githubusercontent.com/59778456/225454185-17f1c961-af6d-47f7-a103-be7445254aba.PNG)
 
 ![image](https://user-images.githubusercontent.com/59778456/201487300-efc0a79b-fb39-4a7a-8d10-3cd64da28dd3.png)
 -------------
