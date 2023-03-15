@@ -4,12 +4,11 @@ Thank you for your time learning about my substance! ~brianh
 
 **Project Manager and Consultant, ProModel, Orem, UT** 2004 - 2016  
 
-Performed business process reengineering in defense, manufacturing, and pharma industries, including  
-• Leadership of client project management specifications, developers, and needs analysis.  
-• Performed needs analysis, data science, C++ modeling, and drafted process models, DFD, and IDEF.  
-• Simulated demand/capacity, budget forecasting, and program management with decision methods.  
-• Performed technical writing, technical curriculum development, SOW, and client facing editing.  
-• Drafted and delivered data science curriculum at Lockheed, NASA, Pfizer, and West Point.  
+Performed 30+ business process reengineering, application development, and implementation in defense (security clearance), manufacturing, and pharma industries. Leadership of clients and developers included  
+•	Strategic assessments, project management, and wrote specifications.  
+•	Performed C++ coding and designed with ERD, EER, DFD, and IDEF0.  
+•	Demand planning, resource/budget forecasting, and program management.  
+
 
 --------------------
 ### Click for project portfolio summary  
