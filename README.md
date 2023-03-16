@@ -1,15 +1,17 @@
  Thank you for your time learning about my substance! ~brianh  
-• this page => technical writing, including manuals  
+• this page => technical writing, user manuals, preventative maintenance  
 
 -----------
 
-![x_notes_circuit_repair](https://user-images.githubusercontent.com/59778456/203395384-06633306-b4f2-43ed-8321-8e4e1973cb82.JPG)  
+![nighsea tech write](https://user-images.githubusercontent.com/59778456/225685454-2c5b0546-8f3b-4732-8313-08ee3f055e84.PNG)
+
 
 https://www.emsdiasum.com/nightsea-fluorescence-viewing-systems  
 
 ------------
 ## User manual sample  
-![alpha](https://user-images.githubusercontent.com/59778456/193908585-5b92866d-9c4b-4624-8d3c-64edacaf3b01.JPG)  
+![alpha](https://user-images.githubusercontent.com/59778456/225686016-5dd735d8-141d-42e2-b16b-f2d0d241b386.JPG)
+
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
