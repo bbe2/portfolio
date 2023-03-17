@@ -65,6 +65,7 @@ i don't disagree, but feel it should be part of a cheatsheet with purpose, varia
     return -1
 binary_search()
 
+![weird](https://user-images.githubusercontent.com/59778456/226056427-3abf90f0-5080-4f42-92e3-196b2a6b2944.JPG)
 
 --------------
 **Portfolio**  https://github.com/bbe2/portfolio  
