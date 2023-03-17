@@ -2,7 +2,12 @@
 • this page => coach, tutor, volunteer   
 
 ---------
+### **e-trash**
+• to support workstation equity, provide students with 2nd and 3rd monitors from Winchester, MA e-trash recycling center  
+![graphic board](https://user-images.githubusercontent.com/59778456/226052991-4dd8bb62-475b-459f-908c-f851a4ae18dd.jpg)
+![memory](https://user-images.githubusercontent.com/59778456/226053038-640d7e45-9371-4d5a-a3a0-06916f89a8a3.jpg)
 
+-------
 ![mentoring](https://user-images.githubusercontent.com/59778456/216498620-566271fb-a960-4124-ac09-2c423a25b504.JPG)
 
 • Volunteer, 4Q22 
