@@ -17,6 +17,7 @@ https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/zipper.pdf
 
 ![transformation](https://user-images.githubusercontent.com/59778456/218343940-56e2164a-daef-41ae-99c4-c0d1945caf6f.JPG)  
 
+![weird](https://user-images.githubusercontent.com/59778456/226056820-7252c500-ef94-4c0d-8358-e5b5b496dd9b.JPG)
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
