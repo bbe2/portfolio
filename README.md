@@ -1,21 +1,18 @@
 Thank you for your time learning about my substance. ~brianh  
 
-I'm a writer, instructional designer, technical curriculum developer, and university instructor delivering compelling learning experiences and creative content. Deep operations reengineering and programming skills inform design choices that effectively bridge constructs to learners.  
-
 **Key offerings**  
-• Proven skills in partnering with leaders to intuit goals and ensure program learning objectives.  
-• Apply theory and learning principles to multimedia to achieve desired learning focus.  
-• Need the complex explained? Rely on my keen grok skills to decipher, translate, and connect to content.  
-• Promote a positive and supportive learning environment among peers.  
-• Actively assist friends and their acquaintances with learner coaching and tutoring needs.  
+**Designer of applied organic structures and code to support collaborative active student learning**
 
-**Key pedagogical offerings**  
-• A passionate instructor of practice-oriented learning.  
-• Connect with students and deliver curriculums with pace, agility, and activities they love.   
-• Adept curriculum builder excelling at skilling materials to suit department and student characteristics.  
-• My curriculum strategy prepares students by training them in an AI Megalosaurus like Google Cloud.  
 
-**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/10996549/brian.hogan.cv.pdf)
+![teaching statement](https://user-images.githubusercontent.com/59778456/227400193-d5f50345-8ac6-4287-8e30-d6fc969e9da7.PNG)
+
+
+
+
+**cv** - 
+[brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11057599/brian.hogan.cv.pdf)  
+[brian.hogan.cover.letter.pdf](https://github.com/bbe2/portfolio/files/11057600/brian.hogan.cover.letter.pdf)  
+[b.hogan.teach.philosphy.pdf](https://github.com/bbe2/portfolio/files/11057644/b.hogan.teach.philosphy.pdf)  
 
 
 **NEW** 1Q23 - https://icarus.education/  
@@ -26,7 +23,20 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
----------
+
+## Question  
+Q: How will robotics of the REAL work with humans to compute at critical moments?  
+Q: Does your magic 8's priors indicate Isaac Asimov's children will drown?  
+
+> Cooper (human)  
+> -- Get ready to match our spin with the retro-thrusters  
+
+>> CASE (robot)  
+>> -- It's not possible.  
+
+> Cooper  
+> -- No. **It's necessary.**  
+---------> Interstellar, screenplay, p.122, 2014  
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
@@ -43,30 +53,3 @@ I'm a writer, instructional designer, technical curriculum developer, and univer
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
-
-## Have a moment?  
-Q: How will robotics of the REAL work with humans to compute at critical moments?  
-Q: Does your magic 8's priors indicate Isaac Asimov's children will drown?  
-
-> Cooper (human)  
-> -- Get ready to match our spin with the retro-thrusters  
-
->> CASE (robot)  
->> -- It's not possible.  
-
-> Cooper  
-> -- No. **It's necessary.**  
----------> Interstellar, screenplay, p.122, 2014  
-
-------------------------------------
-## Sci-fi or hot-dog?
-![interstellar_docking](https://user-images.githubusercontent.com/59778456/200317941-8f81370f-bc52-465b-884f-547688374899.JPG)
-#### watch or read how litchenstein built these types of images. major idea generator!
-![hotdog](https://user-images.githubusercontent.com/59778456/205523364-fdac8740-d6ff-4c4f-b3d6-dd5ecadb2c78.JPG)
-
-**recent gems**  
-• https://personal.math.ubc.ca/~cass/Euclid/euclid.html  
-• https://theskylive.com/________connected to NASA jet propulsion data, amazing   
-• https://www.abebooks.com/______excellent source used book providers, nothing finer  
-• https://onlinecolumnist.com/articles/ John M. Curtis (author of Dodging The Bullet {hard book to get!})  
-•________________________________=> politically neutral commentary analyzing spin in national and global news.  
