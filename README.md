@@ -3,17 +3,12 @@ Thank you for your time learning about my substance. ~brianh
 **Key offerings**  
 **Designer of applied organic structures and code to support collaborative active student learning**
 
-
-![teaching statement](https://user-images.githubusercontent.com/59778456/227400193-d5f50345-8ac6-4287-8e30-d6fc969e9da7.PNG)
-
+![teach philosophy](https://user-images.githubusercontent.com/59778456/228381772-6acc3419-b629-4389-8e22-2b547fbda282.PNG)
 
 
-
-**cv** - 
-[brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11057599/brian.hogan.cv.pdf)  
+**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11094713/brian.hogan.cv.pdf)
 **resume** - [brian.hogan.pdf](https://github.com/bbe2/portfolio/files/11093648/brian.hogan.pdf)  
 [brian.hogan.cover.letter.pdf](https://github.com/bbe2/portfolio/files/11057600/brian.hogan.cover.letter.pdf)  
-
 
 **NEW** 1Q23 - https://icarus.education/  
 **>_7.Pillars.of.Python** | author of an innovative Python learning module to address deficiencies in current literature.  
