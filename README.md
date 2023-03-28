@@ -19,9 +19,8 @@ Thank you for your time learning about my substance. ~brianh
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
 
-## Question  
 Q: How will robotics of the REAL work with humans to compute at critical moments?  
-Q: Does your magic 8's priors indicate Isaac Asimov's children will drown?  
+Do priors indicate Isaac Asimov's children will drown?  
 
 > Cooper (human)  
 > -- Get ready to match our spin with the retro-thrusters  
