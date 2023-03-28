@@ -11,8 +11,8 @@ Thank you for your time learning about my substance. ~brianh
 
 **cv** - 
 [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11057599/brian.hogan.cv.pdf)  
+**resume** - [brian.hogan.pdf](https://github.com/bbe2/portfolio/files/11093648/brian.hogan.pdf)  
 [brian.hogan.cover.letter.pdf](https://github.com/bbe2/portfolio/files/11057600/brian.hogan.cover.letter.pdf)  
-[b.hogan.teach.philosphy.pdf](https://github.com/bbe2/portfolio/files/11057644/b.hogan.teach.philosphy.pdf)  
 
 
 **NEW** 1Q23 - https://icarus.education/  
