@@ -3,6 +3,22 @@ Thank you for your time learning about my substance. ~brianh
 **Key offerings**  
 **Designer of applied organic structures and code to support collaborative active student learning**
 
+**Portfolio**  https://github.com/bbe2/portfolio  
+• tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
+• code_______________________https://github.com/bbe2/portfolio/tree/code  
+• google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
+• google.ML.certification___https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
+• master.of.science.port_____https://github.com/bbe2/portfolio/tree/master_portfolio  
+• multimedia.styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
+• reengineering______________https://github.com/bbe2/portfolio/tree/reengineering  
+• recommendations_________https://github.com/bbe2/portfolio/tree/reference_recommend  
+• research.experience_______https://github.com/bbe2/portfolio/tree/research_experience  
+• scientific.editing___________https://github.com/bbe2/portfolio/tree/scientific_edit  
+• teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
+• technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
+• >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+
+
 ![teach philosophy](https://user-images.githubusercontent.com/59778456/228381772-6acc3419-b629-4389-8e22-2b547fbda282.PNG)  
 
 
