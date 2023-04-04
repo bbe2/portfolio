@@ -18,6 +18,7 @@ Thank you for your time learning about my substance. ~brianh
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
+teaching.statement => [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/portfolio/files/11151372/brian.hogan.teach.philosophy.pdf)  
 
 ![teach philosophy](https://user-images.githubusercontent.com/59778456/228381772-6acc3419-b629-4389-8e22-2b547fbda282.PNG)  
 
