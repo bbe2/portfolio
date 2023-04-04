@@ -20,11 +20,11 @@ Thank you for your time learning about my substance. ~brianh
 
 teaching.statement => [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/portfolio/files/11151372/brian.hogan.teach.philosophy.pdf)  
 
-![teach philosophy](https://user-images.githubusercontent.com/59778456/228381772-6acc3419-b629-4389-8e22-2b547fbda282.PNG)  
+![teach philosophy](https://user-images.githubusercontent.com/59778456/229875735-5a5a8f41-82cd-4696-92b5-473a444d4ce0.PNG)  
 
 
-**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11130275/brian.hogan.cv.pdf)
-**resume** - [brian.hogan.pdf](https://github.com/bbe2/portfolio/files/11093648/brian.hogan.pdf)  
+**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11130275/brian.hogan.cv.pdf)  
+**resume** - [brian.hogan.pdf](https://github.com/bbe2/portfolio/files/11093648/brian.hogan.pdf)   
 [brian.hogan.cover.letter.pdf](https://github.com/bbe2/portfolio/files/11057600/brian.hogan.cover.letter.pdf)  
 
 **NEW** 1Q23 - https://icarus.education/  
