@@ -1,7 +1,8 @@
 Thank you for your time learning about my substance. ~brianh  
 
 **Key offerings**  
-**Designer of applied organic structures and code to support collaborative active student learning**
+**Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
+=> a single corpus of focus rather than whiz-bang powerpoints, page shuffling, disconnected content, and LMS lost work  
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
