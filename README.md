@@ -18,7 +18,10 @@ Thank you for your time learning about my substance. ~brianh
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
-teaching.statement => [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/portfolio/files/11151372/brian.hogan.teach.philosophy.pdf)  
+teaching.statement => [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/portfolio/files/11174388/brian.hogan.teach.philosophy.pdf)  
+statement.of.scholarly.activities => [b.hogan.statement.scholarly,activities.pdf](https://github.com/bbe2/portfolio/files/11174401/b.hogan.statement.scholarly.activities.pdf)  
+statement.on.diversity => [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/portfolio/files/11174396/brian.hogan.statement.on.diversity.pdf)  
+
 
 ![teach philosophy](https://user-images.githubusercontent.com/59778456/229875735-5a5a8f41-82cd-4696-92b5-473a444d4ce0.PNG)  
 
