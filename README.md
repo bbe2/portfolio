@@ -1,8 +1,8 @@
 Thank you for your time learning about my substance. ~brianh  
 
 **Key offerings**  
-**Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
-=> a single corpus of focus rather than whiz-bang powerpoints, page shuffling, disconnected content, and LMS lost work  
+> Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
+>> single corpus of focus vs. whiz-bang .ppts, page shuffling, disconnected content, and disassembled outcomes  
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
