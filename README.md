@@ -1,7 +1,6 @@
-Thank you for your time learning about my substance. ~brianh  
-
 > Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
 >> single corpus of focus, that is a comprehensive learning resource and not whiz-bang .ppts, page shuffling, dissconnection, and disassembled outcomes  
+>>> Thank you for learning about my substance. ~brianh  
 
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
@@ -18,23 +17,20 @@ Thank you for your time learning about my substance. ~brianh
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
-teaching.statement => [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/portfolio/files/11174388/brian.hogan.teach.philosophy.pdf)  
-statement.of.scholarly.activities => [b.hogan.statement.scholarly,activities.pdf](https://github.com/bbe2/portfolio/files/11174401/b.hogan.statement.scholarly.activities.pdf)  
-statement.on.diversity => [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/portfolio/files/11174396/brian.hogan.statement.on.diversity.pdf)  
 
+• [brian.hogan.cv.d.pdf](https://github.com/bbe2/portfolio/files/11175229/brian.hogan.cv.d.pdf)  
+• [brian.hogan.teach.philosophy.pdf](https://github.com/bbe2/portfolio/files/11175228/brian.hogan.teach.philosophy.pdf)  
+• [b.hogan.statement.scholarly,activities.pdf](https://github.com/bbe2/portfolio/files/11174401/b.hogan.statement.scholarly.activities.pdf)  
+• [brian.hogan.statement.on.diversity.pdf](https://github.com/bbe2/portfolio/files/11174396/brian.hogan.statement.on.diversity.pdf)  
 
 ![teach philosophy](https://user-images.githubusercontent.com/59778456/229875735-5a5a8f41-82cd-4696-92b5-473a444d4ce0.PNG)  
 
-
-**cv** - [brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11130275/brian.hogan.cv.pdf)  
-**resume** - [brian.hogan.pdf](https://github.com/bbe2/portfolio/files/11093648/brian.hogan.pdf)   
-[brian.hogan.cover.letter.pdf](https://github.com/bbe2/portfolio/files/11057600/brian.hogan.cover.letter.pdf)  
-
-**NEW** 1Q23 - https://icarus.education/  
-**>_7.Pillars.of.Python** | author of an innovative Python learning module to address deficiencies in current literature.  
-• Formulated an innovative Python learning module to address deficiencies in current training literature.  
-• Secured the inclusion of the course on the ICARUS-AI E-Learning platform.  
-• Designed to experience plasticity with data transformers and coding of iterators, conditions, and classes.  
+https://icarus.education/  
+B.	course: >_7.Pillars.Python.Skills	  
+Formulated a novel Python course for learners to experience neuroplasticity with data object transformation by coding iterators, conditionals, and functions with class objects to deliver outcomes.  
+•	Targets learners who question if their skills provide dependable, specific means to transform data for stats and machine learning.  
+•	Builds sophistication in numeric and text data pack and unpack.  
+•	Provides means to decode new libraries and learn objects quickly.  
 
 ![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
 
