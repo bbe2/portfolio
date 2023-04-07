@@ -1,6 +1,5 @@
 Thank you for your time learning about my substance. ~brianh  
 
-**Key offerings**  
 > Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
 >> single corpus of focus, that is a comprehensive learning resource and not whiz-bang .ppts, page shuffling, dissconnection, and disassembled outcomes  
 
