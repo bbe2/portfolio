@@ -1,7 +1,7 @@
 • Thank you for your time learning about my substance! ~brianh  
 • this page => research experience  
 
-![research interests](https://user-images.githubusercontent.com/59778456/218853992-6a9545d7-c296-4c1f-8681-ec4e98110d30.PNG)
+![research interest](https://user-images.githubusercontent.com/59778456/230521821-0683cece-4f2a-49fc-b436-b134c24ef127.PNG)
 
 --------------------
 [(outcome) Hourly rounding and fall incident.pdf](https://github.com/bbe2/portfolio/files/10232567/outcome.Hourly.rounding.and.fall.incident.pdf)  
