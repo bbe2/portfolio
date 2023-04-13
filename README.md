@@ -1,8 +1,6 @@
 • Thank you for your time learning about my substance! ~brianh  
 • this page => research experience  
 
-![research interest](https://user-images.githubusercontent.com/59778456/230521821-0683cece-4f2a-49fc-b436-b134c24ef127.PNG)
-
 --------------------
 [(outcome) Hourly rounding and fall incident.pdf](https://github.com/bbe2/portfolio/files/10232567/outcome.Hourly.rounding.and.fall.incident.pdf)  
 [(outcome) Nurse Rounding Badges.pdf](https://github.com/bbe2/portfolio/files/10232564/outcome.Nurse.Rounding.Badges.pdf)  
@@ -37,7 +35,7 @@ Assisted in evaluating call bell signal standardization across units to help dis
 
 [hourly round spreadsheet.pdf](https://github.com/bbe2/portfolio/files/10531020/hourly.round.spreadsheet.pdf)  
 
-
+![research interest](https://user-images.githubusercontent.com/59778456/230521821-0683cece-4f2a-49fc-b436-b134c24ef127.PNG)  
 --------------
 **Portfolio**  https://github.com/bbe2/portfolio  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
