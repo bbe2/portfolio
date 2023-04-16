@@ -1,6 +1,5 @@
 Thank you for your time learning about my substance! ~brianh
 • this page => references and recommendations 
---------------
 
 > 2Q23 - **background report**=> [b.hogan.BackGround.Check.04.16.23.pdf](https://github.com/bbe2/portfolio/files/11243260/b.hogan.BackGround.Check.04.16.23.pdf)  
  
