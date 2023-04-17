@@ -1,5 +1,6 @@
 • Thank you for your time learning about my substance! ~brianh  
 • this page => research experience  
+[(0)brian.hogan.research.interests.pdf](https://github.com/bbe2/portfolio/files/11256123/0.brian.hogan.research.interests.pdf)
 
 --------------------
 [(outcome) Hourly rounding and fall incident.pdf](https://github.com/bbe2/portfolio/files/10232567/outcome.Hourly.rounding.and.fall.incident.pdf)  
