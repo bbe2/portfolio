@@ -18,7 +18,7 @@
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
 
 
-• [brian.hogan.cv.d.pdf](https://github.com/bbe2/portfolio/files/11175229/brian.hogan.cv.d.pdf)   
+[d.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11468188/d.brian.hogan.cv.pdf)  
 [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11468148/7.pillars.of.skills.pdf)  
 [brian.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/portfolio/files/11468149/brian.hogan.committment.to.diversity.statement.pdf)  
 [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11468150/brian.hogan.statement.scholarly.activities.pdf)  
