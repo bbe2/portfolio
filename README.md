@@ -24,8 +24,9 @@
 [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11468150/brian.hogan.statement.scholarly.activities.pdf)  
 [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11468151/brian.hogan.teaching.statement.pdf)  
 
+![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
 
-![teach philosophy](https://user-images.githubusercontent.com/59778456/229875735-5a5a8f41-82cd-4696-92b5-473a444d4ce0.PNG)  
+
 
 https://icarus.education/  
 B.	course: >_7.Pillars.Python.Skills	  
@@ -64,4 +65,3 @@ Do priors indicate Isaac Asimov's children will drown?
 • teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
-
