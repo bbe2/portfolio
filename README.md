@@ -15,14 +15,16 @@
 • teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
 • technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
 • >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11491926/brian.hogan.portfolio.links.pdf)
 
 
-[d.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11468188/d.brian.hogan.cv.pdf)  
-[7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11468148/7.pillars.of.skills.pdf)  
-[brian.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/portfolio/files/11468149/brian.hogan.committment.to.diversity.statement.pdf)  
-[brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11468150/brian.hogan.statement.scholarly.activities.pdf)  
-[brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11468151/brian.hogan.teaching.statement.pdf)  
+
+- [d.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/11468188/d.brian.hogan.cv.pdf)  
+- [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11468148/7.pillars.of.skills.pdf)  
+- [brian.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/portfolio/files/11468149/brian.hogan.committment.to.diversity.statement.pdf)  
+- [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11468150/brian.hogan.statement.scholarly.activities.pdf)  
+- [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11468151/brian.hogan.teaching.statement.pdf)  
+- [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11491926/brian.hogan.portfolio.links.pdf)
+
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
 
 
