@@ -22,7 +22,6 @@
 - [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11492272/brian.hogan.statement.scholarly.activities.pdf)
 - [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11492273/brian.hogan.teaching.statement.pdf)
 - [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11492267/7.pillars.of.skills.pdf)
-- 
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
 
 https://icarus.education/  
