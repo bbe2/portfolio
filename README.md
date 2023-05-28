@@ -1,6 +1,7 @@
-> Designer of applied organic structures and code to facilitate active learning with interactive learning structures  
->> single corpus of focus, that is a comprehensive learning resource and not whiz-bang .ppts, page shuffling, dissconnection, and disassembled outcomes  
->>> Thank you for learning about my substance. ~brianh  
+- Instructor of computer science and designer of interactive learning structures derrived from melittologic models.  
+- Thank you for learning about my information substance. ~brianh  
+
+![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
 • university.courses_________https://github.com/bbe2/professor  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
