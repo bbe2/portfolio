@@ -1,5 +1,5 @@
-- Instructor of computer science and designer of interactive learning structures derrived from melittologic models.  
-- Thank you for learning about my information substance. ~brianh  
+Computer science instructor and designer of interactive learning structures derived from melittologic models.  
+Thank you for learning about my information substance. ~bri  
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
@@ -26,9 +26,7 @@
 • [b.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11585787/b.hogan.portfolio.links.pdf)  
 • [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11492267/7.pillars.of.skills.pdf)  
 
-
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
-
 
 https://icarus.education/  
 B.	course: >_7.Pillars.Python.Skills	  
