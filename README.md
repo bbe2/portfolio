@@ -23,6 +23,7 @@
 - [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11492273/brian.hogan.teaching.statement.pdf)
 - [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11492267/7.pillars.of.skills.pdf)
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
+- [b.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11585787/b.hogan.portfolio.links.pdf)
 
 https://icarus.education/  
 B.	course: >_7.Pillars.Python.Skills	  
