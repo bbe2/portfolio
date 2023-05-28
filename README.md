@@ -2,6 +2,7 @@
 >> single corpus of focus, that is a comprehensive learning resource and not whiz-bang .ppts, page shuffling, dissconnection, and disassembled outcomes  
 >>> Thank you for learning about my substance. ~brianh  
 
+• university.courses_________https://github.com/bbe2/professor  
 • tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
 • code_______________________https://github.com/bbe2/portfolio/tree/code  
 • google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
