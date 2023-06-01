@@ -1,5 +1,6 @@
 ## >_7.Pillars.of.Python  
 course being released on ICARUS AI, https://icarus.education/  
+[7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11628699/7.pillars.of.skills.pdf)  
 
 •	Formulated an innovative Python essentials training module to fill existing training literature gaps.  
 •	ICARUS-AI agreed to include the course in its E-Learning platform.  
