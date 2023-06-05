@@ -12,13 +12,13 @@ Thank you for learning about my information substance. ~bri
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit) 
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
-• [brian.hogan.cv.d.pdf](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)
-• [brian.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/portfolio/files/11492268/brian.hogan.committment.to.diversity.statement.pdf)  
-• [brian.hogan.research.interests.pdf](https://github.com/bbe2/portfolio/files/11492269/brian.hogan.research.interests.pdf)  
-• [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11492272/brian.hogan.statement.scholarly.activities.pdf)  
-• [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11492273/brian.hogan.teaching.statement.pdf)  
-• [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11654762/brian.hogan.portfolio.links.pdf)  
-• [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11492267/7.pillars.of.skills.pdf)  
+• [`brian.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)
+• [`brian.hogan.committment.to.diversity.statement.pdf`](https://github.com/bbe2/portfolio/files/11492268/brian.hogan.committment.to.diversity.statement.pdf)  
+• [`brian.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11492269/brian.hogan.research.interests.pdf)  
+• [`brian.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11492272/brian.hogan.statement.scholarly.activities.pdf)  
+• [`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11492273/brian.hogan.teaching.statement.pdf)  
+• [`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/portfolio/files/11654762/brian.hogan.portfolio.links.pdf)  
+• [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11492267/7.pillars.of.skills.pdf)  
 
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
 
