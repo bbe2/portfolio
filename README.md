@@ -23,4 +23,6 @@ I am an instructor of undergraduate and graduate courses in C++, Python programm
 [`brian.hogan.research.interests.pdf`](https://github.com/bbe2/portfolio/files/11655574/brian.hogan.research.interests.pdf)  
 [`brian.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf)  
 [`brian.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
+[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/portfolio/files/11657993/brian.hogan.portfolio.links.pdf)  
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
+
