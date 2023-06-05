@@ -33,6 +33,7 @@ Thank you for learning about my information substance. ~bri
 
 [`brian.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf)  
 
+[`brian.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
 
 
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
