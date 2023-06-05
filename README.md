@@ -3,20 +3,20 @@ Thank you for learning about my information substance. ~bri
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-• university.courses_________https://github.com/bbe2/professor   
-• tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/tutor_volunteer  
-• code_______________________https://github.com/bbe2/portfolio/tree/code  
-• google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• google.ML.certification___https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
-• master.of.science.port_____https://github.com/bbe2/portfolio/tree/master_portfolio  
-• multimedia.styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• reengineering______________https://github.com/bbe2/portfolio/tree/reengineering  
-• recommendations_________https://github.com/bbe2/portfolio/tree/reference_recommend  
-• research.experience_______https://github.com/bbe2/portfolio/tree/research_experience  
-• scientific.editing___________https://github.com/bbe2/portfolio/tree/scientific_edit  
-• teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
-• technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
-• >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+[`university.courses`](https://github.com/bbe2/professor)
+[`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
+[`code`](https://github.com/bbe2/portfolio/tree/code)  
+[`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
+[`google.ML.certification`](https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert)    
+[`master.of.science.port`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
+[`multimedia.styleguide`](https://github.com/bbe2/portfolio/tree/multimedia_styleguide)  
+[`reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )   
+[`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
+[`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
+[`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)    
+[`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/portfolio/files/11492279/brian.hogan.cv.d.pdf)  
 • [brian.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/portfolio/files/11492268/brian.hogan.committment.to.diversity.statement.pdf)  
