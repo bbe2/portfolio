@@ -22,11 +22,4 @@ Thank you for learning about my information substance. ~bri
 
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
 
-https://icarus.education/  
-B.	course: >_7.Pillars.Python.Skills	  
-Formulated a novel Python course for learners to experience neuroplasticity with data object transformation by coding iterators, conditionals, and functions with class objects to deliver outcomes.  
-•	Targets learners who question if their skills provide dependable, specific means to transform data for stats and machine learning.  
-•	Builds sophistication in numeric and text data pack and unpack.  
-•	Provides means to decode new libraries and learn objects quickly.  
-
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
