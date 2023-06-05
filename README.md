@@ -9,7 +9,7 @@ Thank you for learning about my information substance. ~bri
 [`multimedia.styleguide`](https://github.com/bbe2/portfolio/tree/multimedia_styleguide)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
-[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit) 
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 • [brian.hogan.cv.d.pdf](https://github.com/bbe2/portfolio/files/11492279/brian.hogan.cv.d.pdf)  
@@ -17,7 +17,7 @@ Thank you for learning about my information substance. ~bri
 • [brian.hogan.research.interests.pdf](https://github.com/bbe2/portfolio/files/11492269/brian.hogan.research.interests.pdf)  
 • [brian.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/portfolio/files/11492272/brian.hogan.statement.scholarly.activities.pdf)  
 • [brian.hogan.teaching.statement.pdf](https://github.com/bbe2/portfolio/files/11492273/brian.hogan.teaching.statement.pdf)  
-• [b.hogan.portfolio.links.pdf][brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11654762/brian.hogan.portfolio.links.pdf)  
+• [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/11654762/brian.hogan.portfolio.links.pdf)  
 • [7.pillars.of.skills.pdf](https://github.com/bbe2/portfolio/files/11492267/7.pillars.of.skills.pdf)  
 
 ![g teaching statement](https://github.com/bbe2/portfolio/assets/59778456/ce00649d-069c-4847-917c-3040e8b876b0) 
@@ -29,19 +29,4 @@ Formulated a novel Python course for learners to experience neuroplasticity with
 •	Builds sophistication in numeric and text data pack and unpack.  
 •	Provides means to decode new libraries and learn objects quickly.  
 
-![icarus_logo](https://user-images.githubusercontent.com/59778456/205196459-ec0a160b-b25a-42b4-b862-5ade0714e05a.JPG)  
-
-
-Q: How will robotics of the REAL work with humans to compute at critical moments?  
-Do priors indicate Isaac Asimov's children will drown?  
-
-> Cooper (human)  
-> -- Get ready to match our spin with the retro-thrusters  
-
->> CASE (robot)  
->> -- It's not possible.  
-
-> Cooper  
-> -- No. **It's necessary.**  
----------> Interstellar, screenplay, p.122, 2014  
-![saturn_rings](https://github.com/bbe2/portfolio/assets/59778456/543f9dc6-e53b-4b33-9070-7e72109973d5)
+![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
