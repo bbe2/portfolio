@@ -23,7 +23,8 @@ computer asks user a question, user answers and computer plays back
 ### => Evidence of invitation to the google foobar challenge  
 • I was very grateful for the opportunity to get invited and pass three levels before timing out.  
 
-![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)
+![foobar](https://user-images.githubusercontent.com/59778456/206024567-37f76e57-ff96-4790-a4a9-54b1017ce6df.JPG)  
+![g evidence worked google](https://github.com/bbe2/portfolio/assets/59778456/5d5d661f-ca07-4c61-8b3e-3dcd2c5c7c4d)
 
 
 -----------
