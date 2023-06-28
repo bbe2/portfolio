@@ -5,7 +5,7 @@ I am an instructor of undergraduate and graduate courses in C++, Python programm
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
-=>[`home`](https://github.com/bbe2/portfolio) [`prof.brian`](https://github.com/bbe2/professor.brian)   
+=>[`home`](https://github.com/bbe2/portfolio) [`professor.full.brain`](https://github.com/bbe2/professor.brian)   
 [`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)   
 [`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
