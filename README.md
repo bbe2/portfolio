@@ -1,6 +1,6 @@
 To Whom it May Concern,
 
-I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication.
+I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication with GPT and custom entropic scoring algorithms to measure written outcome precision and clarity.
 ~brian
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
