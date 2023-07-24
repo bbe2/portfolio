@@ -1,6 +1,15 @@
 • Thank you for your time learning about my substance! ~brianh  
 • this page => coach, tutor, volunteer   
 
+[`home`](https://github.com/bbe2/portfolio) [`professor.full.brain`](https://github.com/bbe2/professor.brian)   
+[`university.courses`](https://github.com/bbe2/professor) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
+[`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)   
+[`teaching`](https://github.com/bbe2/portfolio/tree/teaching)  
+[`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
+[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
+[`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write) 
 ---------
 ### **e-trash**
 • to support workstation equity, provide students with 2nd and 3rd monitors from Winchester, MA e-trash recycling center  
