@@ -10,6 +10,8 @@
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write) 
+
+
 ---------
 ### **e-trash**
 • to support workstation equity, provide students with 2nd and 3rd monitors from Winchester, MA e-trash recycling center  
