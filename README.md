@@ -1,7 +1,8 @@
-To Whom it May Concern,
+I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication using GPT and custom entropic scoring algorithms to measure written precision and clarity. I prioritize every student through interactive learning structures, JAMs, and promoting a positive sense of self directed towards career sustainability.  
 
-I am an instructor of undergraduate and graduate courses in C++, Python programming, data mining, systems design and analysis, and STEM technical communication with GPT and entropic scoring algorithms. I endeavor on a dashboard and iterative process to strenthen righting with precision and clarity.
-~brian
+Computer science, like many organic models, adapts. I’m passionate about how melittologic (bees), and arachnids adapt with vision, collaboration, and structure. Their system design endpoints inspire my design organization work by assessing sustenance fulfillment, territory monitoring, and house cleaning.  
+
+I frequently create academic courses across domains inclusive of sophisticated template methodologies and use of Colab environments. ~brian
 
 ![festooning](https://user-images.githubusercontent.com/59778456/235022589-fbb23ebb-d35f-4533-b767-491e1414c652.PNG)  
 
@@ -30,3 +31,5 @@ I am an instructor of undergraduate and graduate courses in C++, Python programm
 
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
+
+![g mindmap w scoring](https://github.com/bbe2/portfolio/assets/59778456/582dc747-ee84-4c53-86b6-e61811d8731e)
