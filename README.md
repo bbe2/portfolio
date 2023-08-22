@@ -18,7 +18,7 @@ I frequently create academic courses across domains inclusive of sophisticated t
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 `instructor.brian.fact.sheets`  
-[`brian.hogan.cv.d.pdf`](https://github.com/bbe2/portfolio/files/11655551/brian.hogan.cv.d.pdf)  
+
 [`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
 [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
 [`brian.hogan.committment.to.diversity.statement.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
@@ -26,8 +26,8 @@ I frequently create academic courses across domains inclusive of sophisticated t
 [`brian.hogan.statement.scholarly.activities.pdf`](https://github.com/bbe2/portfolio/files/11655575/brian.hogan.statement.scholarly.activities.pdf)  
 [`brian.hogan.evaluations.pdf`](https://github.com/bbe2/portfolio/files/11655646/brian.hogan.evaluations.pdf)  
 
-[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/portfolio/files/12363695/brian.hogan.portfolio.links.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12363722/brian.hogan.portfolio.links.pdf)  
+[`brian.hogan.portfolio.links.pdf`](https://github.com/b 
+        be2/portfolio/files/12363722/brian.hogan.portfolio.links.pdf)  
 
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)  
