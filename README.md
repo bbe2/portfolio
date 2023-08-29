@@ -18,7 +18,7 @@ I frequently create academic courses across domains inclusive of sophisticated t
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 `instructor.brian.fact.sheets`  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12468332/a.brian.hogan.cv.pdf)
+[`brian.hogan.cv.pdf`](https://github.com/bbe2/portfolio/files/12468332/a.brian.hogan.cv.pdf)  
 [`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
 [`7.pillars.of.skills.pdf`](https://github.com/bbe2/portfolio/files/11655571/7.pillars.of.skills.pdf)  
 [`brian.hogan.committment.to.diversity.statement.pdf`](https://github.com/bbe2/portfolio/files/11655572/brian.hogan.committment.to.diversity.statement.pdf)  
