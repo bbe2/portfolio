@@ -19,7 +19,7 @@ I frequently create academic courses across domains inclusive of sophisticated t
 
 `instructor.brian.fact.sheets`  
 [`brian.hogan.cv.pdf`](https://github.com/bbe2/portfolio/files/12468332/a.brian.hogan.cv.pdf)  
-[`brian.hogan.portfolio.links.pdf`](https://github.com/bbe2/portfolio/files/12468374/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12494179/brian.hogan.portfolio.links.pdf)  
 
 
 [`brian.hogan.teaching.statement.pdf`](https://github.com/bbe2/portfolio/files/11655576/brian.hogan.teaching.statement.pdf)  
