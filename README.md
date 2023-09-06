@@ -4,9 +4,12 @@
 >>>> Thank you for learning about my skills!  
 ~brian  
 
+## "The whole and patch should be commensurate."  
+~Thomas Jefferson letter to James Madison
+Jun 20th, 1787 [potentially paraphrased]  
 
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)   
 
 ## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
