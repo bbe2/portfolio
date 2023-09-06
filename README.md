@@ -9,7 +9,7 @@
 https://www.emsdiasum.com/nightsea-fluorescence-viewing-systems  
 
 ------------
-## User manual sample  
+## Technical User manual sample  
 ![alpha](https://user-images.githubusercontent.com/59778456/225686016-5dd735d8-141d-42e2-b16b-f2d0d241b386.JPG)
 
 
