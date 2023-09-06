@@ -5,7 +5,7 @@
 ~brian  
 
 
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12493888/a.brian.hogan.cv.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)  
 
 ## portfolio  
