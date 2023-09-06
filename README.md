@@ -1,8 +1,8 @@
 # me?  
-- strategist with deep process re-engineering skills  
-- blended with programming and curriculum instruction  
-- Thank you for learning about my skills!  
-~ brian  
+> strategist with deep process re-engineering skills  
+>> blended with programming and curriculum instruction  
+>>> Thank you for learning about my skills!  
+~brian  
 
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/instructor.brian/files/12493888/a.brian.hogan.cv.pdf)  
