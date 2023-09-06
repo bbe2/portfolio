@@ -1,5 +1,5 @@
  Thank you for your time learning about my substance! ~brianh  
-• this page => technical writing, user manuals, preventative maintenance  
+• this page => technical writing of user manuals, preventative maintenance, and specifications    
 
 -----------
 
