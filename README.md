@@ -37,7 +37,10 @@ A.	Summarize the audio lecture and lecture notes.
 B.	Identify and synthesize disparities between audio lectures and lecture notes.  
 C.	Email outcomes and then aggregate all media into a central repository.  
 D.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers.   
-E.	#=> This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.
+E.	#=> This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.  
+
+~ thankyou for your time! ~instructor.brian  
+[instructor.home.page](https://github.com/bbe2/instructor.brian)   
 
 ## Fall 2023  
 Clark University & Southern New Hampshire University  
@@ -58,9 +61,6 @@ Clark University & Southern New Hampshire University
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
 [b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
 [b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
-[b.hogan.statement.scholarly.activities.pdf](https://github.com/bbe2/instructor.brian/files/12529584/brian.hogan.statement.scholarly.activities.pdf)  
-[b.hogan.inclusive.excellence.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529582/brian.hogan.inclusive.excellence.statement.pdf)  
-[b.hogan.committment.to.diversity.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529581/brian.hogan.committment.to.diversity.statement.pdf)  
 
 
 ![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
