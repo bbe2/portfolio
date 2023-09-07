@@ -9,8 +9,7 @@
 Jun 20th, 1787 [potentially paraphrased]  
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552197/brian.hogan.portfolio.links.pdf)  
-
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552219/brian.hogan.portfolio.links.pdf)  
 
 ## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
@@ -46,7 +45,8 @@ v.	My dedication is to further accessibility and generate sustainable learning p
 
 ~ thankyou for your time! ~instructor.brian  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552188/brian.hogan.portfolio.links.pdf)  
+ [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552218/brian.hogan.portfolio.links.pdf)  
+
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
 [b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
 [b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
