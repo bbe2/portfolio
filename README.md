@@ -43,7 +43,8 @@ D.	Harness substrate for bespoke AI.agent development, enabling students to pose
 E.	#=> This reflects my dedication to further accessibility and generating sustainable learning paradigms with knowledge formed through interactive learning structures.  
 
 ~ thankyou for your time! ~instructor.brian  
-[instructor.home.page](https://github.com/bbe2/instructor.brian)   
+[instructor.home.page](https://github.com/bbe2/instructor.brian)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552188/brian.hogan.portfolio.links.pdf)  
 [b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
 [b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
 [b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
