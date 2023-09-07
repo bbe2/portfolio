@@ -9,7 +9,8 @@
 Jun 20th, 1787 [potentially paraphrased]  
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/instructor.brian/files/12530363/brian.hogan.portfolio.links.pdf)   
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552197/brian.hogan.portfolio.links.pdf)  
+
 
 ## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
