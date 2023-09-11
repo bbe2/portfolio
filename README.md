@@ -28,7 +28,8 @@ Jun 20th, 1787 [potentially paraphrased]
 
 
 # University instruction  
-
+[instructor.home.page](https://github.com/bbe2/instructor.brian)  
+```
 Currently, I engage in foundational work in machine and assembly language, transitioning from LC-3 to C++ (based on the Patt/Patel approach). My focus spans theoretical system design, its practical re-engineering, and STEM technical communication. In Spring 2023, I authored course COSC.5236 data mining for www.utk.edu.  
 
 My pedagogical approach prioritizes active learning, utilizing interactive frameworks based on Google Sheets, Github, and Colab. Like bee festooning or forming chains to repair and branch, students similarly festoon in collaborative JAM sessions, connecting ideas and solving challenges for day one career preparedness.  
@@ -41,15 +42,8 @@ ii.	Identify and synthesize disparities between audio lectures and lecture notes
 iii.	Email outcomes and then aggregate all media into a central repository.  
 iv.	Harness substrate for bespoke AI.agent development, enabling students to pose intricate curriculum-related queries for precise answers.  
 v.	My dedication is to further accessibility and generate sustainable learning paradigms.  
-  
-
-~ thankyou for your time! ~instructor.brian  
-[instructor.home.page](https://github.com/bbe2/instructor.brian)  
- [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552218/brian.hogan.portfolio.links.pdf)  
-
-[b.hogan.7.pillars.of.skills.pdf](https://github.com/bbe2/instructor.brian/files/12529580/7.pillars.of.skills.pdf)  
-[b.hogan.teaching.statement.pdf](https://github.com/bbe2/instructor.brian/files/12529585/brian.hogan.teaching.statement.pdf)  
-[b.hogan.research.interests.pdf](https://github.com/bbe2/instructor.brian/files/12529583/brian.hogan.research.interests.pdf)  
+~ thankyou for your time! ~instructor.brian
+```
 
 ## Fall 2023  
 Clark University & Southern New Hampshire University  
