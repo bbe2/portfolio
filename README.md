@@ -9,7 +9,8 @@
 Jun 20th, 1787 [potentially paraphrased]  
 
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12552219/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12580656/brian.hogan.portfolio.links.pdf)  
+
 
 ## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
@@ -62,7 +63,7 @@ To augment classroom learning, I use generative pretrained transformer APIs to,
 - Email outcomes and then aggregate all media into a central repository.   
 - Harness substrate for bespoke AI.agent development enabling
 -- students to pose intricate curriculum-related queries for precise answers.   
-- My dedication is to further accessibility and generate sustainable learning paradigms.   
+- My work centers on furthering accessibility and recall mnemonics.  
 ```
 
 ## Fall 2023  
