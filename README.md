@@ -17,8 +17,11 @@ Students quickly GET this.
 
 
 -----------
+[zipper.pdf](https://github.com/bbe2/portfolio/files/12580314/zipper.pdf)  
 
-[zion.1.page.Github.docx](https://github.com/bbe2/portfolio/files/12580178/zion.1.page.Github.docx)
+[zion.1.page.Github.docx](https://github.com/bbe2/portfolio/files/12580253/zion.1.page.Github.docx)  
+
+
 
 
 ### some computer science departments want to see writing of core scripts even if available in common libraries  
