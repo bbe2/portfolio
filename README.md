@@ -9,51 +9,51 @@ One core is [data transformation](https://en.wikipedia.org/wiki/Data_transformat
 
 -----------
 [zipper.pdf](https://github.com/bbe2/portfolio/files/12580314/zipper.pdf)  
+![g zipper 1pager](https://github.com/bbe2/portfolio/assets/59778456/02a724f3-4185-4b20-8e4c-c01efc21980c)   
 
-[zion.1.page.Github.docx](https://github.com/bbe2/portfolio/files/12580253/zion.1.page.Github.docx)  
-
-- i'm often asked to build authentic samples !
-- i focus on ensuring students are capable of doing the same  
-
-**def binary_search():**  
-    """ #ID.1 = binary.search.algorithm  
+## def binary_search():
+- i'm often asked to build authentic samples !  
+- i focus on ensuring student skilling to do the same  
+```
+    """ #ID.1 = binary.search.algorithm   
     Created on Thu Jan 26 20:06:50 2023  
     @author: 17574, b.hogan@snhu.edu  
     """  
 
-    myMax = int(input("enter max vector length to search: "))
-    target = int(input("what value find between 0->max?: "))
-    mylist=[]
-    i=0
-    while i <=(myMax-1):        #0 = position 1
-        mylist.append(i); i +=1
-    print(len(mylist))
-    myreps =[]
-    reps = 0
-    top,middle,bottom = 0,0,0
-    int(top); int(middle); int(bottom)
+    myMax = int(input("enter max vector length to search: "))  
+    target = int(input("what value find between 0->max?: "))  
+    mylist=[]  
+    i=0  
+    while i <=(myMax-1):        #0 = position 1  
+        mylist.append(i); i +=1  
+    print(len(mylist))  
+    myreps =[]  
+    reps = 0  
+    top,middle,bottom = 0,0,0  
+    int(top); int(middle); int(bottom)  
 
-    top = len(mylist)-1
+    top = len(mylist)-1  
     `
-    while top >= bottom:
-        middle = round((top + bottom)/2)
-        print("middle is: ",middle)
-        if mylist[middle] == target:
-            reps = reps + 1 
-            myreps.append(middle)
-            print("target.was: & tot.reps.were:",middle,reps)
-            print(myreps)
-            return middle
-        elif mylist[middle] < target:
-            bottom = middle + 1 #reduce to top half of list
-            reps = reps + 1 
-            myreps.append(bottom)
-        else:
-            top = middle -1
-            reps = reps + 1 
-            myreps.append(top)  #reduce to bottom half of list
-    return -1
-binary_search()
+    while top >= bottom:  
+        middle = round((top + bottom)/2)  
+        print("middle is: ",middle)  
+        if mylist[middle] == target:  
+            reps = reps + 1  
+            myreps.append(middle)  
+            print("target.was: & tot.reps.were:",middle,reps)  
+            print(myreps)  
+            return middle  
+        elif mylist[middle] < target:  
+            bottom = middle + 1 #reduce to top half of list  
+            reps = reps + 1   
+            myreps.append(bottom)  
+        else:  
+            top = middle -1  
+            reps = reps + 1   
+            myreps.append(top)  #reduce to bottom half of list  
+    return -1  
+binary_search()  
+```  
 
 ![classification](https://user-images.githubusercontent.com/59778456/226056510-b2d13981-614f-4b64-9d6e-85b8d2ed115d.png)
 
