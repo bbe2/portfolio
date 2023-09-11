@@ -5,7 +5,7 @@
 
 Computer science departments should consider assessing students' programming skills each year and having learning modules to address missing skills. I am happy to elaborate on the 5 core modules I'm designing to address this essential need before ChatGPT solves it all! :)  
 
-One core is data transformation, including indexing, positionality, and read / reporting basics of text and csv data in R and Python. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
+One core is [data transformation](https://en.wikipedia.org/wiki/Data_transformation_(computing)), including indexing, positionality, and read / reporting basics of text and numeric data in R and Python. https://en.wikipedia.org/wiki/Data_transformation_(computing)  
 
 --------
 Part I of VII, self-paced training modules on Python's classes, conditionals, data objects, functions, iterators, libraries, and transformers.  
