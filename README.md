@@ -8,7 +8,7 @@
 ~Thomas Jefferson letter to James Madison
 Jun 20th, 1787 [potentially paraphrased]  
 
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12530489/a.brian.hogan.cv.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12580785/a.brian.hogan.cv.pdf)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12580656/brian.hogan.portfolio.links.pdf)  
 
 
