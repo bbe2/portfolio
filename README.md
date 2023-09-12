@@ -1,8 +1,7 @@
-# me?  
+## Who is John Galt? - oops! instructor.brian
 > strategist with deep process re-engineering practice skills
 >>> hands-on programming and curriculum instruction  
 >>>> Thank you for learning about my skills!
-
 
 > ~ jeffersonian reengineering  
 >> The whole and patch should be commensurate.
