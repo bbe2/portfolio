@@ -1,19 +1,17 @@
 ## Who is John Galt? - oops! instructor.brian
-> strategist with deep process re-engineering practice skills
->>> hands-on programming and curriculum instruction  
->>>> Thank you for learning about my skills!
+- strategist with deep process re-engineering practice skills
+- - hands-on programming and curriculum instruction  
+- - - Thank you for learning about my skills! ~brian
 
-> ~ jeffersonian reengineering  
->> The whole and patch should be commensurate.
+~ jeffersonian reengineering  
+> The whole and patch should be commensurate.  
+>> Thomas Jefferson to James Madison  
+>> Jun 20th, 1787  
 
--- Thomas Jefferson to James Madison  
--- Jun 20th, 1787  
-
+## portfolio  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12580785/a.brian.hogan.cv.pdf)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12580656/brian.hogan.portfolio.links.pdf)  
 
-
-## portfolio  
 [`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
@@ -68,7 +66,7 @@ To augment classroom learning, I use generative pretrained transformer APIs to,
 ```
 
 ## Fall 2023 - course.page.links
--- [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
+-- [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU 
 -- [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
 -- [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
