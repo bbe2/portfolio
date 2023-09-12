@@ -28,7 +28,7 @@ Jun 20th, 1787 [potentially paraphrased]
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 
-# University instruction  
+## university.instruction  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 ```
 Currently, I engage in foundational work in machine and
