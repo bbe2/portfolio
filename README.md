@@ -1,7 +1,7 @@
 ## instructor.brian  
-strategist with deep process re-engineering practice skills  
-- hands-on programming and curriculum instruction  
-- Thank you for learning about my skills!
+hands-on programming and curriculum instruction  
+- strategist with deep practice in process re-engineering  
+- Thank you for learning about my skills!  
 
 ## jeffersonian reengineering  
 > The whole and patch should be commensurate.  
@@ -30,39 +30,41 @@ strategist with deep process re-engineering practice skills
 ## university.instruction  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 ```
-Currently, I engage in foundational work in machine and
-assembly language, transitioning from LC-3 to C++ (based
-on the Patt/Patel approach). My focus spans theoretical
-system design, its practical re-engineering, and STEM
-technical communication. In Spring 2023, I authored course
-COSC.5236 data mining for www.utk.edu.    
+Currrently I instruct foundational compute from machine
+and assembly with LC-3 via patt/patel to C++. My expertise
+also spans theoretical system design, practical re-engineering,
+data transformation and programming constructs, and STEM
+communication, complemented by my data science training
+and course authorship, like COSC-526 data mining with Spark.
 
-My pedagogical approach prioritizes active learning, utilizing
-interactive frameworks based on Google Sheets, Github,
-and Colab. Like bee festooning or forming chains to
-repair and branch, students similarly festoon in
-collaborative JAM sessions, connecting ideas and
-solving challenges for day one career preparedness.   
+I employ an active learning pedagogy, leveraging tools like
+Colab, G Sheets, and Github. Taking inspiration from bee
+festooning, students collaborate in JAMs, linking concepts
+and tackling challenges, like analyzing a physical book's
+word count within an hour. My aim? Equip students with
+immediate, tangible skills for preparedness during un.REAL
+talent and task replacement.
 
-An embodiment of a Lacanian real, I call new.REAL is
+An embodiment of a Lacanian real, a Krokeresque new.REAL
 central to my teaching paradigm. Education is a performative
 act, lived and crafted, not just passively consumed. The
 paradigm challenges traditional passive learning and draws
-on Arthur Kroker's concept of body drift, i.e., a blend
-of humanity with technology and Foucault's active
-knowledge structures. Students don't absorb but actively
-shape, create, and immerse themselves where education isn't
-symbolic but a tangible, actionable commodity echoing
-Baudrillard's simulacrum.
-Efforts aim to showcase immediate skills and value.     
+on Arthur Kroker's concept of body drift, i.e., a blend of
+humanity with technology and Foucault's active knowledge
+structures. Students don't absorb but actively shape, create,
+and immerse themselves where education isn't symbolic but a
+tangible, actionable commodity echoing Baudrillard's simulacrum.
+Efforts showcase immediate skills, use of abstraction,
+ontological formation, and problem decomposition.
 
-To augment classroom learning, I use generative pretrained transformer APIs to,  
-- Summarize the audio lecture and lecture notes.   
-- Identify and synthesize disparities between audio lectures and lecture notes.   
-- Email outcomes and then aggregate all media into a central repository.   
-- Harness substrate for bespoke AI.agent development enabling
--- students to pose intricate curriculum-related queries for precise answers.   
-- My work centers on furthering accessibility and recall mnemonics.  
+Augment student learning and engagement with generative pretrained transformers that
+I.	Convert lecture audio to text and integrate into class corpus.
+II.	Use GPT tech to synthesize disparities including lecture notes and textbook.
+III.Email disparity index and aggregate media into a central repository.  
+IV.	Feed repository into a course specific AI agent further supporting student tasks.
+V.	Facilitate upskill and recall mnemonics while postively experiencing a new.REAL of our social fabric.
+
+
 ```
 
 ## Fall 2023 - course.page.links
