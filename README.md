@@ -1,12 +1,12 @@
-## Who is John Galt? - oops! instructor.brian
-- strategist with deep process re-engineering practice skills
-- - hands-on programming and curriculum instruction  
-- - - Thank you for learning about my skills! ~brian
+## instructor.brian  
+strategist with deep process re-engineering practice skills  
+- hands-on programming and curriculum instruction  
+- Thank you for learning about my skills!
 
-~ jeffersonian reengineering  
+## jeffersonian reengineering  
 > The whole and patch should be commensurate.  
 >> Thomas Jefferson to James Madison  
->> Jun 20th, 1787  
+>>> Jun 20th, 1787  
 
 ## portfolio  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12580785/a.brian.hogan.cv.pdf)  
