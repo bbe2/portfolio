@@ -3,7 +3,7 @@ hands-on programming and curriculum instruction
 - strategist with deep practice in process re-engineering  
 - Thank you for learning about my skills!  
 
-## jeffersonian reengineering  
+## jeffersonian reengineering essentials   
 > The whole and patch should be commensurate.  
 >> Thomas Jefferson to James Madison  
 >>> Jun 20th, 1787  
