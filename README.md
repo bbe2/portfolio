@@ -1,13 +1,12 @@
-## [instructor.brian](https://github.com/bbe2/instructor.brian)  
+welcome and thank you for visiting!  
 ```
 I equip students with immediate, tangible
 skills and preparedness to exceed employer
 expectations on day 1.
 ``` 
-
 - hands-on programming and curriculum instruction  
 - strategist with deep practice in process re-engineering  
-- Thank you for learning about my skills!  
+- Thank you for learning about my skills! [instructor.brian](https://github.com/bbe2/instructor.brian)  
 
 ## jeffersonian reengineering essentials   
 > The whole and patch should be commensurate.  
@@ -15,7 +14,7 @@ expectations on day 1.
 >>> Jun 20th, 1787  
 
 ## portfolio  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12615179/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf)  
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
@@ -33,8 +32,7 @@ expectations on day 1.
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 
-## university.instruction  
-[instructor.home.page](https://github.com/bbe2/instructor.brian)  
+## [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 ```
 I equip students with immediate, tangible
 skills and preparedness to exceed employer
