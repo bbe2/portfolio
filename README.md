@@ -1,5 +1,10 @@
 ## [instructor.brian](https://github.com/bbe2/instructor.brian)  
-hands-on programming and curriculum instruction  
+```I equip students with immediate, tangible
+skills and preparedness to exceed employer
+expectations on day 1.
+``` 
+
+- hands-on programming and curriculum instruction  
 - strategist with deep practice in process re-engineering  
 - Thank you for learning about my skills!  
 
@@ -9,7 +14,7 @@ hands-on programming and curriculum instruction
 >>> Jun 20th, 1787  
 
 ## portfolio  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614620/brian.hogan.portfolio.links.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf)  
 
 [`portfolio.home`](https://github.com/bbe2/portfolio.brian)  
@@ -30,40 +35,54 @@ hands-on programming and curriculum instruction
 ## university.instruction  
 [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 ```
-Currrently I instruct foundational compute from machine
-and assembly with LC-3 via patt/patel to C++. My expertise
-also spans theoretical system design, practical re-engineering,
-data transformation and programming constructs, and STEM
-communication, complemented by my data science training
-and course authorship, like COSC-526 data mining with Spark.
+I equip students with immediate, tangible
+skills and preparedness to exceed employer
+expectations on day 1. 
 
-I employ an active learning pedagogy, leveraging tools like
-Colab, G Sheets, and Github. Taking inspiration from bee
-festooning, students collaborate in JAMs, linking concepts
-and tackling challenges, like analyzing a physical book's
-word count within an hour. My aim? Equip students with
-immediate, tangible skills for preparedness during un.REAL
-talent and task replacement.
+Currently, I instruct foundational compute from
+machine and assembly with LC-3 via patt/patel to C++.
+My expertise spans theoretical system design,
+practical re-engineering, data transformation,
+essential programming, and STEM communication.
+I'm grateful for my quality master's in data
+science that upskilled my ability to author
+graduate courses like COSC-526 data mining with Spark.
 
-An embodiment of a Lacanian real, a Krokeresque new.REAL
-central to my teaching paradigm. Education is a performative
-act, lived and crafted, not just passively consumed. The
-paradigm challenges traditional passive learning and draws
-on Arthur Kroker's concept of body drift, i.e., a blend of
-humanity with technology and Foucault's active knowledge
-structures. Students don't absorb but actively shape, create,
-and immerse themselves where education isn't symbolic but a
-tangible, actionable commodity echoing Baudrillard's simulacrum.
-Efforts showcase immediate skills, use of abstraction,
-ontological formation, and problem decomposition.
+An active learning pedagogy complements my
+instruction by leveraging Colab, Google Sheets,
+and Github. Drawing inspiration from
+bee festooning, students collaborate in weekly
+JAMs, linking root concepts for effective task
+decomposition like being handed a book and
+having an hour to create tables of all chapters
+and words for text and machine learning.
 
-Augment student learning and engagement with generative pretrained transformers that
-I.	Convert lecture audio to text and integrate into class corpus.
-II.	Use GPT tech to synthesize disparities including lecture notes and textbook.
-III.Email disparity index and aggregate media into a central repository.  
-IV.	Feed repository into a course specific AI agent further supporting student tasks.
-V.	Facilitate upskill and recall mnemonics while postively experiencing a new.REAL of our social fabric.
+An embodiment of a Lacanian real, a Krokeresque
+new.REAL is central to my teaching paradigm.
+Education is a performative act, lived and crafted,
+not passively consumed. This paradigm challenges
+passive learning and draws on Arthur Kroker's
+concept of body drift, i.e., a blend of humanity
+with technology and Foucault's active knowledge
+structures. Students don't absorb but actively
+shape, create, and immerse themselves. Education
+isn't a symbolic un.REAL but a tangible,
+actionable commodity echoing Baudrillard's simulacra.
+The new.REAL demands deeper requiring use of
+abstraction and ontological formation skilling.
 
+Augment student learning and engagement is furthered
+ using generative pretrained transformers that
+a) Convert lecture audio to text and integrate
+=> into class corpus.
+b) Use GPT tech to synthesize disparities, including
+=> lecture notes and textbooks.
+c) Email disparity index and aggregate media
+=> into a central repository.  
+d) Feed repository into a course specific AI agent,
+=> further supporting student tasks.
+e) Facilitate upskilling and recall mnemonics
+=> while experiencing a new.REAL of our social fabric.
 
 ```
 
