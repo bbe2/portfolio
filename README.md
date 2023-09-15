@@ -9,8 +9,9 @@ hands-on programming and curriculum instruction
 >>> Jun 20th, 1787  
 
 ## portfolio  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12580785/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614592/brian.hogan.portfolio.links.pdf)  
+[a.brian.hogan.cv - Copy.pdf](https://github.com/bbe2/portfolio/files/12614610/a.brian.hogan.cv.-.Copy.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614614/brian.hogan.portfolio.links.pdf)  
+
 
 [`portfolio.home`](https://github.com/bbe2/portfolio.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
