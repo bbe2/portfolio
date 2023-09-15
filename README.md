@@ -2,7 +2,7 @@
 ```
 I equip students with immediate, tangible
 skills and preparedness to exceed employer
-expectations on day 1.
+expectations day 1.
 ``` 
 
 - hands-on programming and curriculum instruction  
@@ -38,7 +38,7 @@ expectations on day 1.
 ```
 I equip students with immediate, tangible
 skills and preparedness to exceed employer
-expectations on day 1. 
+expectations day 1. 
 
 Currently, I instruct foundational compute from
 machine and assembly with LC-3 via patt/patel to C++.
