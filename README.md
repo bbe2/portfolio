@@ -1,5 +1,6 @@
 ## [instructor.brian](https://github.com/bbe2/instructor.brian)  
-```I equip students with immediate, tangible
+```
+I equip students with immediate, tangible
 skills and preparedness to exceed employer
 expectations on day 1.
 ``` 
