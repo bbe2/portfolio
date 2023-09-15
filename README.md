@@ -12,7 +12,7 @@ hands-on programming and curriculum instruction
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12580785/a.brian.hogan.cv.pdf)  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12580656/brian.hogan.portfolio.links.pdf)  
 
-[`home.portfolio`](https://github.com/bbe2/portfolio.brian)  
+[`portfolio.home`](https://github.com/bbe2/portfolio.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
