@@ -60,6 +60,5 @@ Assisted in evaluating call bell signal standardization across units to help dis
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
 [`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )  
-[`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
 [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
