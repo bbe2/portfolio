@@ -1,4 +1,4 @@
-## instructor.brian  
+## [instructor.brian](https://github.com/bbe2/instructor.brian)  
 hands-on programming and curriculum instruction  
 - strategist with deep practice in process re-engineering  
 - Thank you for learning about my skills!  
