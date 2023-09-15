@@ -21,17 +21,25 @@ https://github.com/bbe2/portfolio/blob/%3E_7_Pillars_of_Python/zipper.pdf
 
 ![weird](https://user-images.githubusercontent.com/59778456/226056820-7252c500-ef94-4c0d-8358-e5b5b496dd9b.JPG)
 
-**Portfolio**  https://github.com/bbe2/portfolio  
-• tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
-• code_______________________https://github.com/bbe2/portfolio/tree/code  
-• google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• google.ML.certification___https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
-• master.of.science.port_____https://github.com/bbe2/portfolio/tree/master_portfolio  
-• multimedia.styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• reengineering______________https://github.com/bbe2/portfolio/tree/reengineering  
-• recommendations_________https://github.com/bbe2/portfolio/tree/reference_recommend  
-• research.experience_______https://github.com/bbe2/portfolio/tree/research_experience  
-• scientific.editing___________https://github.com/bbe2/portfolio/tree/scientific_edit  
-• teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
-• technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
-• >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+## jeffersonian reengineering essentials   
+> The whole and patch should be commensurate.  
+>> Thomas Jefferson to James Madison  
+>>> Jun 20th, 1787  
+
+## portfolio  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf)  
+
+[`portfolio.home`](https://github.com/bbe2/portfolio)  
+[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
+[`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`university.courses`](https://github.com/bbe2/instructor.brian)  
+[`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
+[`code`](https://github.com/bbe2/portfolio/tree/code)  
+[`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
+[`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
+[`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )  
+[`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
+[`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
+[`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
