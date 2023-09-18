@@ -1,5 +1,8 @@
 • Thank you for your time learning about my substance! ~brianh  
-• this page => technical curriculum development and Google Content Writer portfolio    
+• this page => technical curriculum development and Google Content Writer portfolio   
+
+[coursera.google.course.2023](https://www.coursera.org/learn/get-started-with-python)  
+![g coursera get start w python](https://github.com/bbe2/portfolio/assets/59778456/80c06d80-14e0-47c9-b750-d44c8c045fee)  
 
 ::: full google test script and notebook above as items a and b  
 ::: ensure to check out my systems and design class https://github.com/bbe2/IT.304.Fall.2022  
