@@ -22,21 +22,19 @@ me? lead writer course 2 - get started with python
 
 ## EXPLO - Curriculm content for 2 week intensive AI course  
 
-![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/217046477-48968c5c-39d1-47b6-ad13-fc648f8e5e76.JPG)
+![g_syllabus_git_image](https://user-images.githubusercontent.com/59778456/217046477-48968c5c-39d1-47b6-ad13-fc648f8e5e76.JPG)  
 
-
-
-**Portfolio**  https://github.com/bbe2/portfolio  
-• tutor.an.volunteer_________https://github.com/bbe2/portfolio/tree/coach_tutor_volunteer  
-• code_______________________https://github.com/bbe2/portfolio/tree/code  
-• google.content.writer_____https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG  
-• google.ML.certification___https://github.com/bbe2/portfolio/tree/google_Prof_ML_eng_cert  
-• master.of.science.port_____https://github.com/bbe2/portfolio/tree/master_portfolio  
-• multimedia.styleguide_____https://github.com/bbe2/portfolio/tree/multimedia_styleguide  
-• reengineering______________https://github.com/bbe2/portfolio/tree/reengineering  
-• recommendations_________https://github.com/bbe2/portfolio/tree/reference_recommend  
-• research.experience_______https://github.com/bbe2/portfolio/tree/research_experience  
-• scientific.editing___________https://github.com/bbe2/portfolio/tree/scientific_edit  
-• teaching___________________https://github.com/bbe2/portfolio/tree/teaching  
-• technical.writing___________https://github.com/bbe2/portfolio/tree/tech_write  
-• >_7.py.pillars_______________https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python  
+## portfolio  
+[`home.portfolio`](https://github.com/bbe2/portfolio)  
+[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
+[`portfolio.industrial.reengineering.simulation`](https://github.com/bbe2/portfolio/tree/reengineering)  
+[`university.courses`](https://github.com/bbe2/instructor.brian)  
+[`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
+[`code`](https://github.com/bbe2/portfolio/tree/code)  
+[`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
+[`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
+[`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )  
+[`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
+[`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
+[`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
