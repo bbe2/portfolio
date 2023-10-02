@@ -28,6 +28,8 @@ https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project
 ## portfolio  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12614619/a.brian.hogan.cv.pdf)  
+[b.hogan.industrial.reengineering.matrix.pdf](https://github.com/bbe2/portfolio/files/12783621/b.hogan.industrial.reengineering.matrix.pdf)  
+
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
