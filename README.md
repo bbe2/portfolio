@@ -32,6 +32,8 @@ expectations on day 1.
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 
+![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
+
 ## [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 ```
 I equip students with immediate, tangible
@@ -98,5 +100,4 @@ Spring 2023
 2022  
 -- [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
 
-![(evaluation) student kegan 04 13 2023](https://github.com/bbe2/professor/assets/59778456/356cefc6-475e-472f-8b75-e23c5b5b38b9)
-![COMPLIMENT Jackson](https://github.com/bbe2/professor/assets/59778456/55b15676-2ea6-490f-9bc1-86e85acf230a)  
+
