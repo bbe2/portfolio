@@ -15,7 +15,8 @@ expectations on day 1.
 
 ## portfolio  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf)  
-[a.b.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12655698/a.b.brian.hogan.cv.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
+
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
