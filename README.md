@@ -1,22 +1,16 @@
-welcome and thank you for visiting!  
+ ## brian.hogan Portfolio Home  
+- Thank you for visting and  learning about my skills!  
+[instructor.brian](https://github.com/bbe2/instructor.brian)   
 ```
-I equip students with immediate, tangible
-skills and preparedness to exceed employer
-expectations on day 1.
+I endeavor to equip students with immediate, tangible  
+skills for prepardedness and career sustainability.  
 ``` 
-- hands-on programming and curriculum instruction  
-- strategist with deep practice in process re-engineering  
-- Thank you for learning about my skills! [instructor.brian](https://github.com/bbe2/instructor.brian)  
-
-## jeffersonian reengineering essentials   
-> The whole and patch should be commensurate.  
->> Thomas Jefferson to James Madison  
->>> Jun 20th, 1787  
+- fierce programming and curriculum instruction  
+- strategist with deep practioner re-engineering experience  
 
 ## portfolio  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
-
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
@@ -34,6 +28,12 @@ expectations on day 1.
 
 
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
+
+## jeffersonian reengineering essentials   
+> The whole and patch should be commensurate.  
+>> Thomas Jefferson to James Madison  
+>>> Jun 20th, 1787
+
 
 ## [instructor.home.page](https://github.com/bbe2/instructor.brian)  
 ```
