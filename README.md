@@ -4,10 +4,12 @@
 ```
 I endeavor to equip students with immediate, tangible  
 skills for prepardedness and career sustainability.  
-``` 
-- fierce programming and curriculum instruction  
-- strategist with deep practioner re-engineering experience  
+```
 
+## jeffersonian reengineering 101  
+### The whole and patch should be commensurate  
+#=> T. Jefferson letter to James Madison, 20th June 1787  
+ 
 ## portfolio  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
@@ -29,10 +31,7 @@ skills for prepardedness and career sustainability.
 
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
 
-## jeffersonian reengineering essentials   
-> The whole and patch should be commensurate.  
->> Thomas Jefferson to James Madison  
->>> Jun 20th, 1787
+
 
 
 ## [instructor.home.page](https://github.com/bbe2/instructor.brian)  
@@ -88,8 +87,8 @@ e) Facilitate upskilling and recall mnemonics
 
 ```
 
-## Fall 2023 - course.page.links
--- [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU 
+## Fall 2023 - course.page.links  
+-- [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
 -- [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
 -- [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
