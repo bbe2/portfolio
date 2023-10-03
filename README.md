@@ -1,5 +1,5 @@
  ## brian.hogan Portfolio Home  
-- Thank you for visting and  learning about my skills!  
+➢ Thank you for visting and  learning about my skills!  
 [instructor.brian](https://github.com/bbe2/instructor.brian)   
 ```
 I endeavor to equip students with immediate, tangible  
@@ -7,12 +7,15 @@ skills for prepardedness and career sustainability.
 ```
 
 ## jeffersonian reengineering 101  
-### The whole and patch should be commensurate  
-#=> T. Jefferson letter to James Madison, 20th June 1787  
+```
+The whole and patch should be commensurate.
+```
+T. Jefferson letter to James Madison  
+20th June 1787  
+
  
 ## portfolio  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf) / [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
@@ -88,16 +91,16 @@ e) Facilitate upskilling and recall mnemonics
 ```
 
 ## Fall 2023 - course.page.links  
--- [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
--- [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
--- [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
+➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
+➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
 
 Spring 2023  
--- [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
--- [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
--- [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
+➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
+➢ [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
+➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
 
 2022  
--- [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
 
 
