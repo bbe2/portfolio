@@ -1,6 +1,6 @@
  ## brian.hogan Portfolio Home  
-➢ Thank you for visting and  learning about my skills!  
-[instructor.brian](https://github.com/bbe2/instructor.brian)   
+Thank you for visting and  learning about my skills! [instructor.brian](https://github.com/bbe2/instructor.brian)   
+
 ```
 I endeavor to equip students with immediate, tangible  
 skills for prepardedness and career sustainability.  
@@ -14,7 +14,7 @@ T. Jefferson letter to James Madison
 20th June 1787  
 
  
-## portfolio  
+## links  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf) / [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
@@ -35,60 +35,8 @@ T. Jefferson letter to James Madison
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
 
 
-
-
 ## [instructor.home.page](https://github.com/bbe2/instructor.brian)  
-```
-I equip students with immediate, tangible
-skills and preparedness to exceed employer
-expectations on day 1. 
 
-Currently, I instruct foundational compute from
-machine and assembly with LC-3 via patt/patel to C++.
-My expertise spans theoretical system design,
-practical re-engineering, data transformation,
-essential programming, and STEM communication.
-I'm grateful for my quality master's in data
-science that upskilled my ability to author
-graduate courses like COSC-526 data mining with Spark.
-
-An active learning pedagogy complements my
-instruction by leveraging Colab, Google Sheets,
-and Github. Drawing inspiration from
-bee festooning, students collaborate in weekly
-JAMs, linking root concepts for effective task
-decomposition like being handed a book and
-having an hour to create tables of all chapters
-and words for text and machine learning.
-
-An embodiment of a Lacanian real, a Krokeresque
-new.REAL is central to my teaching paradigm.
-Education is a performative act, lived and crafted,
-not passively consumed. This paradigm challenges
-passive learning and draws on Arthur Kroker's
-concept of body drift, i.e., a blend of humanity
-with technology and Foucault's active knowledge
-structures. Students don't absorb but actively
-shape, create, and immerse themselves. Education
-isn't a symbolic un.REAL but a tangible,
-actionable commodity echoing Baudrillard's simulacra.
-The new.REAL demands deeper requiring use of
-abstraction and ontological formation skilling.
-
-Augment student learning and engagement is furthered
- using generative pretrained transformers that
-a) Convert lecture audio to text and integrate
-=> into class corpus.
-b) Use GPT tech to synthesize disparities, including
-=> lecture notes and textbooks.
-c) Email disparity index and aggregate media
-=> into a central repository.  
-d) Feed repository into a course specific AI agent,
-=> further supporting student tasks.
-e) Facilitate upskilling and recall mnemonics
-=> while experiencing a new.REAL of our social fabric.
-
-```
 ## Course links  
 Fall 2023  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
@@ -102,5 +50,3 @@ Spring 2023
 
 2022  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
-
-
