@@ -35,7 +35,7 @@ T. Jefferson letter to James Madison
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
 
 ## Course links  
-[instructor.home.page](https://github.com/bbe2/instructor.brian)  
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
 Fall 2023  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
