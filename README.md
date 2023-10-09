@@ -18,7 +18,7 @@ Thank you for your time learning about my substance! ~brianh
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
-[`university.courses`](https://github.com/bbe2/instructor.brian)  
+[`instructor.brian`](https://github.com/bbe2/instructor.brian)  
 [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
 [`code`](https://github.com/bbe2/portfolio/tree/code)  
 [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
