@@ -13,8 +13,9 @@ letter, 20th June 1787
 
  
 ## links  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
-[brian.hogan.portfolio.links.pdf]
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12887278/a.brian.hogan.cv.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12887277/brian.hogan.portfolio.links.pdf)  
+
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
