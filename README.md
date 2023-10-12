@@ -11,17 +11,17 @@ skills for prepardedness and career sustainability.
 The whole and patch should be commensurate.
 ```
 T. Jefferson letter to James Madison  
-20th June 1787  
+20th June 1787 
 
  
 ## links  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12655699/brian.hogan.portfolio.links.pdf) / [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783976/a.brian.hogan.cv.pdf)  
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
-[`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
+[`>_7.py.pillars`](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)
 [`code`](https://github.com/bbe2/portfolio/tree/code)  
 [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
@@ -49,3 +49,8 @@ Spring 2023
 
 2022  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
+➢ [Get Started with Python](https://www.coursera.org/learn/get-started-with-python) lead.writer at Google Learning Lab   
+➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python) (specialized data object transformation)  
+➢ [Alert Innovation](https://www.alertinnovation.com/)- wrote ASRS robotic and robotic structure user guides, repair, and service manuals  
+
+----  
