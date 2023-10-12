@@ -17,6 +17,7 @@ letter, 20th June 1787
 [brian.hogan.portfolio.links.pdf]
 
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
 [`university.courses`](https://github.com/bbe2/instructor.brian)  
