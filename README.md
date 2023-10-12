@@ -33,7 +33,10 @@ T. Jefferson letter to James Madison
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
 
 
+
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
+
+
 
 ## Course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
