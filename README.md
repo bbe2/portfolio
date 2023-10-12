@@ -1,5 +1,5 @@
  ## brian.hogan Portfolio Home  
-Thank you for visting and  learning about my skills! [instructor.brian](https://github.com/bbe2/instructor.brian)   
+Thank you for visting and  learning about my skills! [instructor.brian.email](b.hogan@snhu.edu)   
 
 ```
 I endeavor to equip students with immediate, tangible  
