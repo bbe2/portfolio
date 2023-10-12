@@ -7,11 +7,9 @@ data wrangling, machine learning, stats, and systems thinking.
 ```
 
 ## jeffersonian reengineering 101  
-```
-The whole and patch should be commensurate.
-```
-T. Jefferson letter to James Madison  
-20th June 1787  
+> The whole and patch should be commensurate  
+>>  T. Jefferson to J. Madison  
+letter, 20th June 1787  
 
  
 ## links  
