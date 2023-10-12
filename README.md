@@ -2,8 +2,8 @@
 Thank you for visting and  learning about my skills! [instructor.brian.email](b.hogan@snhu.edu)   
 
 ```
-I endeavor to equip students with immediate, tangible  
-skills for prepardedness and career sustainability.  
+I equip students with fierce skills in
+data wrangling, machine learning, stats, and systems thinking. 
 ```
 
 ## jeffersonian reengineering 101  
