@@ -25,13 +25,9 @@ https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project
 >> Thomas Jefferson to James Madison  
 >>> Jun 20th, 1787  
 
-## portfolio  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
-
 [b.hogan.industrial.reengineering.matrix.pdf](https://github.com/bbe2/portfolio/files/12783621/b.hogan.industrial.reengineering.matrix.pdf)  
 
-
+## portfolio  
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
