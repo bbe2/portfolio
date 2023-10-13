@@ -26,8 +26,8 @@ https://github.com/bbe2/portfolio/blob/reengineering_evidence/a_overview_project
 >>> Jun 20th, 1787  
 
 ## portfolio  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12614650/brian.hogan.portfolio.links.pdf)  
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12783901/a.brian.hogan.cv.pdf)  
+[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
+[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
 
 [b.hogan.industrial.reengineering.matrix.pdf](https://github.com/bbe2/portfolio/files/12783621/b.hogan.industrial.reengineering.matrix.pdf)  
 
