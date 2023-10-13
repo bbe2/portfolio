@@ -13,8 +13,6 @@ https://www.emsdiasum.com/nightsea-fluorescence-viewing-systems
 ![alpha](https://user-images.githubusercontent.com/59778456/225686016-5dd735d8-141d-42e2-b16b-f2d0d241b386.JPG)
 
 ## portfolio  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12863879/brian.hogan.portfolio.links.pdf)
-
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
