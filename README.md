@@ -10,8 +10,7 @@ Thank you for visting and  learning about my skills! [instructor.brian.email](b.
 letter, 20th June 1787  
 
  
-## portfolio links  
-[brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
+## portfolio links [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
