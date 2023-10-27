@@ -6,7 +6,7 @@ Thank you for visting and  learning about my skills! [instructor.brian.email](b.
 
 ## jeffersonian reengineering 101  
 > The whole and patch should be commensurate  
->>  T. Jefferson to J. Madison  
+>>  Thomas Jefferson to James Madison  
 letter, 20th June 1787  
 
  
