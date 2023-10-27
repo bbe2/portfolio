@@ -2,8 +2,7 @@
 Thank you for visting and  learning about my skills! [instructor.brian.email](b.hogan@snhu.edu)   
 
 ```
-I equip students with fierce skills in
-data wrangling, machine learning, stats, and systems thinking. 
+I equip students with data wrangling, machine learning, statistics, and systems thinking skills.  
 ```
 
 ## jeffersonian reengineering 101  
@@ -12,7 +11,7 @@ data wrangling, machine learning, stats, and systems thinking.
 letter, 20th June 1787  
 
  
-## links  
+## portfolio links  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
 
@@ -38,7 +37,7 @@ letter, 20th June 1787
 
 
 
-## Course links  
+## university course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
 Fall 2023  
