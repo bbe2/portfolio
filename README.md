@@ -1,9 +1,8 @@
  ## brian.hogan Portfolio Home  
 Thank you for visting and  learning about my skills! [instructor.brian.email](b.hogan@snhu.edu)   
 
-```
-I equip students with data wrangling, machine learning, statistics, and systems thinking skills.  
-```
+➢ I equip students with data wrangling, machine learning, statistics, and systems thinking skills.  
+
 
 ## jeffersonian reengineering 101  
 > The whole and patch should be commensurate  
@@ -14,27 +13,17 @@ letter, 20th June 1787
 ## portfolio links  
 [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/12888855/a.brian.hogan.cv.pdf)  
-
-
 [`portfolio.home`](https://github.com/bbe2/portfolio)  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
-[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 [`portfolio.industrial.reengineering`](https://github.com/bbe2/portfolio/tree/reengineering)  
-[`university.courses`](https://github.com/bbe2/instructor.brian)  
-[`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)   
-[`code`](https://github.com/bbe2/portfolio/tree/code)  
-[`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms)  
+[`code`](https://github.com/bbe2/portfolio/tree/code) [`algorithms`](https://github.com/bbe2/professor.full.brain/tree/algorithms) [`>_7.py.pillars`](https://github.com/bbe2/portfolio/tree/%3E_7_Pillars_of_Python)  
 [`google.content.writer`](https://github.com/bbe2/portfolio/tree/tech_curriculum_an_GwG)  
 [`recommendations`](https://github.com/bbe2/portfolio/tree/reference_recommend)    
-[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience )  
-[`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit)  
-[`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
+[`research.experience`](https://github.com/bbe2/portfolio/tree/research_experience ) [`scientific.editing`](https://github.com/bbe2/portfolio/tree/scientific_edit) [`technical.writing`](https://github.com/bbe2/portfolio/tree/tech_write)  
 [`tutor.an.volunteer`](https://github.com/bbe2/portfolio/tree/tutor_volunteer)  
-
-
+[`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
-
 
 
 ## university course links  
