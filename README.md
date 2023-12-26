@@ -1,6 +1,7 @@
 Thank you for your time learning about my substance! ~brianh
 • this page => reeningeering evidence  
 ---------
+[b.hogan.system.knowledge.ontologies.and.analysis.representations.pdf](https://github.com/bbe2/portfolio/files/13773805/b.hogan.system.knowledge.ontologies.and.analysis.representations.pdf)  
 
 **Project Manager and Consultant, ProModel, Orem, UT** 2004 - 2016  
 
