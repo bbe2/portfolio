@@ -1,13 +1,26 @@
  ## brian.hogan Portfolio Home  
-Thank you for visting and  learning about my skills! [instructor.brian.email](b.hogan@snhu.edu)   
-
-➢ I equip students with data wrangling, machine learning, statistics, and systems thinking skills.  
-
+➢ I equip students with data wrangling, machine learning, programming, and systems thinking skills.  
+➢ I worked for many years as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals.  
+➢ Thank you for visting and learning about my skills! ~instructor.brian  
+bhogan@clarku.edu
 
 ## jeffersonian reengineering 101  
 > The whole and patch should be commensurate  
 >>  Thomas Jefferson to James Madison  
 letter, 20th June 1787  
+
+## university course links  
+[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+
+Fall 2023  
+➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
+➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
+
+Spring 2023   
+➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
+➢ [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
+➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
 
  
 ## portfolio links [brian.hogan.portfolio.links.pdf](https://github.com/bbe2/portfolio/files/12888856/brian.hogan.portfolio.links.pdf)  
@@ -23,27 +36,3 @@ letter, 20th June 1787
 [`portfolio.master.of.science`](https://github.com/bbe2/portfolio/tree/master_portfolio)  
 
 ![g b hogan industrial reengineering profile](https://github.com/bbe2/portfolio/assets/59778456/496379b6-e566-43da-938c-6d8e7f2e4142)  
-
-
-## university course links  
-[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
-
-Fall 2023  
-➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
-➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
-➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
-
-Spring 2023   
-➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
-➢ [ct.144.Intermediate.C++, Summer I](https://github.com/bbe2/professor/tree/ct.144.intermedat.C%2B%2B)->benjamin franklin institute  
-➢ [it.226.technical.communication.w.AI](https://github.com/bbe2/professor/tree/it.226.technical.communication.w.ai)-> snhu  
-
-2022  
-➢ [it.304.system.design.analysis](https://github.com/bbe2/IT.304.Fall.2022)->snhu  
-➢ [>_7.pillars.of.python](https://github.com/bbe2/instructor.brian/tree/7.pillars.of.python)-> ICARUS-AI  
-
-2021  
-➢ [Alert Innovation](https://www.alertinnovation.com/) wrote ASRS robotic and structure repair, service, and user manuals  
-
-[template.your.name.portfolio.links.docx](https://github.com/bbe2/portfolio/files/13209957/template.your.name.portfolio.links.docx)  
-[1.Outcome.Shared.sample.i.ii.iii-BH-QuantHub.scholarly.analysis.pdf](https://github.com/bbe2/portfolio/files/13996668/1.Outcome.Shared.sample.i.ii.iii-BH-QuantHub.scholarly.analysis.pdf)
