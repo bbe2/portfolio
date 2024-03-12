@@ -1,8 +1,8 @@
- ## brian.hogan Portfolio Home  
-➢ I equip students with data wrangling, machine learning, programming, and systems thinking skills.  
-➢ I worked for many years as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals.  
-➢ Thank you for visting and learning about my skills! ~instructor.brian  
-bhogan@clarku.edu
+ ## brian.hogan Portfolio Home   
+➢ I equip students with data wrangling, machine learning, programming, and systems thinking skills  
+➢ Worked for many years as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals  
+➢ Thank you for visting and learning about my skills! ~instructor.brian   
+bhogan@clarku.edu, bhogan@endicott.edu  
 
 ## jeffersonian reengineering 101  
 > The whole and patch should be commensurate  
