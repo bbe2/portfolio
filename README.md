@@ -5,9 +5,8 @@
 bhogan@clarku.edu, bhogan@endicott.edu  
 
 ## jeffersonian reengineering 101  
-> The whole and patch should be commensurate  
->>  Thomas Jefferson to James Madison  
-letter, 20th June 1787  
+> "The whole and patch should be commensurate."  
+>>  Thomas Jefferson to James Madison (20th June 1787)  
 
 ## university course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
