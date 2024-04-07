@@ -5,6 +5,8 @@
 me? lead writer course 2 - get started with python  
 [coursera.google.course.2023](https://www.coursera.org/learn/get-started-with-python)  
 
+![g get start w python](https://github.com/bbe2/portfolio/assets/59778456/1bff54bb-471c-45fb-b267-76fda008594a)
+
 ![g coursera get start w python](https://github.com/bbe2/portfolio/assets/59778456/80c06d80-14e0-47c9-b750-d44c8c045fee)  
 
 ## Google entrance exam 1 of 2  
