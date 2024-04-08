@@ -1,22 +1,48 @@
  ## brian.hogan Portfolio Home   
 ➢ I equip students with data wrangling, machine learning, programming, and systems thinking skills  
-➢ Worked for many years as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals  
+➢ professor of practice as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals  
 ➢ Thank you for visting and learning about my skills! ~instructor.brian   
-bhogan@clarku.edu, bhogan@endicott.edu  
+- <bhogan@clarku.edu>, <bhogan@endicott.edu>
 [a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/14898907/a.brian.hogan.cv.pdf)
-
-
-## jeffersonian reengineering 101  
-> "The whole and patch should be commensurate."  
->>  Thomas Jefferson to James Madison (20th June 1787)  
 
 ## university course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+
+-------------
+### => **new** **`how.To templates`**  
+➢ methodology and tools to perform high quality information exchanges  
+➢ **PLEASE** make a copy and use as your own and.or make comments  
+➢ [how.To.INformation.Synthesis___--> prepare.and.Apply.to.BIG.posoitions.l](https://docs.google.com/document/d/1qlqpbJyMVOGaLuswjlRD1ZKvXutZk5N1IGpMZ4CNkOc/edit?usp=sharing)  
+➢ [how.To.Write.Reccommendation --> LinkedIn with characteristic ontological analysis](https://docs.google.com/document/d/1gqxm7BhsH2d27BsuvaG3HDBu0CTQT2eVKzbjRxHLe34/edit?usp=sharing)  
+➢ [how.To.machine.learning_______--> essentials](https://github.com/bbe2/instructor.brian/tree/how.To.machine.learning)  
+
+--------
+
+**`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
+
+➢ CSC265 Discrete Structures => [Zybook.Discrete.Math](https://www.zybooks.com/catalog/discrete-mathematics/)  
+➢ CSC160/160L Introduction to Programming  
+➢ CSC160L Introduction to Programming Lab  
+> text.book=> [Discovering Computer Science by Jessen Havill](https://www.discoveringcs.net/)  
+> cloud.IDE=> https://www.codingrooms.com/  
+
+--------
+
+**`Fall 2023`**  - Clark University, Quanthub, SNHU 
+
+➢ [k-12.Generative.AI.curriculum.analysis.for.state.of.Alabama.via.quanthub](https://github.com/bbe2/instructor.brian/tree/k.12.gen.ai.alabama) ->Quanthub  
+➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
+➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
+➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
+
+--------
 
 Fall 2023  
 ➢ [mscs.3050.software.engineering](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages) ->clarkU  
 ➢ [mscs.3070.survey.of.systems.and.programming.languages](https://github.com/bbe2/instructor.brian/tree/mscs.3070.survey.of.systems.and.programming.languages)->clarkU  
 ➢ [it.304.system.design.analysis](https://github.com/bbe2/instructor.brian/tree/it.304.fall.2023)->snhu  
+
+--------
 
 Spring 2023   
 ➢ [cosc.526.introduction.to.data.mining](https://github.com/bbe2/professor/tree/cosc.526.intro.to.data.Mining.utk.edu)->utk.edu via noodle  
