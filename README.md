@@ -3,8 +3,6 @@
 ➢ professor of practice as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals  
 ➢ Thank you for visting and learning about my skills! ~instructor.brian   
 - <bhogan@clarku.edu>, <bhogan@endicott.edu>
-[a.brian.hogan.cv.pdf](https://github.com/bbe2/portfolio/files/14898907/a.brian.hogan.cv.pdf)
-
 ## university course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
