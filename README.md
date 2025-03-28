@@ -18,7 +18,7 @@
 
 **`Spring 2024`**  - [Endicott College](https://www.endicott.edu/academics/schools/science-technology)  
 
-➢ CSC265 Discrete Structures => (google drive)[https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing]
+➢ CSC265 Discrete Structures => [google drive](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)
 
 ➢ CSC160/160L Introduction to Programming  
 ➢ CSC160L Introduction to Programming Lab  
