@@ -1,11 +1,13 @@
-• Thank you for your time learning about my substance! ~brianh  
+![g get start w google 2025 user count](https://github.com/user-attachments/assets/a4f10af7-6fb6-411d-9c3b-f7b33fa7bb71)• Thank you for your time learning about my substance! ~brianh  
 • this page => technical curriculum development and Google Content Writer portfolio   
 ## Google's advanced data analytics  
 me? lead writer course 2 - get started with python  
 [coursera.google.course.2023](https://www.coursera.org/learn/get-started-with-python)  
 
 2025: 119,340  
-![g get start w python](g.get.start.w.google.2025.user.count.png)
+![g get start w python](![Uploading g.get.![g get start w google 2025 user count](https://github.com/user-attachments/assets/916a2a3b-8c97-41ec-a621-ab47a9ddc63b)
+start.w.google.2025.user.count.png…]()
+
 
 ![g get start w python](https://github.com/bbe2/portfolio/assets/59778456/1bff54bb-471c-45fb-b267-76fda008594a)
 
