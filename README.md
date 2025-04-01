@@ -1,9 +1,11 @@
 • Thank you for your time learning about my substance! ~brianh  
 • this page => technical curriculum development and Google Content Writer portfolio   
-
 ## Google's advanced data analytics  
 me? lead writer course 2 - get started with python  
 [coursera.google.course.2023](https://www.coursera.org/learn/get-started-with-python)  
+
+2025: 119,340  
+![g get start w python]()
 
 ![g get start w python](https://github.com/bbe2/portfolio/assets/59778456/1bff54bb-471c-45fb-b267-76fda008594a)
 
