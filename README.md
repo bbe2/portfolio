@@ -1,8 +1,21 @@
  ## brian.hogan Portfolio Home   
-➢ I equip students with data wrangling, machine learning, programming, and systems thinking skills  
-➢ professor of practice as an industrial simulation engineer in defense, manufacturing, and pharmaceuticals  
-➢ Thank you for visting and learning about my skills! ~instructor.brian   
-- <bhogan@clarku.edu>, <bhogan@endicott.edu>
+
+The neurosymbolic AI framework (below) transforms structured knowledge, like textbooks, into ontology-engineered knowledge bytes for large language models (LLMs) to dynamically assemble learning media. Research (Mai et al., 2024) confirms LLMs struggle with structured knowledge extraction, relying more on pre-trained lexical patterns than true domain reasoning, aligning with my findings in hyper-plane transformations of textbook content. LLMs behave differently with higher-order knowledge—almost as if humans don’t fully understand language. LLMs exceed expectations in coding, reasoning, and abstract problem-solving, suggesting language processing isn’t just about syntax and semantics (Chomsky, 1951) but emergent reasoning structures beyond current understanding -computational complexity (Kempes, et al,2024).  
+└─> Plain English: < neuronal AI mechanisms suggest humans don’t grok language>  
+
+My engineered prompts are **high-fidelity knowledge processors**, dynamically adjusting **content and exercises** to enhance comprehension. Lexical semantics and linguistic structures adapt **plain English** for clarity using NLP controlled natural language mechanisms. Scientific literature informs its architecture, integrating cognitive load theory (Sweller et al., 2019) and KLI modeling (Koedinger et al).  
+
+Orthodox Rabbinical scholars start memorizing Leviticus at age 5—a 5,785-year tradition preserved by only 2% of the world’s population. This rigorous memorization fosters exceptional textual mastery like Rabbi Shimon bar Yochai’s sefer Zohar. Smart tech erodes root memorization, and America's dont value it.' #Imagine the impact if high school students engaged in structured AI cognitive training astrobiology, chemistry, philosophy, and physics. Rabbinical evidence supports young learners# ’vast gray matter potential’. Assembly theory and computational complexity (Kemps, et al, 2024) suggests cultivating it early may extend cognitive complexity via genetics carried forward across generations. ~instructor.brian  
+
+∇ >_ AI Learning Assistants with Ontology-engineered Knowledge Bytes [h2]  
+└>_'∇ methods ➤' neurosymbolic architecture transforming structured knowledge into AI learning assistants  
+  ├> whatz.this?:: ontology engineering with 3D phenomena enables clear and precise AI interactive agents  
+  └> why.matters:: bridges symbolic reasoning refining NLP to optimize gen AI’s self-improving inference   
+
+![Screenshot 2025-04-21 7 19 06 PM](https://github.com/user-attachments/assets/cfe520fe-6d43-4c70-91c3-2326716a2ad4)
+
+- [full research statement and examples](https://drive.google.com/file/d/1-XbLvAT4cUWc2cNxOgsKBfpkh_qW7tY_/view?usp=drive_link)  
+
 ## university course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
