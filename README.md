@@ -1,3 +1,4 @@
+https://colab.research.google.com/drive/1YCxRhiHv8jiu7DZekkVcOCjP5UnbkKA-?usp=drive_link
  ## brian.hogan Portfolio Home   
 
 The neurosymbolic AI framework (below) transforms structured knowledge, like textbooks, into ontology-engineered knowledge bytes for large language models (LLMs) to dynamically assemble learning media. Research (Mai et al., 2024) confirms LLMs struggle with structured knowledge extraction, relying more on pre-trained lexical patterns than true domain reasoning, aligning with my findings in hyper-plane transformations of textbook content. LLMs behave differently with higher-order knowledge—almost as if humans don’t fully understand language. LLMs exceed expectations in coding, reasoning, and abstract problem-solving, suggesting language processing isn’t just about syntax and semantics (Chomsky, 1951) but emergent reasoning structures beyond current understanding -computational complexity (Kempes, et al,2024).  
