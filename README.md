@@ -21,6 +21,15 @@ Orthodox Rabbinical scholars start memorizing Leviticus at age 5—a 5,785-year 
 ## university course links  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
 
+
+--------
+
+**`Juuly 2025`**  - [Immerse Education](https://www.immerse.education/)  
+
+➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
+--> [codebook]([https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
+
+
 -------------
 ### => **new** **`how.To templates`**  
 ➢ methodology and tools to perform high quality information exchanges  
