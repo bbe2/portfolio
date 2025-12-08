@@ -1,30 +1,32 @@
-https://drive.google.com/drive/folders/1FYZD8xdNQPqHNXuaKXEhgy5t6KV2a521?usp=drive_link
-https://colab.research.google.com/drive/1YCxRhiHv8jiu7DZekkVcOCjP5UnbkKA-?usp=drive_link
+
  ## brian.hogan Portfolio Home   
-
-![Screenshot 2025-04-21 7 19 06 PM](https://github.com/user-attachments/assets/cfe520fe-6d43-4c70-91c3-2326716a2ad4)
-
-- [full research statement and examples](https://drive.google.com/file/d/1-XbLvAT4cUWc2cNxOgsKBfpkh_qW7tY_/view?usp=drive_link)  
-
-## university course links  
+## university instruction portfolio  
 [`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+
+- [Neurosymbolic Prompt Codebook employing entropy reduction and applied reinforcement principles to maximize concept acquisition](https://colab.research.google.com/drive/1lNuOIFbgQlhNNWuvZCk2M9yv3pN7VVJG?usp=sharing)   
+- [detailed research statement](https://drive.google.com/file/d/1-XbLvAT4cUWc2cNxOgsKBfpkh_qW7tY_/view?usp=drive_link)  
+
+![Screenshot 2025-04-21 7 19 06 PM](https://github.com/user-attachments/assets/cfe520fe-6d43-4c70-91c3-2326716a2ad4)  
 
 
 --------
 **`Fall 2025`**  - [Regis College - Intro to Programming II](https://www.immerse.education/)  
 
-➢ [syllabus]()
-➢ [Coding project portfolio - non.student]()  
+➢ [syllabus](https://docs.google.com/document/d/1BmQRHBPMuwYC5jtXvDs4UqhiMhGWWyxC/edit?usp=sharing&ouid=102337878551539739303&rtpof=true&sd=true)  
+➢ [Coding project portfolio - non.student](https://drive.google.com/drive/folders/11T57U1_d_w0gu34fWEQ_r6mfrmz1RWUo?usp=sharing)  
 
 -------------
 
 --------
-**`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
+**`July 2025`**   
+- [Immerse Education](https://www.immerse.education/)  
 
 ➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
---> [codebook](https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
+--> [codebook](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
 
 -------------
+
+
 ### => **new** **`how.To templates`**  
 ➢ methodology and tools to perform high quality information exchanges  
 ➢ **PLEASE** make a copy and use as your own and.or make comments  
