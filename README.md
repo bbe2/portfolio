@@ -1,8 +1,10 @@
 
-## brian.hogan Engineering Portfolio Home
-## [`university instruction portfolio`](https://github.com/bbe2/instructor.brian)  
+➢ [`university instruction portfolio`](https://github.com/bbe2/instructor.brian)  
 
-- [Neurosymbolic Prompt Codebook employing entropy reduction and applied reinforcement principles to maximize concept acquisition](https://colab.research.google.com/drive/1lNuOIFbgQlhNNWuvZCk2M9yv3pN7VVJG?usp=sharing)   
+--------
+## brian.hogan Engineering Portfolio Home
+
+- [Neurosymbolic Prompt Codebook w entropy reduction + applied reinforcement principles for concept acquisition](https://colab.research.google.com/drive/1lNuOIFbgQlhNNWuvZCk2M9yv3pN7VVJG?usp=sharing)   
 - [detailed research statement](https://drive.google.com/file/d/1-XbLvAT4cUWc2cNxOgsKBfpkh_qW7tY_/view?usp=drive_link)  
 
 ![Screenshot 2025-04-21 7 19 06 PM](https://github.com/user-attachments/assets/cfe520fe-6d43-4c70-91c3-2326716a2ad4)  
@@ -16,16 +18,13 @@
 
 -------------
 
---------
-**`July 2025`**   
-- [Immerse Education](https://www.immerse.education/)  
+**`July 2025`**  - [Immerse Education](https://www.immerse.education/)  
 
 ➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
+--> [codebook](https://colab.research.google.com/drive/1XSb8xHnzcm3lTSLU33eLKyyWGvPgGUfW?usp=sharing)  
 --> [codebook](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
 
-
 -------------
-
 
 ### => **new** **`how.To templates`**  
 ➢ methodology and tools to perform high quality information exchanges  
