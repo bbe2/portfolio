@@ -1,7 +1,6 @@
 
- ## brian.hogan Portfolio Home   
-## university instruction portfolio  
-[`instructor.home.page`](https://github.com/bbe2/instructor.brian)  
+## brian.hogan Engineering Portfolio Home
+## [`university instruction portfolio`](https://github.com/bbe2/instructor.brian)  
 
 - [Neurosymbolic Prompt Codebook employing entropy reduction and applied reinforcement principles to maximize concept acquisition](https://colab.research.google.com/drive/1lNuOIFbgQlhNNWuvZCk2M9yv3pN7VVJG?usp=sharing)   
 - [detailed research statement](https://drive.google.com/file/d/1-XbLvAT4cUWc2cNxOgsKBfpkh_qW7tY_/view?usp=drive_link)  
@@ -23,6 +22,7 @@
 
 ➢ [contract for Systems Design and AI](https://drive.google.com/drive/folders/1yZuZDVAHF2KGzscsnqCXIlST7ILT5s-2?usp=sharing)  
 --> [codebook](https://colab.research.google.com/drive/1tzwL3Kxf8DKaF-mznj0OBePcBNnTwizm?usp=sharing)  
+
 
 -------------
 
